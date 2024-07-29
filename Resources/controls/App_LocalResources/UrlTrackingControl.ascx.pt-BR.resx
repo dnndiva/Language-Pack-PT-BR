@@ -28,15 +28,15 @@
     <value xml:space="preserve">Ultimo clic</value>
   </data>
   <data name="StartDate.Text">
-    <value xml:space="preserve">Registrar data inicio</value>
+    <value xml:space="preserve">Registrar data início</value>
   </data>
   <data name="TrackingUrl.Text">
-    <value xml:space="preserve">URL de seguimiento</value>
+    <value xml:space="preserve">URL de seguimento</value>
   </data>
   <data name="URL.Text" lastModified="2015-09-14 13:47:36">
     <value xml:space="preserve">URL</value>
   </data>
   <data name="User.Header">
-    <value xml:space="preserve">Usuario</value>
+    <value xml:space="preserve">Usuário</value>
   </data>
 </root>

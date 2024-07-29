@@ -16,7 +16,7 @@
     <value xml:space="preserve">Adicionar conteúdo</value>
   </data>
   <data name="chkPublish.Text">
-    <value xml:space="preserve">Publicar cambios?</value>
+    <value xml:space="preserve">Publicar mudanças?</value>
   </data>
   <data name="cmdCancel.Text">
     <value xml:space="preserve">Cancelar</value>
@@ -34,7 +34,7 @@
     <value xml:space="preserve">Previsualizar</value>
   </data>
   <data name="cmdSave.Text">
-    <value xml:space="preserve">Guardar</value>
+    <value xml:space="preserve">Salvar</value>
   </data>
   <data name="cmdShowMasterContent.Text">
     <value xml:space="preserve">Mostrar idioma predeterminado</value>
@@ -49,10 +49,10 @@
     <value xml:space="preserve">Data</value>
   </data>
   <data name="Delete.Text">
-    <value xml:space="preserve">Eliminar esta versão</value>
+    <value xml:space="preserve">Deletar esta versão</value>
   </data>
   <data name="DeleteVersion.Confirm">
-    <value xml:space="preserve">Está seguro que quer eliminar definitivamente a versão [VERSION] ([STATE]) que fue criada o [DATECREATED] por [USERNAME]?</value>
+    <value xml:space="preserve">Está seguro que quer deletar definitivamente a versão [VERSION] ([STATE]) que fue criada o [DATECREATED] por [USERNAME]?</value>
   </data>
   <data name="Direct Publish.Text">
     <value xml:space="preserve">Publicação directa</value>
@@ -70,7 +70,7 @@
     <value xml:space="preserve">Versão do idioma padrão</value>
   </data>
   <data name="Edit.Text">
-    <value xml:space="preserve">Activar esta versão</value>
+    <value xml:space="preserve">Ativar esta versão</value>
   </data>
   <data name="EditPreviewState.Text">
     <value xml:space="preserve">Editar previsualização</value>
@@ -94,25 +94,25 @@
     <value xml:space="preserve">Editor avanzado</value>
   </data>
   <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;p&gt;O módulo Text/HTML hace texto plano, texto enriquecido e HTML. Están disponívels 5 vistas diferentes de edição: &lt;/p&gt;
+    <value xml:space="preserve">&lt;p&gt;O módulo Text/HTML hace texto plano, texto enriquecido e HTML. Están disponíveis 5 vistas diferentes de edição: &lt;/p&gt;
 &lt;OL&gt;
-&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / Texto&lt;/STRONG&gt;: Interpretação de texto básico e etiquetas HTML. O texto introducido em uma nova linea é maquetado como um salto de linea. O estilo de texto é Normal como foi establecido em su hoja de estilo. 
-&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / HTML&lt;/STRONG&gt;: Muestra o texto básico em formato HTML.
-&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / Raw&lt;/STRONG&gt;: Muestra o texto básico em formato HTML. O texto introducido em uma nova linea não é interpretado como salto de linea.
+&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / Texto&lt;/STRONG&gt;: Interpretação de texto básico e etiquetas HTML. O texto introduzido em uma nova linea é maquetado como um salto de linea. O estilo de texto é Normal como foi establecido em sua hoja de estilo. 
+&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / HTML&lt;/STRONG&gt;: Mostra o texto básico em formato HTML.
+&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / Raw&lt;/STRONG&gt;: Mostra o texto básico em formato HTML. O texto introduzido em uma nova linea não é interpretado como salto de linea.
 &lt;li&gt;&lt;STRONG&gt;Editor de Texto Enriquecido / HTML&lt;/STRONG&gt;: Permite pegar HTML desde outras fuentes.
-&lt;li&gt;&lt;STRONG&gt;Editor de Texto Enriquecido / Diseño&lt;/STRONG&gt;: Um procesador de texto o editor WYSIWYG (What You See is What You Get) com funcionalidades como hiperenlaces, enlaces de email, Administrador de Arquivos, galería de imágenes, puntos de interrupção, corretor ortográfico, e mucho más.</value>
+&lt;li&gt;&lt;STRONG&gt;Editor de Texto Enriquecido / Diseño&lt;/STRONG&gt;: Um procesador de texto o editor WYSIWYG (What You See is What You Get) com funcionalidades como hiperinterfaces, interfaces de email, Administrador de arquivos, galería de imágenes, pontos de interrupção, corretor ortográfico, e mucho mais.</value>
   </data>
   <data name="NoVersions.Text">
     <value xml:space="preserve">Não há nenhuma versão não histórico para este conteúdo.</value>
   </data>
   <data name="plActionOnSave.Help">
-    <value xml:space="preserve">A ação que o sistema deve ejecutar, además de guardar o conteúdo, quando se pulsa em Guardar.</value>
+    <value xml:space="preserve">A ação que o sistema deve executar, ademais de salvar o conteúdo, quando se pulsa em Salvar.</value>
   </data>
   <data name="plActionOnSave.Text">
-    <value xml:space="preserve">Guardar</value>
+    <value xml:space="preserve">Salvar</value>
   </data>
   <data name="plCurrentWorkflowInUse.Help">
-    <value xml:space="preserve">fluxo de trabalho que está siendo utilizado actualmente.</value>
+    <value xml:space="preserve">fluxo de trabalho que está sindo utilizado atualmente.</value>
   </data>
   <data name="plCurrentWorkflowInUse.Text">
     <value xml:space="preserve">fluxo de trabalho em uso</value>
@@ -124,13 +124,13 @@
     <value xml:space="preserve">Estado do fluxo de trabalho</value>
   </data>
   <data name="plCurrentWorkVersion.Help">
-    <value xml:space="preserve">Muestra o número de versão do conteúdo</value>
+    <value xml:space="preserve">Mostra o número de versão do conteúdo</value>
   </data>
   <data name="plCurrentWorkVersion.Text">
     <value xml:space="preserve">Versão</value>
   </data>
   <data name="plMaxVersions.Help">
-    <value xml:space="preserve">Número máximo de versões que se guardarán.</value>
+    <value xml:space="preserve">Número máximo de versões que se guardarão.</value>
   </data>
   <data name="plMaxVersions.Text">
     <value xml:space="preserve">Número máximo de versões</value>
@@ -154,7 +154,7 @@
     <value xml:space="preserve">Estado do fluxo de trabalho</value>
   </data>
   <data name="plPublish.Help">
-    <value xml:space="preserve">Mostra se o conteúdo está listo para su publicação</value>
+    <value xml:space="preserve">Mostra se o conteúdo está listo para sua publicação</value>
   </data>
   <data name="plPublish.Text">
     <value xml:space="preserve">Publicar</value>
@@ -172,7 +172,7 @@
     <value xml:space="preserve">Verdadero</value>
   </data>
   <data name="User.Header">
-    <value xml:space="preserve">Usuario</value>
+    <value xml:space="preserve">Usuário</value>
   </data>
   <data name="Version.Header">
     <value xml:space="preserve">Versão</value>
@@ -181,9 +181,9 @@
     <value xml:space="preserve">Previsualizar</value>
   </data>
   <data name="VersionsRemove.Text">
-    <value xml:space="preserve">Eliminar</value>
+    <value xml:space="preserve">Deletar</value>
   </data>
   <data name="VersionsRollback.Text">
-    <value xml:space="preserve">Activar versão</value>
+    <value xml:space="preserve">Ativar versão</value>
   </data>
 </root>

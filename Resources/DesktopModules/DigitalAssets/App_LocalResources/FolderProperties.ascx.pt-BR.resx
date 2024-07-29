@@ -37,30 +37,30 @@
     <value xml:space="preserve">General</value>
   </data>
   <data name="lblCopyPerm.Help">
-    <value xml:space="preserve">Cópia as permissões da pasta a sus subpastas.</value>
+    <value xml:space="preserve">Cópia as permissões da pasta a seus subpastas.</value>
   </data>
   <data name="lblCopyPerm.Text">
     <value xml:space="preserve">Cópiar permissões a subpastas:</value>
   </data>
   <data name="PermissionCopyError.Text">
-    <value xml:space="preserve">foi producido um error ao cópiar as permissões.</value>
+    <value xml:space="preserve">foi produzido um erro ao cópiar as permissões.</value>
   </data>
   <data name="PermissionsCopied.Text">
-    <value xml:space="preserve">As permissões foin cópiado corretamente.</value>
+    <value xml:space="preserve">As permissões foi cópiado corretamente.</value>
   </data>
   <data name="PermissionsTab.Text">
     <value xml:space="preserve">Permissões</value>
   </data>
   <data name="SaveButton.Text">
-    <value xml:space="preserve">Guardar</value>
+    <value xml:space="preserve">Salvar</value>
   </data>
   <data name="UserCannotChangePermissionsError.Text">
     <value xml:space="preserve">Não pode mudar as permissões da pasta</value>
   </data>
   <data name="UserCannotEditFolderError.Text">
-    <value xml:space="preserve">Não tem permiso para modificar esta pasta</value>
+    <value xml:space="preserve">Não tem permissão para modificar esta pasta</value>
   </data>
   <data name="UserCannotReadFolderError.Text">
-    <value xml:space="preserve">Não tem permiso para ver esta pasta</value>
+    <value xml:space="preserve">Não tem permissão para ver esta pasta</value>
   </data>
 </root>

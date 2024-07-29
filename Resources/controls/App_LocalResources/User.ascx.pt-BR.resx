@@ -13,40 +13,40 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="plConfirm.Help">
-    <value xml:space="preserve">Vuelva a introducir su contrasenha para confirmarla</value>
+    <value xml:space="preserve">Vuelva a introduzir sua senha para confirmarla</value>
   </data>
   <data name="plConfirm.Text">
     <value xml:space="preserve">Confirmar:</value>
   </data>
   <data name="plEmail.Help">
-    <value xml:space="preserve">Entre su direção email</value>
+    <value xml:space="preserve">Entre sua endereço email</value>
   </data>
   <data name="plEmail.Text">
-    <value xml:space="preserve">Direção email:</value>
+    <value xml:space="preserve">Endereço email:</value>
   </data>
   <data name="plFirstName.Help">
-    <value xml:space="preserve">Entre su nome</value>
+    <value xml:space="preserve">Entre seu nome</value>
   </data>
   <data name="plFirstName.Text">
     <value xml:space="preserve">Nome:</value>
   </data>
   <data name="plIM.Help">
-    <value xml:space="preserve">Entre su ID de Instant Messenger (Skype, Yahoo, Google, etc)</value>
+    <value xml:space="preserve">Entre sua ID de Instant Messenger (Skype, Yahoo, Google, etc)</value>
   </data>
   <data name="plIM.Text">
     <value xml:space="preserve">ID de Instant Messenger:</value>
   </data>
   <data name="plLastName.Help">
-    <value xml:space="preserve">Entre sus apellidos</value>
+    <value xml:space="preserve">Entre seus apellidos</value>
   </data>
   <data name="plLastName.Text">
     <value xml:space="preserve">Apellidos:</value>
   </data>
   <data name="plPassword.Help">
-    <value xml:space="preserve">Elija uma contrasenha</value>
+    <value xml:space="preserve">Elija uma senha</value>
   </data>
   <data name="plPassword.Text">
-    <value xml:space="preserve">Contrasenha:</value>
+    <value xml:space="preserve">Senha:</value>
   </data>
   <data name="plUserName.Help">
     <value xml:space="preserve">Elija um nome do usuário. Se o nome do usuário já existe tendrá a oportunidade de selecionar um nome alternativo.</value>
@@ -55,16 +55,16 @@
     <value xml:space="preserve">Nome do usuário:</value>
   </data>
   <data name="plWebsite.Help">
-    <value xml:space="preserve">Entre a direção de su sitio web</value>
+    <value xml:space="preserve">Entre a endereço de seu site web</value>
   </data>
   <data name="plWebsite.Text">
     <value xml:space="preserve">Web:</value>
   </data>
   <data name="valConfirm1.Text">
-    <value xml:space="preserve">&lt;br/&gt;A confirmação de contrasenha é obrigatória.</value>
+    <value xml:space="preserve">&lt;br/&gt;A confirmação de senha é obrigatória.</value>
   </data>
   <data name="valConfirm2.Text">
-    <value xml:space="preserve">&lt;br/&gt;Os valores das contrasenhas introducidas não coincidem.</value>
+    <value xml:space="preserve">&lt;br/&gt;Os valores das senhas introduzidas não coincidem.</value>
   </data>
   <data name="valEmail1.Text">
     <value xml:space="preserve">&lt;br/&gt;O email é obrigatório.</value>
@@ -76,10 +76,10 @@
     <value xml:space="preserve">&lt;br/&gt;O nome é obrigatório.</value>
   </data>
   <data name="valLastName.Text">
-    <value xml:space="preserve">&lt;br/&gt;Os apellidos son obrigatórios.</value>
+    <value xml:space="preserve">&lt;br/&gt;Os apellidos são obrigatórios.</value>
   </data>
   <data name="valPassword.Text">
-    <value xml:space="preserve">&lt;br/&gt;A contrasenha é obrigatória.</value>
+    <value xml:space="preserve">&lt;br/&gt;A senha é obrigatória.</value>
   </data>
   <data name="valUsername.Text">
     <value xml:space="preserve">&lt;br/&gt;O nome do usuário é obrigatório.</value>

@@ -13,18 +13,18 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DefaultRoleGroup.Help">
-    <value xml:space="preserve">Entre o grupo de roles donde se criarán os novos grupos. Tem que ser o mesmo grupo de roles que foi selecionado para su lista principal de grupos.</value>
+    <value xml:space="preserve">Entre o grupo de cargos daonde se criarão os novos grupos. Tem que ser o mesmo grupo de cargos que foi selecionado para sua lista principal de grupos.</value>
   </data>
   <data name="GroupListPage.Help">
-    <value xml:space="preserve">Selecione a página donde os usuarios verán a lista de grupos.</value>
+    <value xml:space="preserve">Selecione a página daonde os usuários verão a lista de grupos.</value>
   </data>
   <data name="GroupModeration.Help">
-    <value xml:space="preserve">Selecione esta opção se quiser que os grupos deban aprobarse antes de ser públicos.</value>
+    <value xml:space="preserve">Selecione esta opção se quiser que os grupos devam aprovarse antes de ser públicos.</value>
   </data>
   <data name="GroupModeration.Text">
-    <value xml:space="preserve">Requerir aprobação de grupos</value>
+    <value xml:space="preserve">Requerir aprovação de grupos</value>
   </data>
   <data name="GroupViewPage.Help">
-    <value xml:space="preserve">Selecione a página donde os usuarios podrán ver um grupo em concreto  </value>
+    <value xml:space="preserve">Selecione a página daonde os usuários poderão ver um grupo em concreto  </value>
   </data>
 </root>

@@ -34,17 +34,17 @@
     &lt;tr&gt;
         &lt;td&gt;Aproximada&lt;/td&gt;
         &lt;td&gt;casa&lt;b&gt;~&lt;/b&gt;&lt;/td&gt;
-        &lt;td&gt;inclui términos que son similares a palabra buscada, por ejemplo &lt;i&gt;masa&lt;/i&gt;&lt;/td&gt;
+        &lt;td&gt;inclui termos que são similares a palavra buscada, por exemplo&lt;i&gt;masa&lt;/i&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;Global&lt;/td&gt;
         &lt;td&gt;casa*&lt;/td&gt;
-        &lt;td&gt;inclui términos que empiezan pela palabra buscada, por ejemplo &lt;em&gt;casado&lt;/em&gt; e também a mesma palabra &lt;em&gt;casa&lt;/em&gt;&lt;/td&gt;
+        &lt;td&gt;inclui termos que empiezan pela palavra buscada, por exemplo&lt;em&gt;casado&lt;/em&gt; e também a mesma palavra &lt;em&gt;casa&lt;/em&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;Exacta-única&lt;/td&gt;
         &lt;td&gt;casa&lt;/td&gt;
-        &lt;td&gt;busca exacta, somente a palabra &lt;em&gt;casa&lt;/em&gt;&lt;/td&gt;
+        &lt;td&gt;busca exacta, somente a palavra &lt;em&gt;casa&lt;/em&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;Exacta-frase&lt;/td&gt;
@@ -54,7 +54,7 @@
     &lt;tr&gt;
         &lt;td&gt;OR&lt;/td&gt;
         &lt;td&gt;casa naranja&lt;/td&gt;
-        &lt;td&gt;Busca conteúdos que incluyan alguna das palabras indicadas, &lt;em&gt;casa&lt;/em&gt; o &lt;em&gt;naranja&lt;/em&gt;, o ambas. &lt;strong&gt;OR tem que estar em mayúscula quando se utiliza&lt;/strong&gt;&lt;/td&gt;
+        &lt;td&gt;Busca conteúdos que incluan alguna das palavras indicadas, &lt;em&gt;casa&lt;/em&gt; o &lt;em&gt;naranja&lt;/em&gt;, o ambas. &lt;strong&gt;OR tem que estar em maiúscula quando se utiliza&lt;/strong&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;&lt;/td&gt;
@@ -64,7 +64,7 @@
     &lt;tr&gt;
         &lt;td&gt;AND&lt;/td&gt;
         &lt;td&gt;casa &lt;b&gt;AND&lt;/b&gt; naranja&lt;/td&gt;
-        &lt;td&gt;Busca conteúdos que incluyan todas as palabras indicadas, &lt;em&gt;casa&lt;/em&gt; e &lt;em&gt;naranja&lt;/em&gt;. &lt;strong&gt;AND tem que estar em mayúscula quando se utiliza&lt;/strong&gt;&lt;/td&gt;
+        &lt;td&gt;Busca conteúdos que incluan todas as palavras indicadas, &lt;em&gt;casa&lt;/em&gt; e &lt;em&gt;naranja&lt;/em&gt;. &lt;strong&gt;AND tem que estar em maiúscula quando se utiliza&lt;/strong&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;Combinada&lt;/td&gt;
@@ -80,7 +80,7 @@
     <value xml:space="preserve">Autor:</value>
   </data>
   <data name="btnClear.Text">
-    <value xml:space="preserve">Cerrar</value>
+    <value xml:space="preserve">Fechar</value>
   </data>
   <data name="btnSearch.Text">
     <value xml:space="preserve">Buscar</value>
@@ -95,10 +95,10 @@
     <value xml:space="preserve">Data</value>
   </data>
   <data name="DefaultText.Text">
-    <value xml:space="preserve">Entrar o término de busca</value>
+    <value xml:space="preserve">Entrar o termo de busca</value>
   </data>
   <data name="LastModified.Text">
-    <value xml:space="preserve">Actualizado:</value>
+    <value xml:space="preserve">Atualizado:</value>
   </data>
   <data name="lblAdvancedDates.Help">
     <value xml:space="preserve">Limitar busca a conteúdos modificados em as datass indicadas</value>
@@ -107,7 +107,7 @@
     <value xml:space="preserve">Última modificação:</value>
   </data>
   <data name="lblAdvancedExactSearch.Help">
-    <value xml:space="preserve">Os resultados tienem que contener as palabras exactas</value>
+    <value xml:space="preserve">Os resultados tem que contener as palavras exactas</value>
   </data>
   <data name="lblAdvancedExactSearch.Text">
     <value xml:space="preserve">busca exacta:</value>
@@ -128,7 +128,7 @@
     <value xml:space="preserve">Votações:</value>
   </data>
   <data name="linkAdvancedTip.Text">
-    <value xml:space="preserve">Ayuda</value>
+    <value xml:space="preserve">Ajuda</value>
   </data>
   <data name="NoResults.Text">
     <value xml:space="preserve">Não se encontraron resultados para &lt;strong&gt;&lt;em&gt;{0}&lt;/em&gt;&lt;/strong&gt;</value>
@@ -140,13 +140,13 @@
     <value xml:space="preserve">1 día</value>
   </data>
   <data name="optionMonth.Text">
-    <value xml:space="preserve">30 días</value>
+    <value xml:space="preserve">30 dias</value>
   </data>
   <data name="optionQuarter.Text">
-    <value xml:space="preserve">90 días</value>
+    <value xml:space="preserve">90 dias</value>
   </data>
   <data name="optionWeek.Text">
-    <value xml:space="preserve">7 días</value>
+    <value xml:space="preserve">7 dias</value>
   </data>
   <data name="optionYear.Text">
     <value xml:space="preserve">1 año</value>

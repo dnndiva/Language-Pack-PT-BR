@@ -19,6 +19,6 @@
     <value xml:space="preserve">Sistema</value>
   </data>
   <data name="UpdatedBy.Text">
-    <value xml:space="preserve">Ultima actualização por {0} o {1}</value>
+    <value xml:space="preserve">Ultima atualização por {0} o {1}</value>
   </data>
 </root>

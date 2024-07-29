@@ -16,28 +16,28 @@
     <value xml:space="preserve">Cancelado.</value>
   </data>
   <data name="Add.Text">
-    <value xml:space="preserve">Añadir</value>
+    <value xml:space="preserve">adicionar</value>
   </data>
   <data name="AddUserPlaceHolder.Text">
-    <value xml:space="preserve">Empiece a escribir para adicionar um usuario ao rol</value>
+    <value xml:space="preserve">Empiece a escrever para adicionar um usuário ao cargo</value>
   </data>
   <data name="AllGroups.Text">
     <value xml:space="preserve">[Todos os grupos]</value>
   </data>
   <data name="Approved.Text">
-    <value xml:space="preserve">Aprobado</value>
+    <value xml:space="preserve">aprovado</value>
   </data>
   <data name="AssignToExistUsers.Help">
-    <value xml:space="preserve">Asignar o rol a todos os usuarios existentes.</value>
+    <value xml:space="preserve">Asignar o cargo a todos os usuários existentes.</value>
   </data>
   <data name="AssignToExistUsers.Text">
-    <value xml:space="preserve">Asignar a usuarios</value>
+    <value xml:space="preserve">Asignar a usuários</value>
   </data>
   <data name="Auto.Header">
     <value xml:space="preserve">Auto</value>
   </data>
   <data name="AutoAssignment.Help">
-    <value xml:space="preserve">Mostra si se deve asignar este rol automáticamente a os usuarios.</value>
+    <value xml:space="preserve">Mostra se se deve asignar este cargo automáticamente a os usuários.</value>
   </data>
   <data name="AutoAssignment.Text">
     <value xml:space="preserve">Asignação automática</value>
@@ -49,73 +49,73 @@
     <value xml:space="preserve">Cancelar</value>
   </data>
   <data name="CannotAssginUserToUnApprovedRole.Text">
-    <value xml:space="preserve">Não se pode asignar um usuario a um rol não aprobado.</value>
+    <value xml:space="preserve">Não se pode asignar um usuário a um cargo não aprovado.</value>
   </data>
   <data name="Create.Text">
-    <value xml:space="preserve">criar novo rol</value>
+    <value xml:space="preserve">Criar novo cargo</value>
   </data>
   <data name="Delete.Text">
-    <value xml:space="preserve">Eliminar</value>
+    <value xml:space="preserve">Deletar</value>
   </data>
   <data name="DeleteInconsistency.Error">
-    <value xml:space="preserve">foi producido um error. Cargue a página de novo e vuelva a intentarlo.</value>
+    <value xml:space="preserve">foi produzido um erro. Cargue a página de novo e tente de novo.</value>
   </data>
   <data name="DeleteRole.Confirm">
-    <value xml:space="preserve">Está seguro que quer eliminar este rol?</value>
+    <value xml:space="preserve">Está seguro que quer deletar este rol?</value>
   </data>
   <data name="DeleteRole.Error">
-    <value xml:space="preserve">foi producido um error ao eliminar o rol. Vuelva a intentarlo.</value>
+    <value xml:space="preserve">foi produzido um erro ao deletar o cargo. Tente de novo.</value>
   </data>
   <data name="DeleteRole.Message">
-    <value xml:space="preserve">O rol foi eliminado.</value>
+    <value xml:space="preserve">O cargo foi deletado.</value>
   </data>
   <data name="DeleteRoleGroup.Confirm">
-    <value xml:space="preserve">Está seguro que quer eliminar este grupo de roles?</value>
+    <value xml:space="preserve">Está seguro que quer deletar este grupo de cargos?</value>
   </data>
   <data name="DeleteRoleGroup.Error">
-    <value xml:space="preserve">foi producido um error ao eliminar o grupo de roles. Vuelva a intentarlo.</value>
+    <value xml:space="preserve">foi produzido um erro ao deletar o grupo de cargos. Tente de novo.</value>
   </data>
   <data name="DeleteRoleGroup.Message">
-    <value xml:space="preserve">O grupo de roles foi eliminado.</value>
+    <value xml:space="preserve">O grupo de cargos foi deletado.</value>
   </data>
   <data name="DeleteUser.Confirm">
-    <value xml:space="preserve">Está seguro que quer eliminar este usuario do rol?</value>
+    <value xml:space="preserve">Está seguro que quer deletar este usuário do rol?</value>
   </data>
   <data name="Description.Help">
-    <value xml:space="preserve">Introduzca a descripção do rol.</value>
+    <value xml:space="preserve">Introduza a descrição do cargo.</value>
   </data>
   <data name="Description.Text">
-    <value xml:space="preserve">Descripção</value>
+    <value xml:space="preserve">Descrição</value>
   </data>
   <data name="Disabled.Text">
     <value xml:space="preserve">Desactivado</value>
   </data>
   <data name="DuplicateRole.Text">
-    <value xml:space="preserve">Já existe um rol com o mesmo nome.</value>
+    <value xml:space="preserve">Já existe um cargo com o mesmo nome.</value>
   </data>
   <data name="DuplicateRoleGroup.Text">
-    <value xml:space="preserve">O grupo de roles já existe.</value>
+    <value xml:space="preserve">O grupo de cargos já existe.</value>
   </data>
   <data name="EditRole.Text">
-    <value xml:space="preserve">Editar rol</value>
+    <value xml:space="preserve">Editar cargo</value>
   </data>
   <data name="Expires.Header">
     <value xml:space="preserve">Expira</value>
   </data>
   <data name="GlobalRolesGroup.Text">
-    <value xml:space="preserve">[Roles globales]</value>
+    <value xml:space="preserve">[Roles globais]</value>
   </data>
   <data name="GroupDescription.Help">
-    <value xml:space="preserve">Introduzca a descripção do grupo de roles.</value>
+    <value xml:space="preserve">Introduza a descrição do grupo de cargos.</value>
   </data>
   <data name="GroupDescription.Text">
-    <value xml:space="preserve">Descripção</value>
+    <value xml:space="preserve">Descrição</value>
   </data>
   <data name="GroupName.Header">
     <value xml:space="preserve">Grupo</value>
   </data>
   <data name="GroupName.Help">
-    <value xml:space="preserve">Introduzca o nome do grupo de roles.</value>
+    <value xml:space="preserve">Introduza o nome do grupo de cargos.</value>
   </data>
   <data name="GroupName.Required">
     <value xml:space="preserve">Campo obrigatório.</value>
@@ -136,7 +136,7 @@
     <value xml:space="preserve">[Novo grupo]</value>
   </data>
   <data name="LoadMore.Text">
-    <value xml:space="preserve">Ver más</value>
+    <value xml:space="preserve">Ver mais</value>
   </data>
   <data name="Members.Header">
     <value xml:space="preserve">Miembros</value>
@@ -148,10 +148,10 @@
     <value xml:space="preserve">Novo grupo</value>
   </data>
   <data name="NoData.Text">
-    <value xml:space="preserve">Não há nenhum rol em este grupo.</value>
+    <value xml:space="preserve">Não há nenhum cargo neste grupo.</value>
   </data>
   <data name="NoUsers.Text">
-    <value xml:space="preserve">Não há nenhum usuario em este rol.</value>
+    <value xml:space="preserve">Não há nenhum usuário neste cargo.</value>
   </data>
   <data name="PageInfo.Text">
     <value xml:space="preserve">Página {0} de {1}</value>
@@ -160,37 +160,37 @@
     <value xml:space="preserve">Mostrando {0}-{1} de {2}</value>
   </data>
   <data name="Pending.Text">
-    <value xml:space="preserve">Pendiente</value>
+    <value xml:space="preserve">Pendente</value>
   </data>
   <data name="PermissionsByRole.Text">
-    <value xml:space="preserve">Usuarios do rol</value>
+    <value xml:space="preserve">Usuários do cargo</value>
   </data>
   <data name="plRoleGroups.Help">
-    <value xml:space="preserve">Selecione o grupo de roles ao qual pertencerá.</value>
+    <value xml:space="preserve">Selecione o grupo de cargos ao qual pertencerá.</value>
   </data>
   <data name="plRoleGroups.Text">
-    <value xml:space="preserve">Grupo de roles</value>
+    <value xml:space="preserve">Grupo de cargos</value>
   </data>
   <data name="plRSVPCode.Help" lastModified="2018-03-24 00:17:01">
-    <value xml:space="preserve">Introduzca um código RSVP para o rol. Os usuarios podrán suscribirse ao rol entrando este código em a página de gestión de servicios de su conta.</value>
+    <value xml:space="preserve">Introduza um código RSVP para o cargo. Os usuários poderão suscribirse ao cargo entrando este código em a página de gestão de servicios de sua conta.</value>
   </data>
   <data name="plRSVPCode.Text" lastModified="2018-03-24 00:17:01">
     <value xml:space="preserve">Código RSVP</value>
   </data>
   <data name="plRSVPLink.Help" lastModified="2018-03-24 00:17:01">
-    <value xml:space="preserve">Se mostrará um enlace que permite a os usuarios suscribirse ao rol quando se guarde o código RSVP.</value>
+    <value xml:space="preserve">Se mostrará um link que permite a os usuários suscribirse ao cargo quando se guarde o código RSVP.</value>
   </data>
   <data name="plRSVPLink.Text" lastModified="2018-03-24 00:17:01">
-    <value xml:space="preserve">Enlace RSVP</value>
+    <value xml:space="preserve">Link RSVP</value>
   </data>
   <data name="Prompt_DeleteRole_Description.Text" lastModified="2018-03-24 00:17:01">
-    <value xml:space="preserve">Elimina definitivamente o rol de DNN. Não se podem eliminar os roles de sistema de Administradores, Usuarios registrados, Suscriptores o Usuarios não verificados. &lt;small&gt;&lt;strong class="text-danger"&gt;Atenção: esta ação não pode ser desfeita&lt;/strong&gt;&lt;/small&gt;</value>
+    <value xml:space="preserve">Elimina definitivamente o cargo de DNN. Não se podem deletar os cargos de sistema de Administradores, Usuários registrados, Suscriptores o Usuários não verificados. &lt;small&gt;&lt;strong class="text-danger"&gt;Atenção: esta ação não pode ser desfeita&lt;/strong&gt;&lt;/small&gt;</value>
   </data>
   <data name="Prompt_DeleteRole_FlagId.Text" lastModified="2018-03-24 12:59:13">
-    <value xml:space="preserve">O ID do rol que se quiere eliminar. O valor é obrigatório. O nome da opção &lt;span class="mono"&gt;--id&lt;/span&gt; é opcional si inclui o ID como primer argumento do comando.</value>
+    <value xml:space="preserve">O ID do cargo que se quiser deletar. O valor é obrigatório. O nome da opção &lt;span class="mono"&gt;--id&lt;/span&gt; é opcional se inclui o ID como primeir argumento do comando.</value>
   </data>
   <data name="Prompt_DeleteRole_ResultHtml.Text" lastModified="2018-03-24 13:00:10">
-    <value xml:space="preserve">&lt;h4&gt;Elimina definitivamente um rol de seguridade de DNN&lt;/h4&gt;
+    <value xml:space="preserve">&lt;h4&gt;Elimina definitivamente um cargo de segurança de DNN&lt;/h4&gt;
   &lt;code class="block"&gt;
     delete-role 11
   &lt;/code&gt;
@@ -198,7 +198,7 @@
   &lt;h4&gt;Results&lt;/h4&gt;
   &lt;table class="command-result-tbl"&gt;
     &lt;tr&gt;
-      &lt;td&gt;foi eliminado o rol 'Public' (11) corretamente&lt;/td&gt;
+      &lt;td&gt;foi deletado o cargo 'Public' (11) corretamente&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/table&gt;</value>
   </data>
@@ -206,13 +206,13 @@
     <value xml:space="preserve">--{0} não pode estar vazio.</value>
   </data>
   <data name="Prompt_GetRole_Description.Text" lastModified="2018-03-24 14:00:45">
-    <value xml:space="preserve">Muestra os detalles do rol de seguridade especificado.</value>
+    <value xml:space="preserve">Mostra os detalles do cargo de segurança especificado.</value>
   </data>
   <data name="Prompt_GetRole_FlagId.Text" lastModified="2018-03-24 15:01:30">
-    <value xml:space="preserve">O ID do rol de seguridade. O valor é obrigatório. O nome da opção &lt;span class="mono"&gt;--id&lt;/span&gt; é opcional si inclui o ID como primer argumento do comando.</value>
+    <value xml:space="preserve">O ID do cargo de segurança. O valor é obrigatório. O nome da opção &lt;span class="mono"&gt;--id&lt;/span&gt; é opcional se inclui o ID como primeir argumento do comando.</value>
   </data>
   <data name="Prompt_GetRole_ResultHtml.Text" lastModified="2018-03-24 15:01:30">
-    <value xml:space="preserve">&lt;h4&gt;Obtiene um rol de seguridade de DNN&lt;/h4&gt;
+    <value xml:space="preserve">&lt;h4&gt;Obtenha um cargo de segurança de DNN&lt;/h4&gt;
   &lt;code class="block"&gt;
     get-role 11
   &lt;/code&gt;
@@ -271,25 +271,25 @@
       &lt;td&gt;1&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td colspan="3"&gt;1 role found&lt;/td&gt;
+      &lt;td colspan="3"&gt;1 cargo found&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/table&gt;</value>
   </data>
   <data name="Prompt_InvalidRoleStatus.Text" lastModified="2018-03-24 16:02:54">
-    <value xml:space="preserve">O valor indicado para --{0} é inválido. Se esperaba 'pending', 'approved', o 'disabled'</value>
+    <value xml:space="preserve">O valor indicado para --{0} é inválido. Se esperava 'pending', 'approved', o 'disabled'</value>
   </data>
   <data name="Prompt_ListRoles_Description.Text" lastModified="2018-03-24 16:02:54">
-    <value xml:space="preserve">Muestra a lista de roles de seguridade do portal.</value>
+    <value xml:space="preserve">Mostra a lista de cargos de segurança do portal.</value>
   </data>
   <data name="Prompt_ListRoles_FlagMax.Text" lastModified="2018-03-24 16:02:54">
-    <value xml:space="preserve">Tamaño de página. O valor máximo é 500.</value>
+    <value xml:space="preserve">tamanho da página. O valor máximo é 500.</value>
   </data>
   <data name="Prompt_ListRoles_FlagPage.Text" lastModified="2018-03-24 16:02:54">
-    <value xml:space="preserve">Número de página a mostrar.</value>
+    <value xml:space="preserve">Número da página a mostrar.</value>
   </data>
   <data name="Prompt_ListRoles_ResultHtml.Text" lastModified="2018-03-24 17:05:26">
     <value xml:space="preserve">&lt;div&gt;
-        &lt;h4&gt;Obtiene a lista de roles do portal&lt;/h4&gt;
+        &lt;h4&gt;Obtenha a lista de cargos do portal&lt;/h4&gt;
         &lt;code class="block"&gt;
             list-roles
         &lt;/code&gt;
@@ -321,8 +321,8 @@
                 &lt;tr&gt;
                     &lt;td&gt;5&lt;/td&gt;
                     &lt;td&gt;-1&lt;/td&gt;
-                    &lt;td&gt;My New Role&lt;/td&gt;
-                    &lt;td&gt;A test role&lt;/td&gt;
+                    &lt;td&gt;My New Cargo&lt;/td&gt;
+                    &lt;td&gt;A teste cargo&lt;/td&gt;
                     &lt;td&gt;false&lt;/td&gt;
                     &lt;td&gt;false&lt;/td&gt;
                     &lt;td&gt;0&lt;/td&gt;
@@ -342,7 +342,7 @@
                     &lt;td&gt;2&lt;/td&gt;
                     &lt;td&gt;-1&lt;/td&gt;
                     &lt;td&gt;Subscribers&lt;/td&gt;
-                    &lt;td&gt;A public role for site subscriptions&lt;/td&gt;
+                    &lt;td&gt;A public cargo for site subscriptions&lt;/td&gt;
                     &lt;td&gt;true&lt;/td&gt;
                     &lt;td&gt;true&lt;/td&gt;
                     &lt;td&gt;5&lt;/td&gt;
@@ -352,7 +352,7 @@
                     &lt;td&gt;3&lt;/td&gt;
                     &lt;td&gt;-1&lt;/td&gt;
                     &lt;td&gt;Translator (em-US)&lt;/td&gt;
-                    &lt;td&gt;A role for English (United States) translators&lt;/td&gt;
+                    &lt;td&gt;A cargo for English (United States) translators&lt;/td&gt;
                     &lt;td&gt;false&lt;/td&gt;
                     &lt;td&gt;false&lt;/td&gt;
                     &lt;td&gt;0&lt;/td&gt;
@@ -373,30 +373,30 @@
     &lt;/div&gt;</value>
   </data>
   <data name="Prompt_ListRolesFailed.Text" lastModified="2018-03-24 17:05:26">
-    <value xml:space="preserve">foi producido um error ao obtener a lista de roles.</value>
+    <value xml:space="preserve">foi produzido um erro ao obter a lista de cargos.</value>
   </data>
   <data name="Prompt_NewRole_Description.Text" lastModified="2018-03-24 17:05:26">
-    <value xml:space="preserve">Crea um novo rol de seguridade não portal.</value>
+    <value xml:space="preserve">Crea um novo cargo de segurança no portal.</value>
   </data>
   <data name="Prompt_NewRole_FlagAutoAssign.Text" lastModified="2018-03-24 17:05:26">
-    <value xml:space="preserve">Quando tem o valor 'true', o rol se asignará automáticamente a todos os usuarios do portal, incluyendo os usuarios existentes.</value>
+    <value xml:space="preserve">Quando tem o valor 'true', o cargo se asignará automáticamente a todos os usuários do portal, incluindo os usuários existentes.</value>
   </data>
   <data name="Prompt_NewRole_FlagDescription.Text" lastModified="2018-03-24 17:05:26">
-    <value xml:space="preserve">Descripção do rol.</value>
+    <value xml:space="preserve">Descrição do cargo.</value>
   </data>
   <data name="Prompt_NewRole_FlagIsPublic.Text" lastModified="2018-03-24 17:05:26">
-    <value xml:space="preserve">Quando tem o valor 'true', os usuarios podrán ver o rol e asignarse a si mismos ao rol.</value>
+    <value xml:space="preserve">Quando tem o valor 'true', os usuários poderão ver o cargo e asignarse a se mismos ao cargo.</value>
   </data>
   <data name="Prompt_NewRole_FlagRoleName.Text" lastModified="2018-03-24 18:06:41">
-    <value xml:space="preserve">O nome do rol de seguridade. O valor é obrigatório. O nome da opção &lt;span class="mono"&gt;--name&lt;/span&gt; é opcional si inclui o nome como primer argumento do comando.</value>
+    <value xml:space="preserve">O nome do cargo de segurança. O valor é obrigatório. O nome da opção &lt;span class="mono"&gt;--name&lt;/span&gt; é opcional se inclui o nome como primeir argumento do comando.</value>
   </data>
   <data name="Prompt_NewRole_FlagStatus.Text" lastModified="2018-03-24 18:06:41">
-    <value xml:space="preserve">Estado do rol. Tem que ser uno de estos valores: "approved", "pending" o "disabled".</value>
+    <value xml:space="preserve">Estado do cargo. Tem que ser um destes valores: "approved", "pending" o "disabled".</value>
   </data>
   <data name="Prompt_NewRole_ResultHtml.Text" lastModified="2018-03-24 19:07:51">
-    <value xml:space="preserve">&lt;h4&gt;criar um novo rol de seguridade (sintaxis mínima)&lt;/h4&gt;
+    <value xml:space="preserve">&lt;h4&gt;criar um novo cargo de segurança (sintaxis mínima)&lt;/h4&gt;
   &lt;code class="block"&gt;
-    new-role Role1
+    new-role Cargo1
   &lt;/code&gt;
   &lt;h4&gt;Resultado&lt;/h4&gt;
   &lt;table class="command-result-tbl"&gt;
@@ -437,12 +437,12 @@
       &lt;td&gt;2016-12-31T14:53:44.033&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td colspan="3"&gt;O rol foi adicionado corretamente.&lt;/td&gt;
+      &lt;td colspan="3"&gt;O cargo foi adicionado corretamente.&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/table&gt;
 
 
-  &lt;h4&gt;criar um novo rol de seguridade&lt;/h4&gt;
+  &lt;h4&gt;criar um novo cargo de segurança&lt;/h4&gt;
   &lt;code class="block"&gt;
     new-role "General Public" --description "Role for all users" --public true --autoassign true
   &lt;/code&gt;
@@ -485,57 +485,57 @@
       &lt;td&gt;2016-12-31T15:06:02.563&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td colspan="3"&gt;O rol foi adicionado corretamente.&lt;/td&gt;
+      &lt;td colspan="3"&gt;O cargo foi adicionado corretamente.&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/table&gt;</value>
   </data>
   <data name="Prompt_NoRoles.Text" lastModified="2018-03-24 20:09:12">
-    <value xml:space="preserve">Não foi encontrado nenhum rol.</value>
+    <value xml:space="preserve">Não foi encontrado nenhum cargo.</value>
   </data>
   <data name="Prompt_NoRoleWithId.Text" lastModified="2018-03-24 20:09:12">
-    <value xml:space="preserve">Não foi encontrado o rol com o ID  {0}.</value>
+    <value xml:space="preserve">Não foi encontrado o cargo com o ID  {0}.</value>
   </data>
   <data name="Prompt_NothingToUpdate.Text" lastModified="2018-03-24 20:09:12">
     <value xml:space="preserve">Não há nada para atualizar.</value>
   </data>
   <data name="Prompt_RoleIdIsRequired.Text" lastModified="2018-03-24 20:09:12">
-    <value xml:space="preserve">Tem que indicar o ID do rol como primer argumento o utilizar a opção --id.</value>
+    <value xml:space="preserve">Tem que indicar o ID do cargo como primeir argumento o utilizar a opção --id.</value>
   </data>
   <data name="Prompt_RoleIdNegative.Text" lastModified="2018-03-24 20:09:12">
-    <value xml:space="preserve">O ID do rol tem que ser maior que zero (0)</value>
+    <value xml:space="preserve">O ID do cargo tem que ser maior que zero (0)</value>
   </data>
   <data name="Prompt_RoleIdNotInt.Text" lastModified="2018-03-24 20:09:12">
-    <value xml:space="preserve">O ID do rol tem que ser um número entero.</value>
+    <value xml:space="preserve">O ID do cargo tem que ser um número entero.</value>
   </data>
   <data name="Prompt_RoleNameRequired.Text" lastModified="2018-03-24 21:10:05">
-    <value xml:space="preserve">Tem que indicar o nome do rol como primer argumento o utilizar a opção --{0}. Os nomes com espaços tienem que incluirse entre comillas dobles.</value>
+    <value xml:space="preserve">Tem que indicar o nome do cargo como primeir argumento o utilizar a opção --{0}. Os nomes com espaços tem que incluirse entre comillas dobles.</value>
   </data>
   <data name="Prompt_RolesCategory.Text" lastModified="2018-03-24 21:10:05">
-    <value xml:space="preserve">Comandos de roles</value>
+    <value xml:space="preserve">Comandos de cargos</value>
   </data>
   <data name="Prompt_SetRole_Description.Text" lastModified="2018-03-24 22:11:02">
-    <value xml:space="preserve">Establece o actualiza propriedadees de um rol de seguridade. Somente se actualizarán as propriedadees que entre não comando.</value>
+    <value xml:space="preserve">Estabelece ou atualiza propriedades de um cargo de segurança. Somente se atualizarão as propriedades que entre não comando.</value>
   </data>
   <data name="Prompt_SetRole_FlagAutoAssign.Text" lastModified="2018-03-24 23:11:18">
-    <value xml:space="preserve">Quando tem o valor 'true', o rol se asignará automáticamente a todos os usuarios do portal, incluyendo os usuarios existentes.</value>
+    <value xml:space="preserve">Quando tem o valor 'true', o cargo se asignará automáticamente a todos os usuários do portal, incluindo os usuários existentes.</value>
   </data>
   <data name="Prompt_SetRole_FlagDescription.Text" lastModified="2018-03-25 01:12:25">
-    <value xml:space="preserve">Descripção do rol.</value>
+    <value xml:space="preserve">Descrição do cargo.</value>
   </data>
   <data name="Prompt_SetRole_FlagId.Text" lastModified="2018-03-25 05:13:07">
-    <value xml:space="preserve">O ID do rol de seguridade. O valor é obrigatório. O nome da opção &lt;span class="mono"&gt;--id&lt;/span&gt; é opcional si inclui o ID como primer argumento do comando.</value>
+    <value xml:space="preserve">O ID do cargo de segurança. O valor é obrigatório. O nome da opção &lt;span class="mono"&gt;--id&lt;/span&gt; é opcional se inclui o ID como primeir argumento do comando.</value>
   </data>
   <data name="Prompt_SetRole_FlagIsPublic.Text" lastModified="2018-03-25 09:14:01">
-    <value xml:space="preserve">Quando tem o valor 'true', os usuarios podrán ver o rol e asignarse a si mismos ao rol.</value>
+    <value xml:space="preserve">Quando tem o valor 'true', os usuários poderão ver o cargo e asignarse a se mismos ao cargo.</value>
   </data>
   <data name="Prompt_SetRole_FlagRoleName.Text" lastModified="2018-03-25 05:13:07">
-    <value xml:space="preserve">Nome do rol de seguridade.</value>
+    <value xml:space="preserve">Nome do cargo de segurança.</value>
   </data>
   <data name="Prompt_SetRole_FlagStatus.Text" lastModified="2018-03-25 03:12:45">
-    <value xml:space="preserve">Estado do rol. Tem que ser uno de estos valores: "approved", "pending" o "disabled".</value>
+    <value xml:space="preserve">Estado do cargo. Tem que ser um destes valores: "approved", "pending" o "disabled".</value>
   </data>
   <data name="Prompt_SetRole_ResultHtml.Text" lastModified="2018-03-25 00:12:16">
-    <value xml:space="preserve">&lt;h4&gt;Atualizar um rol de seguridade de DNN&lt;/h4&gt;
+    <value xml:space="preserve">&lt;h4&gt;Atualizar um cargo de segurança de DNN&lt;/h4&gt;
   &lt;code class="block"&gt;
     set-role 10 --name Public
   &lt;/code&gt;
@@ -579,69 +579,69 @@
       &lt;td&gt;2016-12-31T14:53:44.033&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td colspan="3"&gt;O rol foi actualizado corretamente.&lt;/td&gt;
+      &lt;td colspan="3"&gt;O cargo foi atualizado corretamente.&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/table&gt;</value>
   </data>
   <data name="Prompt_UnableToParseBool.Text" lastModified="2018-03-25 07:13:53">
-    <value xml:space="preserve">Não foi podido procesar o valor '{1}' da opção --{0}. O valor tem que ser 'true' o 'false'.</value>
+    <value xml:space="preserve">Não foi possível procesar o valor '{1}' da opção --{0}. O valor tem que ser 'true' o 'false'.</value>
   </data>
   <data name="Public.Text">
     <value xml:space="preserve">Público</value>
   </data>
   <data name="PublicRole.Help">
-    <value xml:space="preserve">Ative esta opção se os usuarios se podem suscribir ao rol em a página de Gestión de servicios de su conta.</value>
+    <value xml:space="preserve">Ative esta opção se os usuários se podem suscribir ao cargo em a página de Gestão de servicios de sua conta.</value>
   </data>
   <data name="RoleAdded.Error">
-    <value xml:space="preserve">foi producido um error ao criar o rol. Vuelva a intentarlo.</value>
+    <value xml:space="preserve">foi produzido um erro ao criar o cargo. Tente de novo.</value>
   </data>
   <data name="RoleAdded.Message">
-    <value xml:space="preserve">O rol foi creado.</value>
+    <value xml:space="preserve">O cargo foi creado.</value>
   </data>
   <data name="RoleGroupUpdated.Error">
-    <value xml:space="preserve">foi producido um error ao atualizar o grupo de roles. Vuelva a intentarlo.</value>
+    <value xml:space="preserve">foi produzido um erro ao atualizar o grupo de cargos. Tente de novo.</value>
   </data>
   <data name="RoleGroupUpdated.Message">
-    <value xml:space="preserve">O grupo de roles foi actualizado.</value>
+    <value xml:space="preserve">O grupo de cargos foi atualizado.</value>
   </data>
   <data name="RoleName.Header">
-    <value xml:space="preserve">Nome do rol</value>
+    <value xml:space="preserve">Nome do cargo</value>
   </data>
   <data name="RoleName.Help">
-    <value xml:space="preserve">Introduzca o nome do rol.</value>
+    <value xml:space="preserve">Introduza o nome do cargo.</value>
   </data>
   <data name="RoleName.Required">
     <value xml:space="preserve">Campo obrigatório.</value>
   </data>
   <data name="RoleName.Text">
-    <value xml:space="preserve">Nome do rol</value>
+    <value xml:space="preserve">Nome do cargo</value>
   </data>
   <data name="RoleUpdated.Error">
-    <value xml:space="preserve">foi producido um error ao atualizar o rol. Vuelva a intentarlo.</value>
+    <value xml:space="preserve">foi produzido um erro ao atualizar o cargo. Tente de novo.</value>
   </data>
   <data name="RoleUpdated.Message">
-    <value xml:space="preserve">O rol foi actualizado.</value>
+    <value xml:space="preserve">O cargo foi atualizado.</value>
   </data>
   <data name="Save.Text">
-    <value xml:space="preserve">Guardar</value>
+    <value xml:space="preserve">Salvar</value>
   </data>
   <data name="Search.Text">
     <value xml:space="preserve">Buscar</value>
   </data>
   <data name="SearchPlaceHolder.Text">
-    <value xml:space="preserve">Buscar roles por palabra clave</value>
+    <value xml:space="preserve">Buscar cargos por palavra chave</value>
   </data>
   <data name="securityModeListLabel.Help">
-    <value xml:space="preserve">Selecione o modo de seguridade para este rol/grupo.</value>
+    <value xml:space="preserve">Selecione o modo de segurança para este cargo/grupo.</value>
   </data>
   <data name="securityModeListLabel.Text">
-    <value xml:space="preserve">Modo de seguridade:</value>
+    <value xml:space="preserve">Modo de segurança:</value>
   </data>
   <data name="SecurityRole.Text">
-    <value xml:space="preserve">Rol de seguridade</value>
+    <value xml:space="preserve">Cargo de segurança</value>
   </data>
   <data name="SecurityRoleDeleteNotAllowed.Text">
-    <value xml:space="preserve">Os roles de sistema não se podem eliminar.</value>
+    <value xml:space="preserve">Os cargos de sistema não se podem deletar.</value>
   </data>
   <data name="SendEmail.Text">
     <value xml:space="preserve">Enviar email</value>
@@ -650,10 +650,10 @@
     <value xml:space="preserve">Grupo social</value>
   </data>
   <data name="Start.Header">
-    <value xml:space="preserve">Inicio</value>
+    <value xml:space="preserve">Início</value>
   </data>
   <data name="statusListLabel.Help">
-    <value xml:space="preserve">Selecione o estado deste rol/grupo.</value>
+    <value xml:space="preserve">Selecione o estado deste cargo/grupo.</value>
   </data>
   <data name="statusListLabel.Text">
     <value xml:space="preserve">Estado</value>
@@ -665,12 +665,12 @@
     <value xml:space="preserve">Não foi encontrado o usuário.</value>
   </data>
   <data name="Users.Header">
-    <value xml:space="preserve">Usuarios</value>
+    <value xml:space="preserve">Usuários</value>
   </data>
   <data name="Users.Text">
-    <value xml:space="preserve">Usuarios</value>
+    <value xml:space="preserve">Usuários</value>
   </data>
   <data name="UsersInRole.Text">
-    <value xml:space="preserve">Usuarios do rol</value>
+    <value xml:space="preserve">Usuários do cargo</value>
   </data>
 </root>

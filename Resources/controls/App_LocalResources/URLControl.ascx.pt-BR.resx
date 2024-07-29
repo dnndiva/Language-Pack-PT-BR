@@ -22,10 +22,10 @@
     <value xml:space="preserve">Elimine a url seleccionada na lista&lt;br/&gt;</value>
   </data>
   <data name="File.Text">
-    <value xml:space="preserve">Nome de Arquivo:&lt;br/&gt;</value>
+    <value xml:space="preserve">Nome de arquivo:&lt;br/&gt;</value>
   </data>
   <data name="FileType.Text">
-    <value xml:space="preserve">Arquivo (um arquivo de su sitio)</value>
+    <value xml:space="preserve">Arquivo (um arquivo de seu site)</value>
   </data>
   <data name="Folder.Text">
     <value xml:space="preserve">Ubicação do arquivo:&lt;br/&gt;</value>
@@ -37,28 +37,28 @@
     <value xml:space="preserve">Imagen de sistema</value>
   </data>
   <data name="Log.Text">
-    <value xml:space="preserve">Registrar o usuário, a data e a hora de cada clic não enlace?&lt;br/&gt;</value>
+    <value xml:space="preserve">Registrar o usuário, a data e a hora de cada clic não link?&lt;br/&gt;</value>
   </data>
   <data name="NewWindow.Text">
-    <value xml:space="preserve">Abrir o enlace em uma nova ventana do navegador?&lt;br/&gt;</value>
+    <value xml:space="preserve">Abrir o link em uma nova ventana do navegador?&lt;br/&gt;</value>
   </data>
   <data name="NoneType.Text">
     <value xml:space="preserve">Nenhum</value>
   </data>
   <data name="NoPermission.Text">
-    <value xml:space="preserve">Não tem permissões para ver os Arquivos do portal</value>
+    <value xml:space="preserve">Não tem permissões para ver os arquivos do portal</value>
   </data>
   <data name="NoUser.Text">
-    <value xml:space="preserve">O nome do usuário não coincide com nenhum usuario deste sitio web.</value>
+    <value xml:space="preserve">O nome do usuário não coincide com nenhum usuário deste site web.</value>
   </data>
   <data name="NoWritePermission.Text">
-    <value xml:space="preserve">Não tem permissões para subir Arquivos em este sitio</value>
+    <value xml:space="preserve">Não tem permissões para subir arquivos neste site</value>
   </data>
   <data name="Root.Text">
-    <value xml:space="preserve">Raíz</value>
+    <value xml:space="preserve">Raiz</value>
   </data>
   <data name="Save.Text">
-    <value xml:space="preserve">Cargar o arquivo selecionado&lt;br/&gt;</value>
+    <value xml:space="preserve">Enviar o arquivo selecionado&lt;br/&gt;</value>
   </data>
   <data name="Select.Text">
     <value xml:space="preserve">Selecione uma URL existente</value>
@@ -67,30 +67,30 @@
     <value xml:space="preserve">Página:</value>
   </data>
   <data name="TabType.Text">
-    <value xml:space="preserve">Página (una página de su sitio)</value>
+    <value xml:space="preserve">Página (una página de seu site)</value>
   </data>
   <data name="Track.Text">
-    <value xml:space="preserve">Registrar o número de veces que foice clic em este enlace?&lt;br/&gt;</value>
+    <value xml:space="preserve">Registrar o número de veces que foice clic neste link?&lt;br/&gt;</value>
   </data>
   <data name="Type.Text">
-    <value xml:space="preserve">Tipo de enlace:</value>
+    <value xml:space="preserve">Tipo de link:</value>
   </data>
   <data name="Upload.Text">
-    <value xml:space="preserve">Cargar novo Arquivo</value>
+    <value xml:space="preserve">Enviar novo arquivo</value>
   </data>
   <data name="UploadError.Text">
-    <value xml:space="preserve">O tipo de Arquivo {1} é incorreto em este contexto. Os tipos de Arquivo válidos incluyen: {0}</value>
+    <value xml:space="preserve">O tipo de arquivo {1} é incorreto neste contexto. Os tipos de arquivo válidos incluem: {0}</value>
   </data>
   <data name="URL.Text">
-    <value xml:space="preserve">Ubicação: (entre a direção do enlace)&lt;br/&gt;</value>
+    <value xml:space="preserve">Ubicação: (entre a endereço do link)&lt;br/&gt;</value>
   </data>
   <data name="URLType.Text">
-    <value xml:space="preserve">URL (um enlace para um recurso externo)</value>
+    <value xml:space="preserve">URL (um link para um recurso externo)</value>
   </data>
   <data name="User.Text">
-    <value xml:space="preserve">Entre o nome do usuário de um membro de su sitio:&lt;br/&gt;</value>
+    <value xml:space="preserve">Entre o nome do usuário de um membro de seu site:&lt;br/&gt;</value>
   </data>
   <data name="UserType.Text">
-    <value xml:space="preserve">Usuario (um membro de su sitio)</value>
+    <value xml:space="preserve">Usuário (um membro de seu site)</value>
   </data>
 </root>

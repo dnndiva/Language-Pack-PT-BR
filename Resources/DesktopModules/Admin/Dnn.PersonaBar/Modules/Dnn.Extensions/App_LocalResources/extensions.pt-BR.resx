@@ -22,22 +22,22 @@
     <value xml:space="preserve">Definição</value>
   </data>
   <data name="AddModuleControl_HelpURL.HelpText">
-    <value xml:space="preserve">Pode proporcionar uma URL de ayuda para este controle (aparecerá não menú de acções do módulo).</value>
+    <value xml:space="preserve">Pode fornecer uma URL de ajuda para este controle (aparecerá no menu de acções do módulo).</value>
   </data>
   <data name="AddModuleControl_HelpURL.Label">
-    <value xml:space="preserve">URL de ayuda:</value>
+    <value xml:space="preserve">URL de ajuda:</value>
   </data>
   <data name="AddModuleControl_Icon.HelpText">
-    <value xml:space="preserve">Elija um icone para este controle. Se mostrará na cabecera do módulo se a opção esta activada Não tema.</value>
+    <value xml:space="preserve">Elija um ícone para este controle. Se mostrará na cabecera do módulo se a opção esta activada Não tema.</value>
   </data>
   <data name="AddModuleControl_Icon.Label">
-    <value xml:space="preserve">Icone</value>
+    <value xml:space="preserve">Ícone</value>
   </data>
   <data name="AddModuleControl_Key.HelpText">
-    <value xml:space="preserve">Escriba um nome único para identificar este controle dentro do módulo</value>
+    <value xml:space="preserve">Digite um nome único para identificar este controle dentro do módulo</value>
   </data>
   <data name="AddModuleControl_Key.Label">
-    <value xml:space="preserve">Clave</value>
+    <value xml:space="preserve">Chave</value>
   </data>
   <data name="AddModuleControl_Module.HelpText">
     <value xml:space="preserve">Este é o nome amigable do módulo.</value>
@@ -46,7 +46,7 @@
     <value xml:space="preserve">Módulo</value>
   </data>
   <data name="AddModuleControl_Source.HelpText">
-    <value xml:space="preserve">Selecione o arquivo de fonte o escriba o nome de tipo para este controle.</value>
+    <value xml:space="preserve">Selecione o arquivo de fonte o escreva o nome de tipo para este controle.</value>
   </data>
   <data name="AddModuleControl_Source.Label">
     <value xml:space="preserve">Arquivo fonte</value>
@@ -64,13 +64,13 @@
     <value xml:space="preserve">Soporta presentação parcial?</value>
   </data>
   <data name="AddModuleControl_SupportsPopups.HelpText">
-    <value xml:space="preserve">Esta opção mostra se o controle de módulo soporta o uso de ventanas emergentes para su visualização.</value>
+    <value xml:space="preserve">Esta opção mostra se o controle de módulo soporta o uso de ventanas emergentes para sua visualização.</value>
   </data>
   <data name="AddModuleControl_SupportsPopups.Label">
     <value xml:space="preserve">Soporta presentação em ventana emergente?</value>
   </data>
   <data name="AddModuleControl_Title.HelpText">
-    <value xml:space="preserve">Escriba um título para este controle. Se mostrará na cabecera do módulo se a opção está activada Não tema.</value>
+    <value xml:space="preserve">Digite um título para este controle. Se mostrará na cabecera do módulo se a opção está activada Não tema.</value>
   </data>
   <data name="AddModuleControl_Title.Label">
     <value xml:space="preserve">Título</value>
@@ -82,10 +82,10 @@
     <value xml:space="preserve">Tipo</value>
   </data>
   <data name="AddModuleControl_Update.Button">
-    <value xml:space="preserve">Guardar</value>
+    <value xml:space="preserve">Salvar</value>
   </data>
   <data name="AddModuleControl_ViewOrder.HelpText">
-    <value xml:space="preserve">Escriba o orden de visualização para o controle na lista de controles para esta definição.</value>
+    <value xml:space="preserve">Digite o orden de visualização para o controle na lista de controles para esta definição.</value>
   </data>
   <data name="AddModuleControl_ViewOrder.Label">
     <value xml:space="preserve">Orden de visualização</value>
@@ -97,25 +97,25 @@
     <value xml:space="preserve">Sistemas de autenticação</value>
   </data>
   <data name="AuthSystemSiteSettings_AppEnabled.HelpText">
-    <value xml:space="preserve">Marque para activar este sistema de autenticação para este sitio.</value>
+    <value xml:space="preserve">Marque para ativar este sistema de autenticação para este site.</value>
   </data>
   <data name="AuthSystemSiteSettings_AppEnabled.Label">
     <value xml:space="preserve">Activado?</value>
   </data>
   <data name="AuthSystemSiteSettings_AppId.HelpText">
-    <value xml:space="preserve">Introduzca o valor do APP ID/API Key/Consumer Key configurado para este provedor.</value>
+    <value xml:space="preserve">Introduza o valor do APP ID/API Key/Consumer Key configurado para este provedor.</value>
   </data>
   <data name="AuthSystemSiteSettings_AppId.Label">
     <value xml:space="preserve">App ID</value>
   </data>
   <data name="AuthSystemSiteSettings_AppSecret.HelpText">
-    <value xml:space="preserve">Introduzca o valor do APP Secret/Consumer Secret configurado para este provedor.</value>
+    <value xml:space="preserve">Introduza o valor do APP Secret/Consumer Secret configurado para este provedor.</value>
   </data>
   <data name="AuthSystemSiteSettings_AppSecret.Label">
     <value xml:space="preserve">App Secret</value>
   </data>
   <data name="AvailableExtensions.Text">
-    <value xml:space="preserve">Extensões disponívels</value>
+    <value xml:space="preserve">Extensões disponíveis</value>
   </data>
   <data name="BackToEditExtension.Text" lastModified="2017-02-05 10:46:15">
     <value xml:space="preserve">Volver a edição de {0}</value>
@@ -142,13 +142,13 @@
     <value xml:space="preserve">Tema</value>
   </data>
   <data name="CheckLanguage.Text">
-    <value xml:space="preserve">Utilice o servicio de actualização para comprobar as actualizações dos paquetes de idioma das extensões</value>
+    <value xml:space="preserve">Utilize o servicio de atualização para comprovar as atualizações dos paquetes de idioma das extensões</value>
   </data>
   <data name="ClearSearch.Text">
     <value xml:space="preserve">Limpar busca</value>
   </data>
   <data name="CollapseAll.Text">
-    <value xml:space="preserve">Cerrar todos</value>
+    <value xml:space="preserve">Fechar todos</value>
   </data>
   <data name="Connector.Type" lastModified="2018-03-24 11:15:51">
     <value xml:space="preserve">Conectores</value>
@@ -166,22 +166,22 @@
     <value xml:space="preserve">Paquetes de idioma do sistema</value>
   </data>
   <data name="CreateContainer.Action">
-    <value xml:space="preserve">criar um novo moldura</value>
+    <value xml:space="preserve">Criar um novo moldura</value>
   </data>
   <data name="CreateExtension.Action">
-    <value xml:space="preserve">criar uma nova extensión</value>
+    <value xml:space="preserve">Criar uma nova extensão</value>
   </data>
   <data name="CreateExtension_Cancel.Button">
     <value xml:space="preserve">Cancelar</value>
   </data>
   <data name="CreateExtension_Save.Button">
-    <value xml:space="preserve">criar</value>
+    <value xml:space="preserve">Criar</value>
   </data>
   <data name="CreateLanguagePack.Action">
-    <value xml:space="preserve">criar um novo idioma</value>
+    <value xml:space="preserve">Criar um novo idioma</value>
   </data>
   <data name="CreateModule.Action">
-    <value xml:space="preserve">criar um novo módulo</value>
+    <value xml:space="preserve">Criar um novo módulo</value>
   </data>
   <data name="CreateNewModule.HelpText">
     <value xml:space="preserve">Tem tres opções para criar um novo módulo: 1. Novo - crea um novo controle de módulo, 2. Controle - criar um módulo a partir de um controle existente, 3. Manifiesto - crea um módulo a partir de um manifiesto existente.</value>
@@ -196,61 +196,61 @@
     <value xml:space="preserve">&lt;Não especificado&gt;</value>
   </data>
   <data name="CreateNewModuleFrom.Label">
-    <value xml:space="preserve">criar novo módulo desde:</value>
+    <value xml:space="preserve">Criar novo módulo desde:</value>
   </data>
   <data name="CreatePackage_ArchiveFileName.HelpText">
     <value xml:space="preserve">Entre o nome a usar para o arquivo (.zip).</value>
   </data>
   <data name="CreatePackage_ArchiveFileName.Label">
-    <value xml:space="preserve">Nome de Arquivo:</value>
+    <value xml:space="preserve">Nome de arquivo:</value>
   </data>
   <data name="CreatePackage_ChooseAssemblies.HelpText">
-    <value xml:space="preserve">Em este paso pode selecionar os ensamblados a incluir não paquete. Si há um arquivo de proyecto em a pasta do paquete o asistente tratará de determinar os ensamblados a incluir mas pode adicionar o eliminar ensamblados desde a lista manualmente.</value>
+    <value xml:space="preserve">Neste passo pode selecionar os ensamblados a incluir não paquete. Se há um arquivo de proyecto em a pasta do paquete o asistente tratará de determinar os ensamblados a incluir mas pode adicionar o deletar ensamblados desde a lista manualmente.</value>
   </data>
   <data name="CreatePackage_ChooseAssemblies.Label">
     <value xml:space="preserve">Selecionar ensamblados a incluir</value>
   </data>
   <data name="CreatePackage_ChooseFiles.HelpText">
-    <value xml:space="preserve">Em este paso pode selecionar os Arquivos a incluir não paquete. O asistente trata de determinar os Arquivos a incluir mas pode adicionar o eliminar Arquivos da lista. Pode também decidir si incluir os Arquivos fonte marcando a opção "Incluir fonte".</value>
+    <value xml:space="preserve">Neste passo pode selecionar os arquivos a incluir não paquete. O asistente trata de determinar os arquivos a incluir mas pode adicionar o deletar arquivos da lista. Pode também decidir se incluir os arquivos fonte marcando a opção "Incluir fonte".</value>
   </data>
   <data name="CreatePackage_ChooseFiles.Label">
-    <value xml:space="preserve">Selecionar Arquivos a incluir</value>
+    <value xml:space="preserve">Selecionar arquivos a incluir</value>
   </data>
   <data name="CreatePackage_CreateManifest.HelpText">
-    <value xml:space="preserve">Em base a sus seleções o asistente foi creado o manifiesto para o paquete. O manifiesto pode der visto na caja inferior. Pode editar o manifiesto antes de criar o paquete.</value>
+    <value xml:space="preserve">Em base a seus seleções o asistente foi creado o manifiesto para o paquete. O manifiesto pode der visto na caja inferior. Pode editar o manifiesto antes de criar o paquete.</value>
   </data>
   <data name="CreatePackage_CreateManifest.Label">
-    <value xml:space="preserve">criar manifiesto</value>
+    <value xml:space="preserve">Criar manifiesto</value>
   </data>
   <data name="CreatePackage_CreateManifestFile.Label">
-    <value xml:space="preserve">criar Arquivo de manifiesto:</value>
+    <value xml:space="preserve">Criar arquivo de manifiesto:</value>
   </data>
   <data name="CreatePackage_CreatePackage.Label">
-    <value xml:space="preserve">criar paquete</value>
+    <value xml:space="preserve">Criar paquete</value>
   </data>
   <data name="CreatePackage_FinalStep.HelpText">
-    <value xml:space="preserve">O último paso é criar o paquete. Para criar uma cópia do arquivo de manifiesto ative a opção "criar Arquivo manifiesto", o arquivo se criará o a pasta do paquete. Independientemente da configuração utilizada aquí, o manifiesto se guardará na base de datos e se añadirá ao paquete.</value>
+    <value xml:space="preserve">O último passo é criar o paquete. Para criar uma cópia do arquivo de manifiesto ative a opção "criar arquivo manifiesto", o arquivo se criará ou a pasta do paquete. Independentemente da configuração utilizada aqui, o manifiesto se guardará na base de dados e se añadirá ao paquete.</value>
   </data>
   <data name="CreatePackage_FinalStep.HelpTextTwo">
-    <value xml:space="preserve">Para criar um paquete ative a opção "criar paquete". O paquete se guardará em a pasta correspondiente dentro da pasta principal "Install" (por ejemplo: install/modules, install/skins, ...)</value>
+    <value xml:space="preserve">Para criar um paquete ative a opção "criar paquete". O paquete se guardará em a pasta correspondente dentro da pasta principal "Install" (por ejemplo: install/modules, install/skins, ...)</value>
   </data>
   <data name="CreatePackage_Folder.Label">
     <value xml:space="preserve">Pasta:</value>
   </data>
   <data name="CreatePackage_Header.Header">
-    <value xml:space="preserve">criar paquete</value>
+    <value xml:space="preserve">Criar paquete</value>
   </data>
   <data name="CreatePackage_Logs.HelpText">
-    <value xml:space="preserve">Na parte inferior pode revisar os resultados da creação do paquete.</value>
+    <value xml:space="preserve">Na parte inferior pode revisar os resultados da criação do paquete.</value>
   </data>
   <data name="CreatePackage_Logs.Label">
-    <value xml:space="preserve">Resultado da creação do paquete</value>
+    <value xml:space="preserve">Resultado da criação do paquete</value>
   </data>
   <data name="CreatePackage_ManifestFile.Label">
     <value xml:space="preserve">Arquivo de manifiesto:</value>
   </data>
   <data name="CreatePackage_ManifestFileName.HelpText">
-    <value xml:space="preserve">Introduzca o nombe do arquivo de manifiesto.</value>
+    <value xml:space="preserve">Introduza o nombe do arquivo de manifiesto.</value>
   </data>
   <data name="CreatePackage_ManifestFileName.Label">
     <value xml:space="preserve">Arquivo de manifiesto</value>
@@ -259,10 +259,10 @@
     <value xml:space="preserve">Manifiesto do paquete</value>
   </data>
   <data name="CreatePackage_PackageManifest.HelpText">
-    <value xml:space="preserve">Este asistente criará um manifiesto para a extensión. Si já foi creado um manifiesto (em uma ejecução anterior do asistente o bién manualmente) pode selecionar o manifiesto a usar seleccionando "Usar manifiesto existente" e seleccionando o manifiesto desde a lista desplegable de manifiestos que o sistema foi encontrado para a extensión.</value>
+    <value xml:space="preserve">Este asistente criará um manifiesto para a extensão. Se já foi creado um manifiesto (em uma execução anterior do asistente o bién manualmente) pode selecionar o manifiesto a usar seleccionando "Usar manifiesto existente" e seleccionando o manifiesto desde a lista desplegable de manifiestos que o sistema foi encontrado para a extensão.</value>
   </data>
   <data name="CreatePackage_RefreshFileList.Button">
-    <value xml:space="preserve">Atualizar lista de Arquivos</value>
+    <value xml:space="preserve">Atualizar lista de arquivos</value>
   </data>
   <data name="CreatePackage_ReviewManifest.Label">
     <value xml:space="preserve">Revisar manifiesto:</value>
@@ -271,16 +271,16 @@
     <value xml:space="preserve">Usar manifiesto existente:</value>
   </data>
   <data name="CreateSkin.Action">
-    <value xml:space="preserve">criar novo Tema</value>
+    <value xml:space="preserve">Criar novo Tema</value>
   </data>
   <data name="DashboardControl.Type">
     <value xml:space="preserve">Controles do tablón de mandos</value>
   </data>
   <data name="Delete.Button">
-    <value xml:space="preserve">Eliminar</value>
+    <value xml:space="preserve">Deletar</value>
   </data>
   <data name="Delete.Text">
-    <value xml:space="preserve">Desinstalar esta extensión</value>
+    <value xml:space="preserve">Desinstalar esta extensão</value>
   </data>
   <data name="DeleteExtension.Action">
     <value xml:space="preserve">Desinstalar extensões - {0}</value>
@@ -295,19 +295,19 @@
     <value xml:space="preserve">Está seguro que quer desinstalar {0}?</value>
   </data>
   <data name="DeleteFiles.HelpText">
-    <value xml:space="preserve">Ative esta opção para eliminar os Arquivos asociados com esta extensión.</value>
+    <value xml:space="preserve">Ative esta opção para deletar os arquivos associados com esta extensão.</value>
   </data>
   <data name="DeleteFiles.Label">
-    <value xml:space="preserve">Eliminar Arquivos?</value>
+    <value xml:space="preserve">Deletar arquivos?</value>
   </data>
   <data name="Deploy.Button">
     <value xml:space="preserve">Instalar</value>
   </data>
   <data name="Description.Header">
-    <value xml:space="preserve">Descripção</value>
+    <value xml:space="preserve">Descrição</value>
   </data>
   <data name="DescriptionLabel.Text">
-    <value xml:space="preserve">Descripção do producto</value>
+    <value xml:space="preserve">Descrição do producto</value>
   </data>
   <data name="DetailsLabel.Text">
     <value xml:space="preserve">Detalles</value>
@@ -319,31 +319,31 @@
     <value xml:space="preserve">Baixar</value>
   </data>
   <data name="Edit.Text">
-    <value xml:space="preserve">Editar esta extensión</value>
+    <value xml:space="preserve">Editar esta extensão</value>
   </data>
   <data name="EditAuthSystem_Enabled.Label">
     <value xml:space="preserve">Activado?</value>
   </data>
   <data name="EditAuthSystem_Enabled.Tooltip">
-    <value xml:space="preserve">Selecione esta opção para activar o sistema de autenticação.</value>
+    <value xml:space="preserve">Selecione esta opção para ativar o sistema de autenticação.</value>
   </data>
   <data name="EditAuthSystem_LoginCtrlSource.Label">
-    <value xml:space="preserve">Controle de inicio de sesión:</value>
+    <value xml:space="preserve">Controle de início de sessão:</value>
   </data>
   <data name="EditAuthSystem_LoginCtrlSource.Tooltip">
-    <value xml:space="preserve">A ruta do controle de inicio de sesión para este sistema de autenticação</value>
+    <value xml:space="preserve">A rota do controle de início de sessão para este sistema de autenticação</value>
   </data>
   <data name="EditAuthSystem_LogoffCtrlSource.Label">
-    <value xml:space="preserve">Controle de finalizar sesión:</value>
+    <value xml:space="preserve">Controle de finalizar sessão:</value>
   </data>
   <data name="EditAuthSystem_LogoffCtrlSource.Tooltip">
-    <value xml:space="preserve">A ruta do controle de finalizar sesión para este sistema de autenticação</value>
+    <value xml:space="preserve">A rota do controle de finalizar sessão para este sistema de autenticação</value>
   </data>
   <data name="EditAuthSystem_SettingsCtrlSource.Label">
     <value xml:space="preserve">Controle de configuração:</value>
   </data>
   <data name="EditAuthSystem_SettingsCtrlSource.Tooltip">
-    <value xml:space="preserve">Selecione esta opção para activar o sistema de autenticação.</value>
+    <value xml:space="preserve">Selecione esta opção para ativar o sistema de autenticação.</value>
   </data>
   <data name="EditAuthSystem_Type.Label">
     <value xml:space="preserve">Tipo de autenticação</value>
@@ -352,37 +352,37 @@
     <value xml:space="preserve">O tipo do sistema de autenticação (p.e. LiveID, OpenID, etc.)</value>
   </data>
   <data name="EditContainer_ThemePackageName.HelpText">
-    <value xml:space="preserve">Introduzca um nome para o paquete de tema</value>
+    <value xml:space="preserve">Introduza um nome para o paquete de tema</value>
   </data>
   <data name="EditContainer_ThemePackageName.Label">
     <value xml:space="preserve">Nome do tema</value>
   </data>
   <data name="EditExtension_CreatePackage.Button">
-    <value xml:space="preserve">criar o paquete</value>
+    <value xml:space="preserve">Criar o paquete</value>
   </data>
   <data name="EditExtension_ExtensionSettings.TabHeader">
     <value xml:space="preserve">Configuração</value>
   </data>
   <data name="EditExtension_License.TabHeader">
-    <value xml:space="preserve">Licencia</value>
+    <value xml:space="preserve">Licença</value>
   </data>
   <data name="EditExtension_Notify.Success">
-    <value xml:space="preserve">Extensión actualizada.</value>
+    <value xml:space="preserve">Extensão atualizada.</value>
   </data>
   <data name="EditExtension_OwnerDetails.Label">
     <value xml:space="preserve">Detalles do creador</value>
   </data>
   <data name="EditExtension_PackageDescription.HelpText">
-    <value xml:space="preserve">Descripção do paquete.</value>
+    <value xml:space="preserve">Descrição do paquete.</value>
   </data>
   <data name="EditExtension_PackageDescription.Label">
-    <value xml:space="preserve">Descripção</value>
+    <value xml:space="preserve">Descrição</value>
   </data>
   <data name="EditExtension_PackageEmailAddress.HelpText">
-    <value xml:space="preserve">Direção email do autor do paquete.</value>
+    <value xml:space="preserve">Endereço email do autor do paquete.</value>
   </data>
   <data name="EditExtension_PackageEmailAddress.Label">
-    <value xml:space="preserve">Direção email</value>
+    <value xml:space="preserve">Endereço email</value>
   </data>
   <data name="EditExtension_PackageFriendlyName.HelpText">
     <value xml:space="preserve">O nome amigable para o paquete.</value>
@@ -391,16 +391,16 @@
     <value xml:space="preserve">Nome amigable</value>
   </data>
   <data name="EditExtension_PackageIconFile.HelpText">
-    <value xml:space="preserve">O arquivo de icone para este paquete.</value>
+    <value xml:space="preserve">O arquivo de ícone para este paquete.</value>
   </data>
   <data name="EditExtension_PackageIconFile.Label">
-    <value xml:space="preserve">Icone</value>
+    <value xml:space="preserve">Ícone</value>
   </data>
   <data name="EditExtension_PackageInformation.TabHeader">
     <value xml:space="preserve">Informação</value>
   </data>
   <data name="EditExtension_PackageLicense.HelpText">
-    <value xml:space="preserve">A licencia para este paquete.</value>
+    <value xml:space="preserve">A licença para este paquete.</value>
   </data>
   <data name="EditExtension_PackageName.HelpText">
     <value xml:space="preserve">Nome do paquete (p.e. Empresa.Nome)</value>
@@ -427,7 +427,7 @@
     <value xml:space="preserve">Notas da versão</value>
   </data>
   <data name="EditExtension_PackageType.Label">
-    <value xml:space="preserve">Tipo de extensión</value>
+    <value xml:space="preserve">Tipo de extensão</value>
   </data>
   <data name="EditExtension_PackageURL.HelpText">
     <value xml:space="preserve">URL do autor.</value>
@@ -460,7 +460,7 @@
     <value xml:space="preserve">Paquete</value>
   </data>
   <data name="EditExtensions_TabHasError.Text">
-    <value xml:space="preserve">foi producido um error. A informação do paquete, configuração da extensión, licencia e notas da versão não foin podido guardar.</value>
+    <value xml:space="preserve">foi produzido um erro. A informação do paquete, configuração da extensão, licença e notas da versão não foi podido salvar.</value>
   </data>
   <data name="EditJavascriptLibrary_CustomCDN.HelpText">
     <value xml:space="preserve">URL personalizada para o CDN da libreria que se utilizará em lugar do CDN predeterminado.</value>
@@ -469,13 +469,13 @@
     <value xml:space="preserve">CDN personalizado</value>
   </data>
   <data name="EditJavascriptLibrary_DefaultCDN.HelpText">
-    <value xml:space="preserve">URL do CDN que se utilizará para a libreria. Se pode modificar proporcionando uma URL personalizada.</value>
+    <value xml:space="preserve">URL do CDN que se utilizará para a libreria. Se pode modificar fornecendo uma URL personalizada.</value>
   </data>
   <data name="EditJavascriptLibrary_DefaultCDN.Label">
     <value xml:space="preserve">CDN predeterminado</value>
   </data>
   <data name="EditJavascriptLibrary_DependsOn.HelpText">
-    <value xml:space="preserve">Muestra a lista de paquetes dos cuales depende este paquete.</value>
+    <value xml:space="preserve">Mostra a lista de paquetes dos cuales depende este paquete.</value>
   </data>
   <data name="EditJavascriptLibrary_DependsOn.Label">
     <value xml:space="preserve">Depende de</value>
@@ -487,7 +487,7 @@
     <value xml:space="preserve">Nome do arquivo</value>
   </data>
   <data name="EditJavascriptLibrary_LibraryName.HelpText">
-    <value xml:space="preserve">Nome da libreria JavaScript (por ejemplo "jQuery")</value>
+    <value xml:space="preserve">Nome da libreria JavaScript (por exemplo"jQuery")</value>
   </data>
   <data name="EditJavascriptLibrary_LibraryName.Label">
     <value xml:space="preserve">Nome a de libreria</value>
@@ -517,13 +517,13 @@
     <value xml:space="preserve">Versão</value>
   </data>
   <data name="EditJavascriptLibrary_UsedBy.HelpText">
-    <value xml:space="preserve">Muestra a lista de paquetes que utilizan esta librería.</value>
+    <value xml:space="preserve">Mostra a lista de paquetes que utilizan esta librería.</value>
   </data>
   <data name="EditJavascriptLibrary_UsedBy.Label">
     <value xml:space="preserve">Utilizado por</value>
   </data>
   <data name="EditModule_Add.Button">
-    <value xml:space="preserve">Añadir</value>
+    <value xml:space="preserve">adicionar</value>
   </data>
   <data name="EditModule_Assigned.Label">
     <value xml:space="preserve">Asignado</value>
@@ -538,7 +538,7 @@
     <value xml:space="preserve">classe do controlador</value>
   </data>
   <data name="EditModule_Dependencies.HelpText">
-    <value xml:space="preserve">Pode enumerar aquí as dependencias que tem o módulo.</value>
+    <value xml:space="preserve">Pode enumerar aqui as dependencias que tem o módulo.</value>
   </data>
   <data name="EditModule_Dependencies.Label">
     <value xml:space="preserve">Dependencias</value>
@@ -550,25 +550,25 @@
     <value xml:space="preserve">Pasta</value>
   </data>
   <data name="EditModule_IsPortable.HelpText">
-    <value xml:space="preserve">Identifica se o módulo é compatível com a interfaz IPortable, que permite exportar e importar conteúdo.</value>
+    <value xml:space="preserve">Identifica se o módulo é compatível com a interface IPortable, que permite exportar e importar conteúdo.</value>
   </data>
   <data name="EditModule_IsPortable.Label">
     <value xml:space="preserve">Permite exportar/importar?</value>
   </data>
   <data name="EditModule_IsPremiumModule.HelpText">
-    <value xml:space="preserve">Todos os módulos se podem asignar a os portais web. Sin embargo, os módulos premium não se asignarán automáticamente a os novos portais web não momento de su creação.</value>
+    <value xml:space="preserve">Todos os módulos se podem asignar a os portais web. Sem embargo, os módulos premium não se asignarão automáticamente a os novos portais web não momento de sua criação.</value>
   </data>
   <data name="EditModule_IsPremiumModule.Label">
     <value xml:space="preserve">É um módulo premium?</value>
   </data>
   <data name="EditModule_IsSearchable.HelpText">
-    <value xml:space="preserve">Identifica se o módulo soporta a interfaz ISearchable o ModuleBaseSearch, que permite indexar o conteúdo do módulo.</value>
+    <value xml:space="preserve">Identifica se o módulo soporta a interface ISearchable o ModuleBaseSearch, que permite indexar o conteúdo do módulo.</value>
   </data>
   <data name="EditModule_IsSearchable.Label">
     <value xml:space="preserve">Soporta indexação?</value>
   </data>
   <data name="EditModule_IsUpgradable.HelpText">
-    <value xml:space="preserve">Identifica se o módulo é compatível com a interfaz de IUpgradable, que permite ejecutar código personalizado quando se actualiza.</value>
+    <value xml:space="preserve">Identifica se o módulo é compatível com a interface de IUpgradable, que permite executar código personalizado quando se atualiza.</value>
   </data>
   <data name="EditModule_IsUpgradable.Label">
     <value xml:space="preserve">Soporta IUpgradable?</value>
@@ -604,7 +604,7 @@
     <value xml:space="preserve">Não soportado</value>
   </data>
   <data name="EditModule_Permissions.HelpText">
-    <value xml:space="preserve">Pode enumerar aquí as permissões de seguridade que o módulo requiere.</value>
+    <value xml:space="preserve">Pode enumerar aqui as permissões de segurança que o módulo requerir.</value>
   </data>
   <data name="EditModule_Permissions.Label">
     <value xml:space="preserve">Permissões</value>
@@ -613,19 +613,19 @@
     <value xml:space="preserve">Asignação de módulos premium</value>
   </data>
   <data name="EditModule_SaveAndClose.Button">
-    <value xml:space="preserve">Guardar e cerrar</value>
+    <value xml:space="preserve">Salvar e fechar</value>
   </data>
   <data name="EditModule_Unassigned.Label">
     <value xml:space="preserve">Não asignado</value>
   </data>
   <data name="EditSkinObject_ControlKey.HelpText">
-    <value xml:space="preserve">Entre uma clave para o SkinObject. A clave deve ser única.</value>
+    <value xml:space="preserve">Entre uma chave para o SkinObject. A chave deve ser única.</value>
   </data>
   <data name="EditSkinObject_ControlKey.Label">
-    <value xml:space="preserve">Clave de controle</value>
+    <value xml:space="preserve">Chave de controle</value>
   </data>
   <data name="EditSkinObject_ControlSrc.HelpText">
-    <value xml:space="preserve">Introduzca o origen deste controle. Se o controle é um controle do usuário, introduzca a ruta relativa desde a raíz da web</value>
+    <value xml:space="preserve">Introduza o origen deste controle. Se o controle é um controle do usuário, introduza a rota relativa desde a raiz da web</value>
   </data>
   <data name="EditSkinObject_ControlSrc.Label">
     <value xml:space="preserve">Origen do controle</value>
@@ -640,22 +640,22 @@
     <value xml:space="preserve">Gestionar temas</value>
   </data>
   <data name="ErrorLabel.Text">
-    <value xml:space="preserve">Error...</value>
+    <value xml:space="preserve">Erro...</value>
   </data>
   <data name="Errors.Text">
-    <value xml:space="preserve">errores</value>
+    <value xml:space="preserve">erros</value>
   </data>
   <data name="ExpandAll.Text">
     <value xml:space="preserve">Abrir todos</value>
   </data>
   <data name="Extension.Header">
-    <value xml:space="preserve">Extensión</value>
+    <value xml:space="preserve">Extensão</value>
   </data>
   <data name="ExtensionDetail.Text">
-    <value xml:space="preserve">Más detalles</value>
+    <value xml:space="preserve">Mais detalles</value>
   </data>
   <data name="ExtensionInstall.Action">
-    <value xml:space="preserve">Instalar extensión</value>
+    <value xml:space="preserve">Instalar extensão</value>
   </data>
   <data name="ExtensionLanguagePack.Type">
     <value xml:space="preserve">Paquetes de idioma</value>
@@ -673,7 +673,7 @@
     <value xml:space="preserve">Instalar</value>
   </data>
   <data name="InstallationError.Text">
-    <value xml:space="preserve">Um erro ocorreu durante a instalação. Pode obtener más informacion nos Arquivos de registro a continuação.</value>
+    <value xml:space="preserve">Houve um erro durante a instalação. Pode obter mais informacion nos arquivos de registro a continuação.</value>
   </data>
   <data name="InstalledExtensions.Text">
     <value xml:space="preserve">Extensões instaladas</value>
@@ -685,37 +685,37 @@
     <value xml:space="preserve">Instalado em {0}</value>
   </data>
   <data name="InstallerMoreInfo.Text">
-    <value xml:space="preserve">Si foi llegado a esta página é debido a que o instalador necessita obtener más informação antes de proceder.</value>
+    <value xml:space="preserve">Se foi llegado a esta página é devido a que o instalador necessita obter mais informação antes de proceder.</value>
   </data>
   <data name="InstallError.Text">
-    <value xml:space="preserve">foi producido um error ao leer os Arquivos da pasta temporal, vea a continuação.</value>
+    <value xml:space="preserve">foi produzido um erro ao leer os arquivos da pasta temporal, vea a continuação.</value>
   </data>
   <data name="installExtension.Text">
     <value xml:space="preserve">Instalar</value>
   </data>
   <data name="InstallExtension_AcceptLicense.Label">
-    <value xml:space="preserve">Acepta a licencia?</value>
+    <value xml:space="preserve">Acepta a licença?</value>
   </data>
   <data name="InstallExtension_Cancel.Button">
     <value xml:space="preserve">Cancelar</value>
   </data>
   <data name="InstallExtension_FileUploadDefault.Text">
-    <value xml:space="preserve">Arrastre e suelte um arquivo o clic aquí para navegar</value>
+    <value xml:space="preserve">Arrastre e largue um arquivo ou clique aqui para navegar</value>
   </data>
   <data name="InstallExtension_FileUploadDragOver.Text">
-    <value xml:space="preserve">Arrastre e suelte um arquivo</value>
+    <value xml:space="preserve">Arrastre e largue um arquivo</value>
   </data>
   <data name="InstallExtension_License.Header">
-    <value xml:space="preserve">Licencia</value>
+    <value xml:space="preserve">Licença</value>
   </data>
   <data name="InstallExtension_License.HelpText">
-    <value xml:space="preserve">Antes de proceder deve aceptar os términos de licenciamiento para esta extensión. Revise a licencia e marque a opção de verificação "Acepto os términos"</value>
+    <value xml:space="preserve">Antes de proceder deve aceitar os termos de licenciamento para esta extensão. Revise a licença e marque a opção de verificação "Acepto os termos"</value>
   </data>
   <data name="InstallExtension_Logs.Header">
     <value xml:space="preserve">Resumen de instalação do paquete</value>
   </data>
   <data name="InstallExtension_Logs.HelpText">
-    <value xml:space="preserve">A instalação foi finalizado. Vea más detalles a continuação.</value>
+    <value xml:space="preserve">A instalação foi finalizado. Vea mais detalles a continuação.</value>
   </data>
   <data name="InstallExtension_Or.Text">
     <value xml:space="preserve">o </value>
@@ -724,10 +724,10 @@
     <value xml:space="preserve">O paquete já está instalado.</value>
   </data>
   <data name="InstallExtension_PackageExists.HelpText">
-    <value xml:space="preserve">Si foi llegado a esta página é debido a que o instalador necessita obtener más informação antes de proceder.</value>
+    <value xml:space="preserve">Se foi llegado a esta página é devido a que o instalador necessita obter mais informação antes de proceder.</value>
   </data>
   <data name="InstallExtension_PackageExists.Warning">
-    <value xml:space="preserve">Atenção: Foi selecionado reparar a instalação deste paquete. &lt;br/&gt;Isto ocasionará que todos os Arquivos instalados previamente sean sobrescritos.</value>
+    <value xml:space="preserve">Atenção: Foi selecionado reparar a instalação deste paquete. &lt;br/&gt;Isto ocasionará que todos os arquivos instalados previamente sean sobrescritos.</value>
   </data>
   <data name="InstallExtension_PackageInfo.Header">
     <value xml:space="preserve">Informação</value>
@@ -748,51 +748,51 @@
     <value xml:space="preserve">Seguinte</value>
   </data>
   <data name="InstallExtension_UploadAFile.Text">
-    <value xml:space="preserve">Cargar um arquivo</value>
+    <value xml:space="preserve">Enviar um arquivo</value>
   </data>
   <data name="InstallExtension_UploadComplete.Text">
-    <value xml:space="preserve">Carga finalizada</value>
+    <value xml:space="preserve">Envio finalizada</value>
   </data>
   <data name="InstallExtension_UploadFailed.Text">
-    <value xml:space="preserve">A carga do arquivo comprimido falhou: </value>
+    <value xml:space="preserve">A envio do arquivo comprimido falhou: </value>
   </data>
   <data name="InstallExtension_UploadFailedUnknown.Text">
-    <value xml:space="preserve">A carga de Arquivo comprimido falhou</value>
+    <value xml:space="preserve">A envio de arquivo comprimido falhou</value>
   </data>
   <data name="InstallExtension_UploadFailedUnknownLogs.Text">
-    <value xml:space="preserve">foi producido um error inesperado. Verifique o arquivo de instalação e vuelva a intentarlo.&lt;br/&gt;
-Alguno errores frecuentes nos Arquivos de instalação podem ser:
+    <value xml:space="preserve">Houve um erro inesperado. Verifique o arquivo de instalação e tente de novo.&lt;br/&gt;
+Algum erros frecuentes nos arquivos de instalação podem ser:
 &lt;ul&gt;
-&lt;li&gt;O arquivo é demasiado grande. Verifique a configuração de IIS para o tamaño máximo de Arquivos.&lt;/li&gt;
-&lt;li&gt;Faltan Arquivos de recursos não zip.&lt;/li&gt;
-&lt;li&gt;Há Arquivos inválidos o não permitidos não zip.&lt;/li&gt;
-&lt;li&gt;O arquivo não tem a extensión .zip.&lt;/li&gt;
-&lt;li&gt;Verifique que está identificado não portal.&lt;/li&gt;
+&lt;li&gt;O arquivo é muito grande. Verifique a configuração de IIS para o tamanho máximo de arquivos.&lt;/li&gt;
+&lt;li&gt;Faltan arquivos de recursos não zip.&lt;/li&gt;
+&lt;li&gt;Há arquivos inválidos ou não permitidos não zip.&lt;/li&gt;
+&lt;li&gt;O arquivo não tem a extensão .zip.&lt;/li&gt;
+&lt;li&gt;Verifique que está identificado no portal.&lt;/li&gt;
 &lt;/ul&gt;</value>
   </data>
   <data name="InstallExtension_Uploading.Text">
     <value xml:space="preserve">Cargando</value>
   </data>
   <data name="InstallExtension_UploadPackage.Header">
-    <value xml:space="preserve">Cargar paquete de extensión</value>
+    <value xml:space="preserve">Enviar paquete de extensão</value>
   </data>
   <data name="InstallExtension_UploadPackage.HelpText">
     <value xml:space="preserve">Para iniciar a instalação cargue o paquete arrastrando o arquivo não campo seguinte.</value>
   </data>
   <data name="InstallExtensions.Action">
-    <value xml:space="preserve">Instalar extensões disponívels</value>
+    <value xml:space="preserve">Instalar extensões disponíveis</value>
   </data>
   <data name="InUse.Header">
     <value xml:space="preserve">Em uso</value>
   </data>
   <data name="InvalidDNNManifest.Text">
-    <value xml:space="preserve">Este paquete não é uma extensión válida para DNN por que não include um arquivo de manifiesto. Os Arquivos antiguos de temas não tenían Arquivos de manifiesto. Si este paquete é deste tipo marque a opção apropiada a continuação e pulse o botão Seguinte.</value>
+    <value xml:space="preserve">Este paquete não é uma extensão válida para DNN por que não include um arquivo de manifiesto. Os arquivos antiguos de temas não tenían arquivos de manifiesto. Se este paquete é deste tipo marque a opção apropiada a continuação e pulse o botão Seguinte.</value>
   </data>
   <data name="InvalidExt.Text">
-    <value xml:space="preserve">Entenxión de Arquivos inválida - {0}</value>
+    <value xml:space="preserve">Entenxão de arquivos inválida - {0}</value>
   </data>
   <data name="InvalidFiles.Text">
-    <value xml:space="preserve">Este paquete contém Arquivos com extensões inválidas {0}</value>
+    <value xml:space="preserve">Este paquete contém arquivos com extensões inválidas {0}</value>
   </data>
   <data name="JavaScript_Library.Type">
     <value xml:space="preserve">Librerías JavaScript</value>
@@ -801,43 +801,43 @@ Alguno errores frecuentes nos Arquivos de instalação podem ser:
     <value xml:space="preserve">Idioma</value>
   </data>
   <data name="Language.Text">
-    <value xml:space="preserve">Editar Arquivos de idioma</value>
+    <value xml:space="preserve">Editar arquivos de idioma</value>
   </data>
   <data name="Language.Type">
     <value xml:space="preserve">Paquetes de idioma</value>
   </data>
   <data name="LanguageMessage.Text">
-    <value xml:space="preserve">Haga clic para obtener o paquete de idioma</value>
+    <value xml:space="preserve">Clique aqui para obter o paquete de idioma</value>
   </data>
   <data name="LanguagePackInstall.Action">
     <value xml:space="preserve">Instalar o paquete de idioma</value>
   </data>
   <data name="lblUpdate.Text">
-    <value xml:space="preserve">Esta aplicação contém um servicio de actualização que muestra um icone quando uma nova versão para a extensión está disponble. O icone que aparece contendrá uma indicação visual si uma extensión instalada actualmente contém uma vulnerabilidade de seguridade potencial. Si se identifica uma vulnerabilidade de seguridade, se recomienda atualizar a versão más reciente da extensión. ao hacer clic não icone será redirigido a uma ubicação donde se podrá adquirir a extensión para su instalação inmediata.</value>
+    <value xml:space="preserve">Esta aplicação contém um servicio de atualização que mostra um ícone quando uma nova versão para a extensão está disponble. O ícone que aparece contendrá uma indicação visual se uma extensão instalada atualmente contém uma vulnerabilidade de segurança potencial. Se se identifica uma vulnerabilidade de segurança, se recomienda atualizar a versão mais reciente da extensão. ao hacer clic no ícone será redirigido a uma ubicação daonde se poderá adquirir a extensão para sua instalação inmediata.</value>
   </data>
   <data name="Library.Type">
     <value xml:space="preserve">Librerías</value>
   </data>
   <data name="License.Text">
-    <value xml:space="preserve">Licencia:</value>
+    <value xml:space="preserve">Licença:</value>
   </data>
   <data name="LicenseLabel.Text">
-    <value xml:space="preserve">Licencia</value>
+    <value xml:space="preserve">Licença</value>
   </data>
   <data name="ListExtensions.Text">
-    <value xml:space="preserve">Aprenda más sobre cómo ofrecer sus extensões &lt;a href="http://store.dnnsoftware.com/make-money/become-a-seller" target="_blank" class="info"&gt;aquí&lt;/a&gt;.</value>
+    <value xml:space="preserve">Aprenda mais sobre cómo ofrecer seus extensões &lt;a href="http://store.dnnsoftware.com/make-money/become-a-seller" target="_blank" class="info"&gt;aqui&lt;/a&gt;.</value>
   </data>
   <data name="Loading.Text" lastModified="2018-03-24 12:16:46">
     <value xml:space="preserve">Um momento, estamos cargando as extensões...</value>
   </data>
   <data name="Loading.Tooltip" lastModified="2018-03-24 12:16:46">
-    <value xml:space="preserve">As extensões se cargarán em um momento</value>
+    <value xml:space="preserve">As extensões se cargarão em um momento</value>
   </data>
   <data name="LoadingLabel.Text">
     <value xml:space="preserve">Cargando</value>
   </data>
   <data name="LoadMore.Button">
-    <value xml:space="preserve">Ver más</value>
+    <value xml:space="preserve">Ver mais</value>
   </data>
   <data name="Module.Type">
     <value xml:space="preserve">Módulos</value>
@@ -873,10 +873,10 @@ Alguno errores frecuentes nos Arquivos de instalação podem ser:
     <value xml:space="preserve">Controles do módulo</value>
   </data>
   <data name="ModuleDefinitions_Save.Button">
-    <value xml:space="preserve">Guardar</value>
+    <value xml:space="preserve">Salvar</value>
   </data>
   <data name="ModuleDefinitions_Source.Label">
-    <value xml:space="preserve">Ruta</value>
+    <value xml:space="preserve">Rota</value>
   </data>
   <data name="ModuleDefinitions_Title.Label">
     <value xml:space="preserve">Título</value>
@@ -891,10 +891,10 @@ Alguno errores frecuentes nos Arquivos de instalação podem ser:
     <value xml:space="preserve">Uso do módulo {0}</value>
   </data>
   <data name="MoreExtensions.Text">
-    <value xml:space="preserve">Más extensões</value>
+    <value xml:space="preserve">Mais extensões</value>
   </data>
   <data name="MoreInformation.Text">
-    <value xml:space="preserve">Más informacion</value>
+    <value xml:space="preserve">Mais informacion</value>
   </data>
   <data name="Name.Header">
     <value xml:space="preserve">Nome</value>
@@ -921,25 +921,25 @@ Alguno errores frecuentes nos Arquivos de instalação podem ser:
     <value xml:space="preserve">Cancelar</value>
   </data>
   <data name="NewModule_Create.Button">
-    <value xml:space="preserve">criar</value>
+    <value xml:space="preserve">Criar</value>
   </data>
   <data name="NewModule_CreateFrom.HelpText">
     <value xml:space="preserve">Pode criar um novo módulo de tres maneras diferentes. Selecione o método a utilizar. 1.Novo: crea um novo controle de módulo. 2.Controle: crea um módulo a partir de um controle existente. 3.Manifiesto: crea um módulo a partir de um manifiesto existente.</value>
   </data>
   <data name="NewModule_CreateFrom.Label">
-    <value xml:space="preserve">criar módulo desde:</value>
+    <value xml:space="preserve">Criar módulo desde:</value>
   </data>
   <data name="NewModule_Description.HelpText">
-    <value xml:space="preserve">Introduzca a descripção do módulo</value>
+    <value xml:space="preserve">Introduza a descrição do módulo</value>
   </data>
   <data name="NewModule_Description.Label">
-    <value xml:space="preserve">Descripção</value>
+    <value xml:space="preserve">Descrição</value>
   </data>
   <data name="NewModule_FileName.HelpText">
-    <value xml:space="preserve">Introduzca o nome o controle do módulo</value>
+    <value xml:space="preserve">Introduza o nome o controle do módulo</value>
   </data>
   <data name="NewModule_FileName.Label">
-    <value xml:space="preserve">Nome de Arquivo</value>
+    <value xml:space="preserve">Nome de arquivo</value>
   </data>
   <data name="NewModule_Language.HelpText">
     <value xml:space="preserve">Selecione o lenguaje.</value>
@@ -948,22 +948,22 @@ Alguno errores frecuentes nos Arquivos de instalação podem ser:
     <value xml:space="preserve">Lenguaje</value>
   </data>
   <data name="NewModule_ModuleFolder.HelpText">
-    <value xml:space="preserve">Pasta donde se encontran os Arquivos e pastas do módulo.</value>
+    <value xml:space="preserve">Pasta daonde se encontran os arquivos e pastas do módulo.</value>
   </data>
   <data name="NewModule_ModuleFolder.Label">
     <value xml:space="preserve">Pasta do módulo</value>
   </data>
   <data name="NewModule_ModuleName.HelpText">
-    <value xml:space="preserve">Introduzca um nome único para o módulo.</value>
+    <value xml:space="preserve">Introduza um nome único para o módulo.</value>
   </data>
   <data name="NewModule_ModuleName.Label">
     <value xml:space="preserve">Nome do módulo</value>
   </data>
   <data name="NewModule_NoneSpecified.Text">
-    <value xml:space="preserve">&lt; Sin especificar &gt;</value>
+    <value xml:space="preserve">&lt; Sem especificar &gt;</value>
   </data>
   <data name="NewModule_OwnerFolder.HelpText">
-    <value xml:space="preserve">Le sugerimos que utilice um espaço de nomes único para sus módulos para evitar possívels colisões com outros desarrolladores. Entre o nome de su organização o empresa, esta informação se utilizará como prefijo do módulo.</value>
+    <value xml:space="preserve">Le sugerimos que utilize um espaço de nomes único para seus módulos para evitar possívels colisões com outros desarrolladores. Entre o nome de sua organização o empresa, esta informação se utilizará como prefijo do módulo.</value>
   </data>
   <data name="NewModule_OwnerFolder.Label">
     <value xml:space="preserve">Pasta do propietario</value>
@@ -984,10 +984,10 @@ Alguno errores frecuentes nos Arquivos de instalação podem ser:
     <value xml:space="preserve">Nenhum</value>
   </data>
   <data name="NoResults.Text">
-    <value xml:space="preserve">Não foin encontrado extensões</value>
+    <value xml:space="preserve">Não foi encontrado extensões</value>
   </data>
   <data name="NotSpecified.Text">
-    <value xml:space="preserve">Sin especificar</value>
+    <value xml:space="preserve">Sem especificar</value>
   </data>
   <data name="OrderLabel.Text">
     <value xml:space="preserve">Orden:</value>
@@ -999,13 +999,13 @@ Alguno errores frecuentes nos Arquivos de instalação podem ser:
     <value xml:space="preserve">Persona Bar</value>
   </data>
   <data name="plLocales.Help">
-    <value xml:space="preserve">Selecione um idioma da lista para determinar que extensões tienem um paquete de idioma disponível para este idioma. Si existe algún paquete de idioma, clique o enlace para baixarlo e instalarlo.</value>
+    <value xml:space="preserve">Selecione um idioma da lista para determinar que extensões tem um paquete de idioma disponível para este idioma. Se existe algún paquete de idioma, clique o link para baixarlo e instalarlo.</value>
   </data>
   <data name="plLocales.Text">
     <value xml:space="preserve">Buscar paquetes de idioma:</value>
   </data>
   <data name="plPackageTypes.Help">
-    <value xml:space="preserve">Selecione o tipo de extensión da lista.</value>
+    <value xml:space="preserve">Selecione o tipo de extensão da lista.</value>
   </data>
   <data name="plPackageTypes.Text">
     <value xml:space="preserve">Filtrar por tipo:</value>
@@ -1029,7 +1029,7 @@ Alguno errores frecuentes nos Arquivos de instalação podem ser:
     <value xml:space="preserve">Extensões compradas</value>
   </data>
   <data name="Save.Button">
-    <value xml:space="preserve">Guardar</value>
+    <value xml:space="preserve">Salvar</value>
   </data>
   <data name="Search.Text">
     <value xml:space="preserve">Buscar</value>
@@ -1071,7 +1071,7 @@ Alguno errores frecuentes nos Arquivos de instalação podem ser:
     <value xml:space="preserve">Tipo</value>
   </data>
   <data name="TypeLabel.Help">
-    <value xml:space="preserve">Selecione o tipo de extensión</value>
+    <value xml:space="preserve">Selecione o tipo de extensão</value>
   </data>
   <data name="TypeLabel.Text">
     <value xml:space="preserve">Tipo:</value>
@@ -1083,13 +1083,13 @@ Alguno errores frecuentes nos Arquivos de instalação podem ser:
     <value xml:space="preserve">Sí</value>
   </data>
   <data name="UnsavedChanges.HelpText">
-    <value xml:space="preserve">Tem cambios sin guardar. Está seguro que quer continuar?</value>
+    <value xml:space="preserve">Tem mudanças sem salvar. Está seguro que quer continuar?</value>
   </data>
   <data name="Upgrade.Header">
     <value xml:space="preserve">Atualizar?</value>
   </data>
   <data name="UpgradeMessage.Text">
-    <value xml:space="preserve">Clic aquí para obtener a actualização</value>
+    <value xml:space="preserve">Clic aqui para obter a atualização</value>
   </data>
   <data name="VendorLabel.Text">
     <value xml:space="preserve">Vendedor:</value>
@@ -1101,13 +1101,13 @@ Alguno errores frecuentes nos Arquivos de instalação podem ser:
     <value xml:space="preserve">Versão mínima requerida:</value>
   </data>
   <data name="ViewErrorLog.Text">
-    <value xml:space="preserve">[ Ver registro de errores ]</value>
+    <value xml:space="preserve">[ Ver registro de erros ]</value>
   </data>
   <data name="Widget.Type">
     <value xml:space="preserve">Widgets </value>
   </data>
   <data name="ZipCriticalError.Text">
-    <value xml:space="preserve">foi producido um error ao leer o arquivo zip.</value>
+    <value xml:space="preserve">foi produzido um erro ao leer o arquivo zip.</value>
   </data>
   <data name="AppDescription.Text">
     <value>

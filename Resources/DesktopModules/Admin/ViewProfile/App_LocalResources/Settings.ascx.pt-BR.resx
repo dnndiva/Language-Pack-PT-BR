@@ -19,16 +19,16 @@
     <value xml:space="preserve">Ative esta opção para incluir o botão de Editar perfil</value>
   </data>
   <data name="IncludeButton.Text">
-    <value xml:space="preserve">Incluir botón de editar</value>
+    <value xml:space="preserve">Incluir botão de editar</value>
   </data>
   <data name="LoadDefault.Confirm">
-    <value xml:space="preserve">Está ação sobrescribirá a planilha existente. Está seguro de que quer continuar?</value>
+    <value xml:space="preserve">Está ação sobrescreverá o template existente. Está seguro de que quer continuar?</value>
   </data>
   <data name="LoadDefault.Text">
-    <value xml:space="preserve">Cargar predeterminada</value>
+    <value xml:space="preserve">Enviar predeterminada</value>
   </data>
   <data name="plTemplate.Help">
-    <value xml:space="preserve">Entre a planilha para mostrar o perfil do usuario.</value>
+    <value xml:space="preserve">Entre o template para mostrar o perfil do usuário.</value>
   </data>
   <data name="plTemplate.Text">
     <value xml:space="preserve">planilha de perfil:</value>

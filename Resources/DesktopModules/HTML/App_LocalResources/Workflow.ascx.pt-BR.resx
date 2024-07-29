@@ -34,13 +34,13 @@
     <value xml:space="preserve">Historial de versões</value>
   </data>
   <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;p&gt;O módulo Text/HTML hace texto plano, texto enriquecido e HTML. Están disponívels 5 vistas diferentes de edição: &lt;/p&gt;
+    <value xml:space="preserve">&lt;p&gt;O módulo Text/HTML hace texto plano, texto enriquecido e HTML. Están disponíveis 5 vistas diferentes de edição: &lt;/p&gt;
 &lt;OL&gt;
-&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / Texto&lt;/STRONG&gt;: Interpretação de texto básico e etiquetas HTML. O texto introducido em uma nova linea é maquetado como um salto de linea. O estilo de texto é Normal como foi establecido em su hoja de estilo. 
-&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / HTML&lt;/STRONG&gt;: Muestra o texto básico em formato HTML.
-&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / Raw&lt;/STRONG&gt;: Muestra o texto básico em formato HTML. O texto introducido em uma nova linea não é interpretado como salto de linea.
+&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / Texto&lt;/STRONG&gt;: Interpretação de texto básico e etiquetas HTML. O texto introduzido em uma nova linea é maquetado como um salto de linea. O estilo de texto é Normal como foi establecido em sua hoja de estilo. 
+&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / HTML&lt;/STRONG&gt;: Mostra o texto básico em formato HTML.
+&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / Raw&lt;/STRONG&gt;: Mostra o texto básico em formato HTML. O texto introduzido em uma nova linea não é interpretado como salto de linea.
 &lt;li&gt;&lt;STRONG&gt;Editor de Texto Enriquecido / HTML&lt;/STRONG&gt;: Permite pegar HTML desde outras fuentes.
-&lt;li&gt;&lt;STRONG&gt;Editor de Texto Enriquecido / Diseño&lt;/STRONG&gt;: Um procesador de texto o editor WYSIWYG (What You See is What You Get) com funcionalidades como hiperenlaces, enlaces de email, Administrador de Arquivos, galería de imágenes, puntos de interrupção, corretor ortográfico, e mucho más.</value>
+&lt;li&gt;&lt;STRONG&gt;Editor de Texto Enriquecido / Diseño&lt;/STRONG&gt;: Um procesador de texto o editor WYSIWYG (What You See is What You Get) com funcionalidades como hiperinterfaces, interfaces de email, Administrador de arquivos, galería de imágenes, pontos de interrupção, corretor ortográfico, e mucho mais.</value>
   </data>
   <data name="plAtive.Help">
     <value xml:space="preserve">Especifique se o estado está activo</value>
@@ -49,16 +49,16 @@
     <value xml:space="preserve">Activo</value>
   </data>
   <data name="plDeleted.Help">
-    <value xml:space="preserve">Especifique si este fluxo de trabalho está o não activo</value>
+    <value xml:space="preserve">Especifique se este fluxo de trabalho está ou não activo</value>
   </data>
   <data name="plDeleted.Text">
-    <value xml:space="preserve">Eliminado</value>
+    <value xml:space="preserve">Deletado</value>
   </data>
   <data name="plDescription.Help">
-    <value xml:space="preserve">Entre uma descripção para o fluxo de trabalho</value>
+    <value xml:space="preserve">Entre uma descrição para o fluxo de trabalho</value>
   </data>
   <data name="plDescription.Text">
-    <value xml:space="preserve">Descripção</value>
+    <value xml:space="preserve">Descrição</value>
   </data>
   <data name="plHistory.Help">
     <value xml:space="preserve">Especificar o número máximo de versões a conservar</value>
@@ -67,7 +67,7 @@
     <value xml:space="preserve">Historial</value>
   </data>
   <data name="plMaximumVersionHistory.Help">
-    <value xml:space="preserve">Especificar o número máximo de versões de conteúdo a mantener não histórico para um módulo (entre zero para mantener todas as verões)</value>
+    <value xml:space="preserve">Especificar o número máximo de versões de conteúdo a manter não histórico para um módulo (entre zero para manter todas as verões)</value>
   </data>
   <data name="plMaximumVersionHistory.Text">
     <value xml:space="preserve">Histórico</value>
@@ -106,9 +106,9 @@
     <value xml:space="preserve">Estado</value>
   </data>
   <data name="WorkflowExists.Text">
-    <value xml:space="preserve">Já existe em este sitio web um fluxo de trabalho com o nome especificado</value>
+    <value xml:space="preserve">Já existe neste site web um fluxo de trabalho com o nome especificado</value>
   </data>
   <data name="WorkFlowStateHelp.Text">
-    <value xml:space="preserve">Nesta seção se podem gestionar os estados de fluxo de trabalho. Tenga em conta que uma vez que um fluxo de trabalho se está utilizando não se pode eliminar nenhum dos estados do fluxo de trabalho asociado.Também o primer e último estado de um fluxo de trabalho não podem ser eliminados.</value>
+    <value xml:space="preserve">Nesta seção se podem gestionar os estados de fluxo de trabalho. Tenga em conta que uma vez que um fluxo de trabalho se está utilizando não pode ser deletado nenhum dos estados do fluxo de trabalho associado.Também o primeir e último estado de um fluxo de trabalho não podem ser deletados.</value>
   </data>
 </root>

@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AcceptFriend.Text">
-    <value xml:space="preserve">Aceptar petições de maigos</value>
+    <value xml:space="preserve">Aceitar petições de maigos</value>
   </data>
   <data name="AddFriend.Text">
     <value xml:space="preserve">Adicionar como amigo</value>
@@ -25,10 +25,10 @@
     <value xml:space="preserve">Adjunto(s)</value>
   </data>
   <data name="AutoSuggestError.Text">
-    <value xml:space="preserve">foi producido um error ao obtener as sugerencias:</value>
+    <value xml:space="preserve">foi produzido um erro ao obter as sugerencias:</value>
   </data>
   <data name="Browse.Text">
-    <value xml:space="preserve">Explorar sitio</value>
+    <value xml:space="preserve">Explorar site</value>
   </data>
   <data name="Cancel.Text">
     <value xml:space="preserve">Cancelar</value>
@@ -40,10 +40,10 @@
     <value xml:space="preserve">País</value>
   </data>
   <data name="CreateMessageError.Text">
-    <value xml:space="preserve">foi producido um error ao criar a mensagem. Inténtelo de novo más tarde.</value>
+    <value xml:space="preserve">foi produzido um erro ao criar a mensagem. Inténtelo de novo mais tarde.</value>
   </data>
   <data name="CreateMessageErrorWithDescription.Text">
-    <value xml:space="preserve">foi producido um error ao criar a mensagem:</value>
+    <value xml:space="preserve">foi produzido um erro ao criar a mensagem:</value>
   </data>
   <data name="DismissThis.Text">
     <value xml:space="preserve">Descartar</value>
@@ -58,19 +58,19 @@
     <value xml:space="preserve">Seguir</value>
   </data>
   <data name="FriendPending.Text">
-    <value xml:space="preserve">Petição de amigo pendiente</value>
+    <value xml:space="preserve">Petição de amigo pendente</value>
   </data>
   <data name="Loading.Text">
     <value xml:space="preserve">Cargando ...</value>
   </data>
   <data name="LoadMore.Text">
-    <value xml:space="preserve">Cargar más</value>
+    <value xml:space="preserve">Enviar mais</value>
   </data>
   <data name="Message.Text">
-    <value xml:space="preserve">Su mensagem</value>
+    <value xml:space="preserve">Sua mensagem</value>
   </data>
   <data name="MessageSent.Text">
-    <value xml:space="preserve">Su mensagem foi enviado corretamente.</value>
+    <value xml:space="preserve">Sua mensagem foi enviado corretamente.</value>
   </data>
   <data name="MessageSentTitle.Text">
     <value xml:space="preserve">Mensagem enviado</value>
@@ -79,7 +79,7 @@
     <value xml:space="preserve">Nome</value>
   </data>
   <data name="NoMembers.Text">
-    <value xml:space="preserve">Não foin encontrado miembros para as condições de busca entradas.</value>
+    <value xml:space="preserve">Não foi encontrado miembros para as condições de busca entradas.</value>
   </data>
   <data name="NoResults.Text">
     <value xml:space="preserve">Nenhum resultado</value>
@@ -91,10 +91,10 @@
     <value xml:space="preserve">Atualizar resultados</value>
   </data>
   <data name="Remove.Text">
-    <value xml:space="preserve">Eliminar adjunto</value>
+    <value xml:space="preserve">Deletar adjunto</value>
   </data>
   <data name="RemoveFriend.Text">
-    <value xml:space="preserve">Eliminar amigo</value>
+    <value xml:space="preserve">Deletar amigo</value>
   </data>
   <data name="Search.Text">
     <value xml:space="preserve">Buscar</value>
@@ -115,10 +115,10 @@
     <value xml:space="preserve">Enviar mensagem</value>
   </data>
   <data name="ServerError.Text">
-    <value xml:space="preserve">foi producido um error ao procesar a petição. Inténtelo más tarde.</value>
+    <value xml:space="preserve">foi produzido um erro ao procesar a petição. Inténtelo mais tarde.</value>
   </data>
   <data name="ServerErrorWithDescription.Text">
-    <value xml:space="preserve">foi producido um error ao procesar a petição:</value>
+    <value xml:space="preserve">foi produzido um erro ao procesar a petição:</value>
   </data>
   <data name="Subject.Text">
     <value xml:space="preserve">Assunto</value>
@@ -127,7 +127,7 @@
     <value xml:space="preserve">Espere antes de enviar um novo mensagem.</value>
   </data>
   <data name="Title.Text">
-    <value xml:space="preserve">Escriba su mensagem</value>
+    <value xml:space="preserve">Digite sua mensagem</value>
   </data>
   <data name="To.Text">
     <value xml:space="preserve">Enviar a</value>
@@ -136,7 +136,7 @@
     <value xml:space="preserve">Dejar de seguir</value>
   </data>
   <data name="Upload.Text">
-    <value xml:space="preserve">Cargar desde Mi PC</value>
+    <value xml:space="preserve">Enviar desde Mi PC</value>
   </data>
   <data name="UserName.Text">
     <value xml:space="preserve">Nome do usuário</value>

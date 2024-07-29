@@ -19,16 +19,16 @@
     <value xml:space="preserve">Categoría</value>
   </data>
   <data name="cmdApply.Text">
-    <value xml:space="preserve">Aplicar cambios</value>
+    <value xml:space="preserve">Aplicar mudanças</value>
   </data>
   <data name="cmdRefresh.Text">
-    <value xml:space="preserve">Atualizar datos</value>
+    <value xml:space="preserve">Atualizar dados</value>
   </data>
   <data name="ControlTitle_manageprofile.Text">
-    <value xml:space="preserve">Administrar propriedadees do perfil</value>
+    <value xml:space="preserve">Administrar propriedades do perfil</value>
   </data>
   <data name="DataType.Header">
-    <value xml:space="preserve">Tipo de datos</value>
+    <value xml:space="preserve">Tipo de dados</value>
   </data>
   <data name="DefaultValue.Header">
     <value xml:space="preserve">Valor padrão</value>
@@ -37,7 +37,7 @@
     <value xml:space="preserve">Visibilidade padrão</value>
   </data>
   <data name="Delete.Text">
-    <value xml:space="preserve">Eliminar</value>
+    <value xml:space="preserve">Deletar</value>
   </data>
   <data name="Edit.Text">
     <value xml:space="preserve">Editar</value>
@@ -55,13 +55,13 @@
     <value xml:space="preserve">Nome</value>
   </data>
   <data name="ProfilePropertiesHelp.Text">
-    <value xml:space="preserve">Pode mudar o orden dos campos do perfil e indicar cuales son obrigatórios o visívels nesta pantalla. Haga clic em "Aplicar cambios" para guardar cualquier cambio que haga. Para editar os detalles de cada propriedade do perfil haga clic não icone de lápiz na primera columna da tabela.</value>
+    <value xml:space="preserve">Pode mudar o orden dos campos do perfil e indicar cuales são obrigatórios o visívels nesta pantalla. Clique aqui em "Aplicar mudanças" para salvar cualquier cambio que haga. Para editar os detalles de cada propriedade do perfil clique aqui no ícone de lápis na primeira columna da tabela.</value>
   </data>
   <data name="Required.Header">
     <value xml:space="preserve">Obrigatório</value>
   </data>
   <data name="ValidationExpression.Header">
-    <value xml:space="preserve">Expresión de validação</value>
+    <value xml:space="preserve">Expressão de validação</value>
   </data>
   <data name="Visível.Header">
     <value xml:space="preserve">Visível </value>

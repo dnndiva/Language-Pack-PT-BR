@@ -19,6 +19,6 @@
     <value xml:space="preserve">Configuração de autenticação</value>
   </data>
   <data name="NoProvidersEnabled.Text">
-    <value xml:space="preserve">Não há nenhum provedor activo. Se utilizará o provedor estándar de autenticação de DotNetNuke.</value>
+    <value xml:space="preserve">Não há nenhum provedor activo. Se utilizará o provedor padrão de autenticação de DotNetNuke.</value>
   </data>
 </root>

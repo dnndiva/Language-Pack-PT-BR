@@ -19,7 +19,7 @@
     <value xml:space="preserve">Arquivos verificados</value>
   </data>
   <data name="AnalyzingPackage.Text">
-    <value xml:space="preserve">Analizando paquete para importação de sitio...</value>
+    <value xml:space="preserve">Analizando paquete para importação de site...</value>
   </data>
   <data name="Assets.Text">
     <value xml:space="preserve">Recursos</value>
@@ -58,7 +58,7 @@
     <value xml:space="preserve">Sí, cancelar</value>
   </data>
   <data name="ConfirmDelete.Text">
-    <value xml:space="preserve">Sí, eliminar</value>
+    <value xml:space="preserve">Sí, deletar</value>
   </data>
   <data name="Content.Text">
     <value xml:space="preserve">Conteúdo</value>
@@ -70,31 +70,31 @@
     <value xml:space="preserve">Creado o </value>
   </data>
   <data name="Delete.Text">
-    <value xml:space="preserve">Eliminar</value>
+    <value xml:space="preserve">Deletar</value>
   </data>
   <data name="DeletedPortal.Text">
-    <value xml:space="preserve">Eliminado</value>
+    <value xml:space="preserve">Deletado</value>
   </data>
   <data name="DeleteJobMessage.Text">
-    <value xml:space="preserve">Está seguro que quer eliminar este proceso?</value>
+    <value xml:space="preserve">Está seguro que quer deletar este proceso?</value>
   </data>
   <data name="DeletionsInExport.Text">
     <value xml:space="preserve">Incluir borrados</value>
   </data>
   <data name="Description.Text">
-    <value xml:space="preserve">Descripção</value>
+    <value xml:space="preserve">Descrição</value>
   </data>
   <data name="EmptyDateTime.Text">
     <value xml:space="preserve">-- --</value>
   </data>
   <data name="Export.Text">
-    <value xml:space="preserve">Exportar datos</value>
+    <value xml:space="preserve">Exportar dados</value>
   </data>
   <data name="ExportButton.Text">
-    <value xml:space="preserve">Exportar datos</value>
+    <value xml:space="preserve">Exportar dados</value>
   </data>
   <data name="ExportFile.Text">
-    <value xml:space="preserve">Exportar Arquivo</value>
+    <value xml:space="preserve">Exportar arquivo</value>
   </data>
   <data name="ExportMode.Text">
     <value xml:space="preserve">Modo de exportação</value>
@@ -106,10 +106,10 @@
     <value xml:space="preserve">Diferencial</value>
   </data>
   <data name="ExportName.ErrorMessage">
-    <value xml:space="preserve">Tem que introducir um nome.</value>
+    <value xml:space="preserve">Tem que introduzir um nome.</value>
   </data>
   <data name="ExportRequestSubmit.ErrorMessage">
-    <value xml:space="preserve">Um erro ocorreu durante a petição de exportação. Inténtelo de novo.</value>
+    <value xml:space="preserve">Houve um erro durante a petição de exportação. Inténtelo de novo.</value>
   </data>
   <data name="ExportRequestSubmitted">
     <value xml:space="preserve">A petição de exportação foi adicionado a cola e empezará em breve.</value>
@@ -124,22 +124,22 @@
     <value xml:space="preserve">Extensões</value>
   </data>
   <data name="FileSize.Text">
-    <value xml:space="preserve">Tamaño</value>
+    <value xml:space="preserve">Tamanho</value>
   </data>
   <data name="FinishImporting.Text">
-    <value xml:space="preserve">Para finalizar a importação de datos a su sitio pulse o botão de continuar, o pulse em cancelar para não realizar nenhuma ação.</value>
+    <value xml:space="preserve">Para finalizar a importação de dados a seu site pulse o botão de continuar, o pulse em cancelar para não realizar nenhuma ação.</value>
   </data>
   <data name="FolderName.Text">
     <value xml:space="preserve">Nome da pasta</value>
   </data>
   <data name="Import.Text">
-    <value xml:space="preserve">Importar datos</value>
+    <value xml:space="preserve">Importar dados</value>
   </data>
   <data name="ImportButton.Text">
-    <value xml:space="preserve">Importar datos</value>
+    <value xml:space="preserve">Importar dados</value>
   </data>
   <data name="ImportRequestSubmit.ErrorMessage">
-    <value xml:space="preserve">Um erro ocorreu durante a petição de importação. Inténtelo de novo.</value>
+    <value xml:space="preserve">Houve um erro durante a petição de importação. Inténtelo de novo.</value>
   </data>
   <data name="ImportRequestSubmitted">
     <value xml:space="preserve">A petição de importação foi adicionado a cola e empezará em breve.</value>
@@ -163,10 +163,10 @@
     <value xml:space="preserve">Incluir permissões</value>
   </data>
   <data name="IncludeProfileProperties.Text">
-    <value xml:space="preserve">Incluir propriedadees do perfil</value>
+    <value xml:space="preserve">Incluir propriedades do perfil</value>
   </data>
   <data name="JobCancel.ErrorMessage">
-    <value xml:space="preserve">foi producido um error ao cancelar o proceso. Inténtelo de novo.</value>
+    <value xml:space="preserve">foi produzido um erro ao cancelar o proceso. Inténtelo de novo.</value>
   </data>
   <data name="JobCancelled.Text">
     <value xml:space="preserve">O proceso foi cancelado.</value>
@@ -175,13 +175,13 @@
     <value xml:space="preserve">Data</value>
   </data>
   <data name="JobDelete.ErrorMessage">
-    <value xml:space="preserve">foi producido um error ao eliminar o proceso. Inténtelo de novo.</value>
+    <value xml:space="preserve">foi produzido um erro ao deletar o proceso. Inténtelo de novo.</value>
   </data>
   <data name="JobDeleted.Text">
-    <value xml:space="preserve">O proceso foi eliminado.</value>
+    <value xml:space="preserve">O proceso foi deletado.</value>
   </data>
   <data name="JobPortal.Header">
-    <value xml:space="preserve">Sitio web</value>
+    <value xml:space="preserve">Site web</value>
   </data>
   <data name="JobStatus.Header">
     <value xml:space="preserve">Estado</value>
@@ -196,7 +196,7 @@
     <value xml:space="preserve">Finalizado</value>
   </data>
   <data name="JobStatus3.Text">
-    <value xml:space="preserve">Error</value>
+    <value xml:space="preserve">Erro</value>
   </data>
   <data name="JobStatus4.Text">
     <value xml:space="preserve">Cancelado</value>
@@ -214,7 +214,7 @@
     <value xml:space="preserve">Todas as importações</value>
   </data>
   <data name="JobUser.Header">
-    <value xml:space="preserve">Usuario</value>
+    <value xml:space="preserve">Usuário</value>
   </data>
   <data name="KeepImport.Text">
     <value xml:space="preserve">Não</value>
@@ -226,10 +226,10 @@
     <value xml:space="preserve">Última importação</value>
   </data>
   <data name="LastUpdate.Text">
-    <value xml:space="preserve">Última actualização</value>
+    <value xml:space="preserve">Última atualização</value>
   </data>
   <data name="lblLanguages.Help" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Selecione os idiomas adicionales que quiera incluir na planilha multi idioma, o selecione um somente idioma para uma planilha com um único idioma.</value>
+    <value xml:space="preserve">Selecione os idiomas adicionales que quiera incluir no template multi idioma, o selecione um somente idioma para umo template com um único idioma.</value>
   </data>
   <data name="lblLanguages.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Exportar idiomas</value>
@@ -262,7 +262,7 @@
     <value xml:space="preserve">Não</value>
   </data>
   <data name="NoExportItem.ErrorMessage" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">foi producido um error ao enviar a petição. Inténtelo de novo.</value>
+    <value xml:space="preserve">foi produzido um erro ao enviar a petição. Inténtelo de novo.</value>
   </data>
   <data name="NoJobs.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Não foi encontrado nenhum proceso</value>
@@ -271,10 +271,10 @@
     <value xml:space="preserve">Não foi encontrado nenhum paquete de importação</value>
   </data>
   <data name="OverwriteCollisions.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Sobreescribir colisões</value>
+    <value xml:space="preserve">Sobreescrever colisões</value>
   </data>
   <data name="PackageDescription.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Descripção do paquete</value>
+    <value xml:space="preserve">Descrição do paquete</value>
   </data>
   <data name="Pages.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Páginas</value>
@@ -283,25 +283,25 @@
     <value xml:space="preserve">Páginas exportadas</value>
   </data>
   <data name="PageTemplates.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">planilhas de página</value>
+    <value xml:space="preserve">planilhas da página</value>
   </data>
   <data name="Permissions.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Permissões</value>
   </data>
   <data name="ProfileProperties.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Propriedadees do perfil</value>
+    <value xml:space="preserve">Propriedades do perfil</value>
   </data>
   <data name="Roles.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Roles e grupos</value>
   </data>
   <data name="RunNow.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Ejecutar ahora</value>
+    <value xml:space="preserve">Executar agora</value>
   </data>
   <data name="SearchPlaceHolder.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Buscar</value>
   </data>
   <data name="SelectException.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Selecione um paquete de importação e vuelva a intentarlo.</value>
+    <value xml:space="preserve">Selecione um paquete de importação e tente de novo.</value>
   </data>
   <data name="SelectImportPackage.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Selecione o paquete a importar</value>
@@ -310,28 +310,28 @@
     <value xml:space="preserve">Filtro:</value>
   </data>
   <data name="ShowSiteLabel.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Sitio:</value>
+    <value xml:space="preserve">Site:</value>
   </data>
   <data name="ShowSortLabel.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Orden:</value>
   </data>
   <data name="Site.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Sitio</value>
+    <value xml:space="preserve">Site</value>
   </data>
   <data name="SiteImportExport.Header" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Importar / Exportar</value>
   </data>
   <data name="SortByDateNewest.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Data (más novo)</value>
+    <value xml:space="preserve">Data (mais novo)</value>
   </data>
   <data name="SortByDateOldest.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Data (más antiguo)</value>
+    <value xml:space="preserve">Data (mais antiguo)</value>
   </data>
   <data name="SortByName.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Nome</value>
   </data>
   <data name="SummaryNoteDescription.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Os Arquivos de exportação foin Arquivo de forma segura em a pasta da web: App_Data/ExportImport.</value>
+    <value xml:space="preserve">Os arquivos de exportação foi arquivo de forma segura em a pasta da web: App_Data/ExportImport.</value>
   </data>
   <data name="SummaryNoteTitle.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">*Atenção: </value>
@@ -346,16 +346,16 @@
     <value xml:space="preserve">Data</value>
   </data>
   <data name="TotalExportSize.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Tamaño total da exportação</value>
+    <value xml:space="preserve">Tamanho total da exportação</value>
   </data>
   <data name="Users.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Usuarios</value>
+    <value xml:space="preserve">Usuários</value>
   </data>
   <data name="UsersStep1.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Usuarios (paso 1 / 2)</value>
+    <value xml:space="preserve">Usuários (passo 1 / 2)</value>
   </data>
   <data name="UsersStep2.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Usuarios (paso 2 / 2)</value>
+    <value xml:space="preserve">Usuários (passo 2 / 2)</value>
   </data>
   <data name="VerifyPackage.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Espere um momento, procesando o paquete...</value>
@@ -364,7 +364,7 @@
     <value xml:space="preserve">Vocabularios</value>
   </data>
   <data name="Website.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Sitio web</value>
+    <value xml:space="preserve">Site web</value>
   </data>
   <data name="Yes.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Sí</value>

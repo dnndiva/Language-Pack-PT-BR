@@ -16,22 +16,22 @@
     <value xml:space="preserve">Adicionar etiquetas</value>
   </data>
   <data name="Add.ToolTip" lastModified="2015-12-28 09:13:15">
-    <value xml:space="preserve">Haga clic em este enlace para adicionar uma etiqueta.</value>
+    <value xml:space="preserve">Clique aqui neste link para adicionar uma etiqueta.</value>
   </data>
   <data name="Cancel.Text">
     <value xml:space="preserve">Cancelar</value>
   </data>
   <data name="Cancel.ToolTip" lastModified="2015-12-28 09:13:15">
-    <value xml:space="preserve">Haga clic para cancelar a edição sin guardar.</value>
+    <value xml:space="preserve">Clique aqui para cancelar a edição sem salvar.</value>
   </data>
   <data name="Category.ToolTip">
     <value xml:space="preserve">Categorías</value>
   </data>
   <data name="Save.Text">
-    <value xml:space="preserve">Guardar</value>
+    <value xml:space="preserve">Salvar</value>
   </data>
   <data name="Save.ToolTip" lastModified="2015-12-28 09:13:15">
-    <value xml:space="preserve">Haga clic para guardar as etiquetas.</value>
+    <value xml:space="preserve">Clique aqui para salvar as etiquetas.</value>
   </data>
   <data name="Tag.ToolTip">
     <value xml:space="preserve">Etiquetas</value>

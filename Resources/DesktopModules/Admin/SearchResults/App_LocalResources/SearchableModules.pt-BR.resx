@@ -19,10 +19,10 @@
     <value xml:space="preserve">Páginas</value>
   </data>
   <data name="Crawler_user.Text">
-    <value xml:space="preserve">Usuarios</value>
+    <value xml:space="preserve">Usuários</value>
   </data>
   <data name="Module_Answers.Text">
-    <value xml:space="preserve">Respuestas</value>
+    <value xml:space="preserve">Respostas</value>
   </data>
   <data name="Module_Blogs.Text">
     <value xml:space="preserve">Blogs</value>
@@ -37,7 +37,7 @@
     <value xml:space="preserve">Ideas</value>
   </data>
   <data name="Module_Journal.Text">
-    <value xml:space="preserve">Actividade</value>
+    <value xml:space="preserve">Atividade</value>
   </data>
   <data name="Module_Text/HTML.Text">
     <value xml:space="preserve">Páginas</value>

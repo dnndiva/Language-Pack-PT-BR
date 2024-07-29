@@ -13,10 +13,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddContent.Action">
-    <value xml:space="preserve">Adicionar novo usuario</value>
+    <value xml:space="preserve">Adicionar novo usuário</value>
   </data>
   <data name="Address.Header">
-    <value xml:space="preserve">Direção</value>
+    <value xml:space="preserve">Endereço</value>
   </data>
   <data name="Authorized.Header">
     <value xml:space="preserve">Autorizado</value>
@@ -31,25 +31,25 @@
     <value xml:space="preserve">Ciudad</value>
   </data>
   <data name="ControlTitle_.Text">
-    <value xml:space="preserve">Administrar usuarios</value>
+    <value xml:space="preserve">Administrar usuários</value>
   </data>
   <data name="Country.Text">
     <value xml:space="preserve">País</value>
   </data>
   <data name="CreatedDate.Header">
-    <value xml:space="preserve">Data de creação</value>
+    <value xml:space="preserve">Data de criação</value>
   </data>
   <data name="Delete.Confirm">
-    <value xml:space="preserve">Está seguro que quer eliminar este usuario?</value>
+    <value xml:space="preserve">Está seguro que quer deletar este usuário?</value>
   </data>
   <data name="Delete.Text">
     <value xml:space="preserve">Borrar</value>
   </data>
   <data name="DeleteUnAuthorized.Action">
-    <value xml:space="preserve">Eliminar usuarios NÃO autorizados</value>
+    <value xml:space="preserve">Deletar usuários NÃO autorizados</value>
   </data>
   <data name="DeleteUnauthorized.Text">
-    <value xml:space="preserve">Eliminar usuarios NÃO autorizados</value>
+    <value xml:space="preserve">Deletar usuários NÃO autorizados</value>
   </data>
   <data name="DisplayDate.Text">
     <value xml:space="preserve">Mostrar data:</value>
@@ -88,7 +88,7 @@
     <value xml:space="preserve">Apellido</value>
   </data>
   <data name="LastLogin.Header">
-    <value xml:space="preserve">Último inicio de sesión</value>
+    <value xml:space="preserve">Último início de sessão</value>
   </data>
   <data name="LastName.Header">
     <value xml:space="preserve">Apellido</value>
@@ -97,13 +97,13 @@
     <value xml:space="preserve">Apellido</value>
   </data>
   <data name="ManageProfile.Action">
-    <value xml:space="preserve">Administrar propriedadees do perfil</value>
+    <value xml:space="preserve">Administrar propriedades do perfil</value>
   </data>
   <data name="MiddleName.Text">
     <value xml:space="preserve">Segundo nome</value>
   </data>
   <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;h1&gt;Acerca do módulo de contas de usuarios&lt;/h1&gt;&lt;p&gt;O módulo de contas do usuário, permite que os usuarios se registren, actualicen sus datos, se des-registren e administeren sus servicios como miembros.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;h1&gt;Acerca do módulo de contas de usuários&lt;/h1&gt;&lt;p&gt;O módulo de contas do usuário, permite que os usuários se registren, atualizen seus dados, se des-registren e administeren seus servicios como miembros.&lt;/p&gt;</value>
   </data>
   <data name="Name.Header">
     <value xml:space="preserve">Nome</value>
@@ -112,13 +112,13 @@
     <value xml:space="preserve">Seguinte</value>
   </data>
   <data name="Online.Text">
-    <value xml:space="preserve">Em línea</value>
+    <value xml:space="preserve">Em linha</value>
   </data>
   <data name="PagerPageSize.Text">
-    <value xml:space="preserve">Elementos por página:</value>
+    <value xml:space="preserve">Itens por página:</value>
   </data>
   <data name="PagerTextFormat.Text">
-    <value xml:space="preserve">{4} Página {0} de {1}, usuarios {2} ao {3} de {5}</value>
+    <value xml:space="preserve">{4} Página {0} de {1}, usuários {2} ao {3} de {5}</value>
   </data>
   <data name="PostalCode.Text">
     <value xml:space="preserve">Código postal</value>
@@ -127,7 +127,7 @@
     <value xml:space="preserve">Idioma</value>
   </data>
   <data name="PreferredTimeZone.Text">
-    <value xml:space="preserve">Zona horaria preferida</value>
+    <value xml:space="preserve">Fuso horário preferida</value>
   </data>
   <data name="Prefix.Text">
     <value xml:space="preserve">Prefijo</value>
@@ -139,19 +139,19 @@
     <value xml:space="preserve">Filas por página:</value>
   </data>
   <data name="Region.Text">
-    <value xml:space="preserve">Región</value>
+    <value xml:space="preserve">Regão</value>
   </data>
   <data name="Remove.Confirm">
-    <value xml:space="preserve">Está seguro que quer borrar este usuario de forma definitiva?</value>
+    <value xml:space="preserve">Está seguro que quer borrar este usuário de forma definitiva?</value>
   </data>
   <data name="Remove.Text">
-    <value xml:space="preserve">Eliminar</value>
+    <value xml:space="preserve">Deletar</value>
   </data>
   <data name="RemoveDeleted.Action">
-    <value xml:space="preserve">Eliminar usuarios borrados</value>
+    <value xml:space="preserve">Deletar usuários borrados</value>
   </data>
   <data name="Restore.Confirm">
-    <value xml:space="preserve">Está seguro que quer restaurar este usuario?</value>
+    <value xml:space="preserve">Está seguro que quer restaurar este usuário?</value>
   </data>
   <data name="Restore.Text">
     <value xml:space="preserve">Restaurar</value>
@@ -172,27 +172,27 @@
     <value xml:space="preserve">Teléfono</value>
   </data>
   <data name="TimeZone.Text">
-    <value xml:space="preserve">Zona horaria</value>
+    <value xml:space="preserve">Fuso horário</value>
   </data>
   <data name="Unit.Text">
     <value xml:space="preserve">Unidade</value>
   </data>
   <data name="UserDeleted.Text">
-    <value xml:space="preserve">Usuario eliminado corretamente</value>
+    <value xml:space="preserve">Usuário deletado corretamente</value>
   </data>
   <data name="Username.Header">
     <value xml:space="preserve">Nome do usuário</value>
   </data>
   <data name="Username.Text">
-    <value xml:space="preserve">Usuario</value>
+    <value xml:space="preserve">Usuário</value>
   </data>
   <data name="UserRoles.Text">
-    <value xml:space="preserve">Administrar roles</value>
+    <value xml:space="preserve">Administrar cargos</value>
   </data>
   <data name="UserSettings.Action">
     <value xml:space="preserve">Configuração do usuário</value>
   </data>
   <data name="Website.Text">
-    <value xml:space="preserve">Sitio Web</value>
+    <value xml:space="preserve">Site Web</value>
   </data>
 </root>

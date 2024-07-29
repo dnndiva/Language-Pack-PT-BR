@@ -49,7 +49,7 @@
     <value xml:space="preserve">Recomendado</value>
   </data>
   <data name="CloseLabel.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Cerrar</value>
+    <value xml:space="preserve">Fechar</value>
   </data>
   <data name="ConfirmNo.Text" lastModified="2016-11-30 06:08:36">
     <value xml:space="preserve">Não</value>
@@ -61,25 +61,25 @@
     <value xml:space="preserve">Sí</value>
   </data>
   <data name="ContentLayout.Delete.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Está seguro que quer eliminar este diseño?</value>
+    <value xml:space="preserve">Está seguro que quer deletar este diseño?</value>
   </data>
   <data name="ContentLayout.Text" lastModified="2016-11-30 06:08:36">
     <value xml:space="preserve">Diseño do conteúdo</value>
   </data>
   <data name="DeleteModuleConfirm.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Está seguro que quer eliminar este módulo?</value>
+    <value xml:space="preserve">Está seguro que quer deletar este módulo?</value>
   </data>
   <data name="DiscardLabel.Text" lastModified="2016-11-30 06:08:36">
     <value xml:space="preserve">Descartar</value>
   </data>
   <data name="DragTip.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">&lt;p&gt;ADICIONAR MÓDULO:&lt;/p&gt;&lt;p&gt;Haga clic e arrastre e suelte o módulo não panel deseado&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;p&gt;ADICIONAR MÓDULO:&lt;/p&gt;&lt;p&gt;Clique aqui e arrastre e largue omódulo não panel deseado&lt;/p&gt;</value>
   </data>
   <data name="EditBarMessageLabel.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Os cambios mostrados não están publicados</value>
+    <value xml:space="preserve">As mudanças mostrados não están publicados</value>
   </data>
   <data name="MakeCopy.Text" lastModified="2017-04-29 05:21:31">
-    <value xml:space="preserve">criar cópia</value>
+    <value xml:space="preserve">Criar cópia</value>
   </data>
   <data name="NoModules.Text" lastModified="2016-11-30 06:08:36">
     <value xml:space="preserve">Não há nenhum módulo disponível para utilizar nesta página.</value>
@@ -103,13 +103,13 @@
     <value xml:space="preserve">Nome da página</value>
   </data>
   <data name="pagePicker_selectedItemCollapseTooltip.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Clicar para cerrar</value>
+    <value xml:space="preserve">Clicar para fechar</value>
   </data>
   <data name="pagePicker_selectedItemExpandTooltip.Text" lastModified="2016-11-30 06:08:36">
     <value xml:space="preserve">Clicar para expandir</value>
   </data>
   <data name="pagePicker_selectItemDefaultText.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">&lt;Sin especificar&gt;</value>
+    <value xml:space="preserve">&lt;Sem especificar&gt;</value>
   </data>
   <data name="pagePicker_sortAscendingButtonTitle.Text" lastModified="2016-11-30 06:08:36">
     <value xml:space="preserve">A-Z</value>
@@ -124,7 +124,7 @@
     <value xml:space="preserve">Orden descendente</value>
   </data>
   <data name="PendingSave.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Todavía não foi acabado de adicionar o módulo, está seguro que quiere continuar sin guardar?</value>
+    <value xml:space="preserve">Todavía não foi acabado de adicionar o módulo, está seguro que quiser continuar sem salvar?</value>
   </data>
   <data name="PublishLabel.Text" lastModified="2016-11-30 06:08:36">
     <value xml:space="preserve">Publicar</value>
@@ -133,34 +133,34 @@
     <value xml:space="preserve">Buscar</value>
   </data>
   <data name="Service_CopyPermissionError.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">Foi ocurrido um error ao cópiar as permissões a as páginas descendientes.</value>
+    <value xml:space="preserve">Foi ocurrido um erro ao cópiar as permissões a as páginas descendentes.</value>
   </data>
   <data name="Service_CopyPermissionSuccessful.Text" lastModified="2016-11-30 06:08:36">
-    <value xml:space="preserve">foin cópiado as permissões a as páginas descendientes.</value>
+    <value xml:space="preserve">foi cópiado as permissões a as páginas descendentes.</value>
   </data>
   <data name="Service_LayoutNotExist.Text" lastModified="2016-11-30 07:15:12">
-    <value xml:space="preserve">foi eliminado o diseño.</value>
+    <value xml:space="preserve">deletado o diseño.</value>
   </data>
   <data name="Service_ModuleNotExist.Text" lastModified="2016-11-30 07:15:12">
-    <value xml:space="preserve">foi eliminado o módulo.</value>
+    <value xml:space="preserve">deletado o módulo.</value>
   </data>
   <data name="Service_RemoveTabError.Text" lastModified="2016-11-30 07:15:12">
-    <value xml:space="preserve">A página {0} não se pode eliminar hasta que não foiyan eliminado sus descendientes.&lt;br/&gt;</value>
+    <value xml:space="preserve">A página {0} não pode ser deletado hasta que não foram deletado seus descendentes.&lt;br/&gt;</value>
   </data>
   <data name="Service_RemoveTabModuleError.Text" lastModified="2016-11-30 07:15:12">
-    <value xml:space="preserve">Foi ocurrido um error ao eliminar a página:&lt;br/&gt;{0}</value>
+    <value xml:space="preserve">Foi ocurrido um erro ao deletar a página:&lt;br/&gt;{0}</value>
   </data>
   <data name="Service_RestoreModuleError.Text" lastModified="2016-11-30 07:15:12">
-    <value xml:space="preserve">Foi ocurrido um error ao restaurar o módulo {0} em a página {1}. A página está eliminada.</value>
+    <value xml:space="preserve">Foi ocurrido um erro ao restaurar o módulo {0} em a página {1}. A página está deletada.</value>
   </data>
   <data name="Service_RestoreTabError.Text" lastModified="2016-11-30 07:15:12">
-    <value xml:space="preserve">A página {0} não se pode restaurar hasta que sua página madre se restaure primero.&lt;br/&gt;</value>
+    <value xml:space="preserve">A página {0} não se pode restaurar hasta que sua página madre se restaure primeiro.&lt;br/&gt;</value>
   </data>
   <data name="Service_RestoreTabModuleError.Text" lastModified="2016-11-30 07:15:12">
-    <value xml:space="preserve">Foi ocurrido um error ao restaurar a página:&lt;br/&gt;{0}</value>
+    <value xml:space="preserve">Foi ocurrido um erro ao restaurar a página:&lt;br/&gt;{0}</value>
   </data>
   <data name="Site.Text" lastModified="2017-04-29 05:21:31">
-    <value xml:space="preserve">Sitio:</value>
+    <value xml:space="preserve">Site:</value>
   </data>
   <data name="System.Text" lastModified="2016-11-30 07:15:12">
     <value xml:space="preserve">Sistema</value>

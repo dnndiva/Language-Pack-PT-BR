@@ -19,13 +19,13 @@
     <value xml:space="preserve">Editar asignação de pasta</value>
   </data>
   <data name="Description.Text">
-    <value xml:space="preserve">Utilice este diálogo para definir um novo tipo de pasta</value>
+    <value xml:space="preserve">Utilize este diálogo para definir um novo tipo de pasta</value>
   </data>
   <data name="DuplicateMappingName.Text">
-    <value xml:space="preserve">Já existe uma asignação com o mesmo nome. Não foin guardado os cambios.</value>
+    <value xml:space="preserve">Já existe uma asignação com o mesmo nome. Não foi guardado as mudanças.</value>
   </data>
   <data name="FolderProviderLabel.Help">
-    <value xml:space="preserve">Selecione o fornecedor de pastas que quiere utilizar.</value>
+    <value xml:space="preserve">Selecione o fornecedor de pastas que quiser utilizar.</value>
   </data>
   <data name="FolderProviderLabel.Text">
     <value xml:space="preserve">Fornecedor de pastas</value>
@@ -40,7 +40,7 @@
     <value xml:space="preserve">Configuração general</value>
   </data>
   <data name="NameLabel.Help">
-    <value xml:space="preserve">Introduzca o nome de esta asignação.</value>
+    <value xml:space="preserve">Introduza o nome de esta asignação.</value>
   </data>
   <data name="NameLabel.Text">
     <value xml:space="preserve">Nome</value>
@@ -55,9 +55,9 @@
     <value xml:space="preserve">- Selecione um fornecedor -</value>
   </data>
   <data name="SyncWarning.Text">
-    <value xml:space="preserve">Después de guardar um tipo de pasta, se ejecutará uma sincronização nas pastas deste tipo. Isto pode llevar algún tempo, dependiendo do número de pastas que coincidan com os criterios.</value>
+    <value xml:space="preserve">Após salvar um tipo de pasta, se executará uma sincronização nas pastas deste tipo. Isto pode llevar algún tempo, dependindo do número de pastas que coincidan com os criterios.</value>
   </data>
   <data name="Update.Text">
-    <value xml:space="preserve">Guardar</value>
+    <value xml:space="preserve">Salvar</value>
   </data>
 </root>

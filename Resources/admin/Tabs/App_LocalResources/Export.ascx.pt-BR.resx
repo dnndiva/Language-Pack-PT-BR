@@ -19,10 +19,10 @@
     <value xml:space="preserve">Exportar Página</value>
   </data>
   <data name="Error.Text">
-    <value xml:space="preserve">Um erro ocorreu durante a exportação</value>
+    <value xml:space="preserve">Houve um erro durante a exportação</value>
   </data>
   <data name="ExportedMessage.Text">
-    <value xml:space="preserve">A planilha de página em  &lt;strong&gt;{0}&lt;/strong&gt; foi criada</value>
+    <value xml:space="preserve">O template da página em  &lt;strong&gt;{0}&lt;/strong&gt; foi criada</value>
   </data>
   <data name="ModuleHelp.Text">
     <value xml:space="preserve">&lt;h1&gt;Exportar Página&lt;/h1&gt;&lt;p&gt;Os Administradores podem exportar conteúdo da página especificada.&lt;/p&gt;</value>
@@ -34,31 +34,31 @@
     <value xml:space="preserve">Incluir conteúdo:</value>
   </data>
   <data name="plDescription.Help">
-    <value xml:space="preserve">Entre uma descripção para a planilha.</value>
+    <value xml:space="preserve">Entre uma descrição para o template.</value>
   </data>
   <data name="plDescription.Text">
-    <value xml:space="preserve">Descripção:</value>
+    <value xml:space="preserve">Descrição:</value>
   </data>
   <data name="plFile.Help">
-    <value xml:space="preserve">Entre um nome para a planilha</value>
+    <value xml:space="preserve">Entre um nome para o template</value>
   </data>
   <data name="plFile.Text">
     <value xml:space="preserve">Nome de planilha:</value>
   </data>
   <data name="plFolder.Help">
-    <value xml:space="preserve">Selecione a pasta donde se guardará a planilha</value>
+    <value xml:space="preserve">Selecione a pasta daonde se guardará o template</value>
   </data>
   <data name="plFolder.Text">
     <value xml:space="preserve">Pasta:</value>
   </data>
   <data name="Root.Text">
-    <value xml:space="preserve">Raíz</value>
+    <value xml:space="preserve">Raiz</value>
   </data>
   <data name="valDescription.ErrorMessage">
-    <value xml:space="preserve">Deve proporcionar uma descripção para a planilha.</value>
+    <value xml:space="preserve">Deve fornecer uma descrição para o template.</value>
   </data>
   <data name="valFileName.ErrorMessage">
-    <value xml:space="preserve">Deve ser proporcionado um nome de arquivo para a planilha.</value>
+    <value xml:space="preserve">Deve ser fornecido um nome de arquivo para o template.</value>
   </data>
   <data name="Validation.Text">
     <value xml:space="preserve">Devem ser especificadas uma pasta e nome de planilha para a exportação.</value>

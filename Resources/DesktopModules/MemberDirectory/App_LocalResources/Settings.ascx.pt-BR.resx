@@ -13,10 +13,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="alternateItemTemplateLabel.Help">
-    <value xml:space="preserve">A planilha de elementos alternos se utiliza para representar os detalles dos miembros alternos. Si se deja vazio a planilha do elemento se utiliza para todos os miembros.</value>
+    <value xml:space="preserve">O template de itens alternos se utiliza para representar os detalles dos miembros alternos. Se se deja vazio o template do item se utiliza para todos os miembros.</value>
   </data>
   <data name="alternateItemTemplateLabel.Text">
-    <value xml:space="preserve">planilha de elemento alterno</value>
+    <value xml:space="preserve">planilha de item alterno</value>
   </data>
   <data name="Ascending.Text">
     <value xml:space="preserve">Ascendente</value>
@@ -37,13 +37,13 @@
     <value xml:space="preserve">País</value>
   </data>
   <data name="DateCreated.Text">
-    <value xml:space="preserve">Data de creação:</value>
+    <value xml:space="preserve">Data de criação:</value>
   </data>
   <data name="Descending.Text">
     <value xml:space="preserve">Descendente</value>
   </data>
   <data name="disablePagerLabel.Help">
-    <value xml:space="preserve">Ative esta opção para desactivar o botão "Cargar más". Se o hace somente podrá acceder a primera página.</value>
+    <value xml:space="preserve">Ative esta opção para desactivar o botão "Enviar mais". Se o hace somente poderá acceder a primeira página.</value>
   </data>
   <data name="disablePagerLabel.Text">
     <value xml:space="preserve">Desactivar paginação:</value>
@@ -70,13 +70,13 @@
     <value xml:space="preserve">Email</value>
   </data>
   <data name="enablePopUpLabel.Help">
-    <value xml:space="preserve">Ative esta opção para activar a planilha emergente.</value>
+    <value xml:space="preserve">Ative esta opção para ativar o template emergente.</value>
   </data>
   <data name="enablePopUpLabel.Text">
-    <value xml:space="preserve">Activar ventana emergente:</value>
+    <value xml:space="preserve">Ativar ventana emergente:</value>
   </data>
   <data name="ExcludeHostUsersLabel.Help">
-    <value xml:space="preserve">Si está activo os superusuários não se mostrarán nos resultados.</value>
+    <value xml:space="preserve">Se está activo os superusuários não se mostrarão nos resultados.</value>
   </data>
   <data name="ExcludeHostUsersLabel.Text">
     <value xml:space="preserve">Excluir superusuários:</value>
@@ -103,10 +103,10 @@
     <value xml:space="preserve">IM</value>
   </data>
   <data name="itemTemplateLabel.Help">
-    <value xml:space="preserve">A planilha de elemento se utiliza para representar os detalles acerca do membro.</value>
+    <value xml:space="preserve">O template de item se utiliza para representar os detalles acerca do membro.</value>
   </data>
   <data name="itemTemplateLabel.Text">
-    <value xml:space="preserve">planilha de elemento:</value>
+    <value xml:space="preserve">planilha de item:</value>
   </data>
   <data name="LastName.Text">
     <value xml:space="preserve">Apellidos</value>
@@ -115,22 +115,22 @@
     <value xml:space="preserve">Inicial</value>
   </data>
   <data name="None.Text">
-    <value xml:space="preserve">Sin filtro</value>
+    <value xml:space="preserve">Sem filtro</value>
   </data>
   <data name="pageSize.Error">
-    <value xml:space="preserve">O tamaño de página tem que estar entre 1 e 100</value>
+    <value xml:space="preserve">O tamanho da página tem que estar entre 1 e 100</value>
   </data>
   <data name="pageSizeLabel.Help">
-    <value xml:space="preserve">Pode establecer o tamaño de página entrando um número entre 1 e 100.</value>
+    <value xml:space="preserve">Pode establecer o tamanho da página entrando um número entre 1 e 100.</value>
   </data>
   <data name="pageSizeLabel.Text">
-    <value xml:space="preserve">Tamaño de página:</value>
+    <value xml:space="preserve">tamanho da página:</value>
   </data>
   <data name="Paging.Text">
     <value xml:space="preserve">Opções de paginação</value>
   </data>
   <data name="popUpTemplateLabel.Help">
-    <value xml:space="preserve">A planilha emergente que se utiliza para representar um detalle dos distintos miembros dentro de uma ventana emergente.</value>
+    <value xml:space="preserve">O template emergente que se utiliza para representar um detalle dos distintos miembros dentro de uma ventana emergente.</value>
   </data>
   <data name="popUpTemplateLabel.Text">
     <value xml:space="preserve">planilha emergente:</value>
@@ -148,7 +148,7 @@
     <value xml:space="preserve">Propriedade Perfil</value>
   </data>
   <data name="Region.Text">
-    <value xml:space="preserve">Región</value>
+    <value xml:space="preserve">Regão</value>
   </data>
   <data name="Relationship.Text">
     <value xml:space="preserve">Relação</value>
@@ -157,7 +157,7 @@
     <value xml:space="preserve">Configuração de buscas</value>
   </data>
   <data name="searchField1Label.Help">
-    <value xml:space="preserve">Selecione o primer campo que quer mostrar na busca avançada</value>
+    <value xml:space="preserve">Selecione o primeir campo que quer mostrar na busca avançada</value>
   </data>
   <data name="searchField1Label.Text">
     <value xml:space="preserve">Campo de busca 1:</value>
@@ -187,10 +187,10 @@
     <value xml:space="preserve">Campo de ordenação:</value>
   </data>
   <data name="sortOrderListLabel.Help">
-    <value xml:space="preserve">Selecione a direção de ordenação</value>
+    <value xml:space="preserve">Selecione a endereço de ordenação</value>
   </data>
   <data name="sortOrderListLabel.Text">
-    <value xml:space="preserve">Direção de ordenação:</value>
+    <value xml:space="preserve">Endereço de ordenação:</value>
   </data>
   <data name="Street.Text">
     <value xml:space="preserve">Calle</value>
@@ -205,21 +205,21 @@
     <value xml:space="preserve">planilhas</value>
   </data>
   <data name="TimeZone.Text">
-    <value xml:space="preserve">Zona horaria</value>
+    <value xml:space="preserve">Fuso horário</value>
   </data>
   <data name="Unit.Text">
     <value xml:space="preserve">Unidade</value>
   </data>
   <data name="User.Text">
-    <value xml:space="preserve">Usuario</value>
+    <value xml:space="preserve">Usuário</value>
   </data>
   <data name="UserId.Text">
-    <value xml:space="preserve">Id usuario;</value>
+    <value xml:space="preserve">Id usuário;</value>
   </data>
   <data name="Username.Text">
-    <value xml:space="preserve">Usuario</value>
+    <value xml:space="preserve">Usuário</value>
   </data>
   <data name="Website.Text">
-    <value xml:space="preserve">Sitio web</value>
+    <value xml:space="preserve">Site web</value>
   </data>
 </root>

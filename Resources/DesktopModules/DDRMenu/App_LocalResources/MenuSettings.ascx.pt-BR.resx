@@ -16,7 +16,7 @@
     <value xml:space="preserve">Adicionar conteúdo</value>
   </data>
   <data name="ControlTitle_settings.Text">
-    <value xml:space="preserve">Configuração do menú</value>
+    <value xml:space="preserve">Configuração do menu</value>
   </data>
   <data name="ModuleHelp.Text">
     <value xml:space="preserve">Documentação de DDRMenu disponível na &lt;a href="http://wiki.dotnetnuke.com/"&gt;wiki de DotNetNuke&lt;/a&gt;.</value>

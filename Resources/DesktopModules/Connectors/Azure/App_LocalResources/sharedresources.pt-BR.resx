@@ -16,10 +16,10 @@
     <value xml:space="preserve">foi negado o Acesso.</value>
   </data>
   <data name="AccountKey.Text" lastModified="2018-03-24 10:11:45">
-    <value xml:space="preserve">Clave de conta:</value>
+    <value xml:space="preserve">Chave de conta:</value>
   </data>
   <data name="AccountKeyCannotBeEmpty.ErrorMessage" lastModified="2018-03-24 10:11:45">
-    <value xml:space="preserve">A clave é obrigatória.</value>
+    <value xml:space="preserve">A chave é obrigatória.</value>
   </data>
   <data name="AccountName.Text" lastModified="2018-03-24 10:11:45">
     <value xml:space="preserve">Nome de conta:</value>
@@ -31,25 +31,25 @@
     <value xml:space="preserve">A conta indicada não foi encontrado.</value>
   </data>
   <data name="AuthenticationFailure.ErrorMessage" lastModified="2018-03-24 10:11:45">
-    <value xml:space="preserve">foi producido um error de autenticação.</value>
+    <value xml:space="preserve">foi produzido um erro de autenticação.</value>
   </data>
   <data name="Moldura.Text" lastModified="2018-03-24 10:11:45">
     <value xml:space="preserve">Nome da moldura:</value>
   </data>
   <data name="ErrorInvalidContainerName.Text" lastModified="2018-03-24 10:11:45">
-    <value xml:space="preserve">O nome de moldura introducido não é válido.</value>
+    <value xml:space="preserve">O nome de moldura introduzido não é válido.</value>
   </data>
   <data name="ErrorMappingNameExists.Text" lastModified="2018-03-24 10:11:45">
-    <value xml:space="preserve">O nome de conexión já existe.</value>
+    <value xml:space="preserve">O nome de conexão já existe.</value>
   </data>
   <data name="ErrorRequiredFields.Text" lastModified="2018-03-24 10:11:45">
-    <value xml:space="preserve">A clave e nome de conta son obrigatórios.</value>
+    <value xml:space="preserve">A chave e nome de conta são obrigatórios.</value>
   </data>
   <data name="InvalidAccountKey.ErrorMessage" lastModified="2018-03-24 10:11:45">
-    <value xml:space="preserve">O valor introducido não é uma clave válida.</value>
+    <value xml:space="preserve">O valor introduzido não é uma chave válida.</value>
   </data>
   <data name="InvalidAccountName.ErrorMessage" lastModified="2018-03-24 10:11:45">
-    <value xml:space="preserve">O valor introducido não é um nome de conta válido.</value>
+    <value xml:space="preserve">O valor introduzido não é um nome de conta válido.</value>
   </data>
   <data name="SelectContainer.Text" lastModified="2018-03-24 10:11:45">
     <value xml:space="preserve">- Selecione uma moldura -</value>

@@ -16,10 +16,10 @@
     <value xml:space="preserve">Finalizado</value>
   </data>
   <data name="BackupName.Text">
-    <value xml:space="preserve"> Nome da cópia de seguridade</value>
+    <value xml:space="preserve"> Nome da cópia de segurança</value>
   </data>
   <data name="BackupSize.Text">
-    <value xml:space="preserve">Tamaño (Kb)</value>
+    <value xml:space="preserve">Tamanho (Kb)</value>
   </data>
   <data name="BackupStarted.Text">
     <value xml:space="preserve">Iniciado</value>
@@ -40,7 +40,7 @@
     <value xml:space="preserve">Versão de SQL Server</value>
   </data>
   <data name="DbInfo_ProductVersion.Text">
-    <value xml:space="preserve">Versão de base de datos:</value>
+    <value xml:space="preserve">Versão de base de dados:</value>
   </data>
   <data name="DbInfo_ServicePack.Help">
     <value xml:space="preserve">Service Pack(s) instalado(s)</value>
@@ -49,7 +49,7 @@
     <value xml:space="preserve">Service Pack:</value>
   </data>
   <data name="DbInfo_SoftwarePlatform.Help">
-    <value xml:space="preserve">Descripção completa da plataforma de software de SQL Server instalada.</value>
+    <value xml:space="preserve">Descrição completa da plataforma de software de SQL Server instalada.</value>
   </data>
   <data name="DbInfo_SoftwarePlatform.Text">
     <value xml:space="preserve">Plataforma de software:</value>
@@ -61,52 +61,52 @@
     <value xml:space="preserve">Prueba de configuração SMTP</value>
   </data>
   <data name="errorMessageClearingCache.Text">
-    <value xml:space="preserve">foi producido um error ao limpar a cache.</value>
+    <value xml:space="preserve">foi produzido um erro ao limpar a cache.</value>
   </data>
   <data name="errorMessageIncrementingVersion.Text">
-    <value xml:space="preserve">foi producido um error ao incrementar o número.</value>
+    <value xml:space="preserve">foi produzido um erro ao incrementar o número.</value>
   </data>
   <data name="errorMessageLoadingApplicationTab.Text">
-    <value xml:space="preserve">foi producido um error ao cargar a pestaña de aplicação.</value>
+    <value xml:space="preserve">foi produzido um erro ao enviar a pestaña de aplicação.</value>
   </data>
   <data name="errorMessageLoadingDatabaseTab.Text">
-    <value xml:space="preserve">foi producido um error ao cargar a pestaña de base de datos.</value>
+    <value xml:space="preserve">foi produzido um erro ao enviar a pestaña de base de dados.</value>
   </data>
   <data name="errorMessageLoadingLog.Text">
-    <value xml:space="preserve">foi producido um error ao cargar o registro.</value>
+    <value xml:space="preserve">foi produzido um erro ao enviar o registro.</value>
   </data>
   <data name="errorMessageLoadingLogsTab.Text">
-    <value xml:space="preserve">foi producido um error ao cargar o registro de eventos.</value>
+    <value xml:space="preserve">foi produzido um erro ao enviar o registro de eventos.</value>
   </data>
   <data name="errorMessageLoadingPerformanceTab.Text">
-    <value xml:space="preserve">foi producido um error ao cargar a pestaña de rendimiento.</value>
+    <value xml:space="preserve">foi produzido um erro ao enviar a pestaña de rendimento.</value>
   </data>
   <data name="errorMessageLoadingSmtpServerTab.Text">
-    <value xml:space="preserve">foi producido um error ao cargar a pestaña do servidor SMTP.</value>
+    <value xml:space="preserve">foi produzido um erro ao enviar a pestaña do servidor SMTP.</value>
   </data>
   <data name="errorMessageLoadingWebTab.Text">
-    <value xml:space="preserve">foi producido um error ao cargar a pestaña web.</value>
+    <value xml:space="preserve">foi produzido um erro ao enviar a pestaña web.</value>
   </data>
   <data name="errorMessageRestartingApplication.Text">
-    <value xml:space="preserve">foi producido um error ao reiniciar a aplicação.</value>
+    <value xml:space="preserve">foi produzido um erro ao reiniciar a aplicação.</value>
   </data>
   <data name="errorMessageSavingPerformanceSettingsTab.Text">
-    <value xml:space="preserve">foi producido um error ao guardar a configuração de rendimiento.</value>
+    <value xml:space="preserve">foi produzido um erro ao salvar a configuração de rendimento.</value>
   </data>
   <data name="errorMessageSendingTestEmail.Text">
-    <value xml:space="preserve">foi producido um error ao enviar o email de prueba.</value>
+    <value xml:space="preserve">foi produzido um erro ao enviar o email de prueba.</value>
   </data>
   <data name="errorMessageUpdatingSmtpServerTab.Text">
-    <value xml:space="preserve">foi producido um error ao guardar a configuração do servidor SMTP.</value>
+    <value xml:space="preserve">foi produzido um erro ao salvar a configuração do servidor SMTP.</value>
   </data>
   <data name="FileName.Text">
-    <value xml:space="preserve">Nome de Arquivo</value>
+    <value xml:space="preserve">Nome de arquivo</value>
   </data>
   <data name="FileType.Text">
     <value xml:space="preserve">Tipo</value>
   </data>
   <data name="GlobalSettings.Text">
-    <value xml:space="preserve">Este um parámetro global. Os cambios afectarán a todos os portais da instalação.</value>
+    <value xml:space="preserve">Este um parámetro global. As mudanças afectarão a todos os portais da instalação.</value>
   </data>
   <data name="GlobalSmtpHostSetting.Text">
     <value xml:space="preserve">Global</value>
@@ -130,7 +130,7 @@
     <value xml:space="preserve">Provedor de URLs amigables:</value>
   </data>
   <data name="HostInfo_FriendlyUrlType.Help">
-    <value xml:space="preserve">Visualiza o tipo de URLs amigables utilizadas não portal.</value>
+    <value xml:space="preserve">Visualiza o tipo de URLs amigables utilizadas no portal.</value>
   </data>
   <data name="HostInfo_FriendlyUrlType.Text">
     <value xml:space="preserve">Tipo de URL amigable:</value>
@@ -148,19 +148,19 @@
     <value xml:space="preserve">Provedor de registro:</value>
   </data>
   <data name="HostInfo_Permissions.Help">
-    <value xml:space="preserve">Permissões CAS (Code Access Security) disponívels para o sitio.</value>
+    <value xml:space="preserve">Permissões CAS (Code Access Security) disponíveis para o site.</value>
   </data>
   <data name="HostInfo_Permissions.Text">
     <value xml:space="preserve">Permissões CAS:</value>
   </data>
   <data name="HostInfo_SchedulerMode.Help">
-    <value xml:space="preserve">O método de temporizador mantiene um hilo separado para ejecutar tareas mientras o trabalho activo sigue ejecutándose. O método de petição ejecuta as tareas quando foicen petições HTTP. Pode desabilitar o programador seleccionando Desactivar.</value>
+    <value xml:space="preserve">O método de temporizador mantiene um hilo separado para executar tarefas durante o trabalho activo sigue executándose. O método de petição executa as tarefas quando foicen petições HTTP. Pode desabilitar o programador seleccionando Desactivar.</value>
   </data>
   <data name="HostInfo_SchedulerMode.Text">
     <value xml:space="preserve">Modo do programador:</value>
   </data>
   <data name="HostInfo_WebFarmEnabled.Help">
-    <value xml:space="preserve">Esta configuração determina se o sitio opera em modo granja de servidores (web farm).</value>
+    <value xml:space="preserve">Esta configuração determina se o site opera em modo granja de servidores (web farm).</value>
   </data>
   <data name="HostInfo_WebFarmEnabled.Text">
     <value xml:space="preserve">Granja de servidores activada:</value>
@@ -178,7 +178,7 @@
     <value xml:space="preserve">Selecione o arquivo</value>
   </data>
   <data name="Logs_LogFilesTooltip.Text">
-    <value xml:space="preserve">Lista de Arquivos de registro disponívels.</value>
+    <value xml:space="preserve">Lista de arquivos de registro disponíveis.</value>
   </data>
   <data name="Name.Text">
     <value xml:space="preserve">Nome</value>
@@ -187,22 +187,22 @@
     <value xml:space="preserve">Servidores</value>
   </data>
   <data name="NoBackups.Text">
-    <value xml:space="preserve">Esta base de datos não dispone de cópia de seguridade.</value>
+    <value xml:space="preserve">Esta base de dados não dispone de cópia de segurança.</value>
   </data>
   <data name="NoIntegerValueError.Text">
-    <value xml:space="preserve">Tem que introducir um valor entero positivo.</value>
+    <value xml:space="preserve">Tem que introduzir um valor entero positivo.</value>
   </data>
   <data name="PerformanceTab_AjaxWarning.Text">
-    <value xml:space="preserve">Atenção: A persistencia do estado de página em memoria pode ocasionar problemas em AJAX</value>
+    <value xml:space="preserve">Atenção: A persistencia do estado da página em memoria pode ocasionar problemas em AJAX</value>
   </data>
   <data name="PerformanceTab_AuthCacheability.Help">
-    <value xml:space="preserve">Establece a cabecera HTTP Cache-Controle para usuarios autenticados.</value>
+    <value xml:space="preserve">Estabelece a cabecera HTTP Cache-Controle para usuários autenticados.</value>
   </data>
   <data name="PerformanceTab_AuthCacheability.Text">
-    <value xml:space="preserve">Cache usuarios autenticados:</value>
+    <value xml:space="preserve">Cache usuários autenticados:</value>
   </data>
   <data name="PerformanceTab_CacheSetting.Help">
-    <value xml:space="preserve">Selecione como configurar o rendimiento.</value>
+    <value xml:space="preserve">Selecione como configurar o rendimento.</value>
   </data>
   <data name="PerformanceTab_CacheSetting.Text">
     <value xml:space="preserve">Configuração de cache</value>
@@ -214,16 +214,16 @@
     <value xml:space="preserve">Provedor de cache</value>
   </data>
   <data name="PerformanceTab_ClientResourceManagementInfo.Text">
-    <value xml:space="preserve">O superusuario establece o comportamiento predeterminado do gestor de recursos de cliente. Aquí pode establecer a configuração específica para su sitio. Os parámetros do sistema se muestran a continuação:</value>
+    <value xml:space="preserve">O superusuário estabelece o comportamento predeterminado do gestor de recursos de cliente. Aqui pode establecer a configuração específica para seu site. Os parâmetros do sistema se mostran a continuação:</value>
   </data>
   <data name="PerformanceTab_ClientResourceManagementTitle.Text">
-    <value xml:space="preserve">Gestión de recursos de cliente</value>
+    <value xml:space="preserve">Gestão de recursos de cliente</value>
   </data>
   <data name="PerformanceTab_ClientResourcesManagementMode.Help">
-    <value xml:space="preserve">O modo sistema utiliza toda a configuração establecida a nivel de sistema. O modo sitio le permite especificar sus propios parámetros de configuração.</value>
+    <value xml:space="preserve">O modo sistema utiliza toda a configuração estabelecida a nivel de sistema. O modo site le permite especificar seus propios parâmetros de configuração.</value>
   </data>
   <data name="PerformanceTab_ClientResourcesManagementMode.Text">
-    <value xml:space="preserve">Modo de gestión de recursos de cliente</value>
+    <value xml:space="preserve">Modo de gestão de recursos de cliente</value>
   </data>
   <data name="PerformanceTab_CurrentHostVersion.Text">
     <value xml:space="preserve">Versão atual do sistema:</value>
@@ -232,10 +232,10 @@
     <value xml:space="preserve">Version do portal:</value>
   </data>
   <data name="PerformanceTab_EnableCompositeFiles.Help">
-    <value xml:space="preserve">Os Arquivos compuestos son combinações de recursos (JavaScript e CSS) criados para reducir o número de solicitudes de Arquivos pelo navegador. Isto aumentará significativamente a velocidade de carga da página.</value>
+    <value xml:space="preserve">Os arquivos compuestos são combinações de recursos (JavaScript e CSS) criados para reducir o número de solicitudes de arquivos pelo navegador. Isto aumentará significativamente a velocidade de envio da página.</value>
   </data>
   <data name="PerformanceTab_EnableCompositeFiles.Text">
-    <value xml:space="preserve">Activar Arquivos compuestos</value>
+    <value xml:space="preserve">Ativar arquivos compuestos</value>
   </data>
   <data name="PerformanceTab_GlobalClientResourcesManagementMode.Text">
     <value xml:space="preserve">Global</value>
@@ -253,16 +253,16 @@
     <value xml:space="preserve">Memoria</value>
   </data>
   <data name="PerformanceTab_MinifactionWarning.Text">
-    <value xml:space="preserve">Nota importante acerca da configuração de minificação. &lt;br/&gt; Se os ajustes de minificação se cambian quando os Arquivos compuestos están habilitados, primero deve guardar a configuração de minificação haciendo clic em Atualizar e luego incrementar o número de versão. Este emitirá os novos Arquivos compuestos usando a nova configuração de minificação.</value>
+    <value xml:space="preserve">Nota importante acerca da configuração de minificação. &lt;br/&gt; Se os ajustes de minificação se cambian quando os arquivos compuestos están habilitados, primeiro deve salvar a configuração de minificação hacindo clic em Atualizar e luego incrementar o número de versão. Este emitirá os novos arquivos compuestos usando a nova configuração de minificação.</value>
   </data>
   <data name="PerformanceTab_MinifyCss.Help">
-    <value xml:space="preserve">A minificação CSS reducirá o tamaño do código CSS mediante o uso de expresões regulares para eliminar os comentarios, espaços em branco e css não utilizado. Somente está disponível quando se activa a composição de Arquivos.</value>
+    <value xml:space="preserve">A minificação CSS reducirá o tamanho do código CSS mediante o uso de expresões regulares para deletar os comentarios, espaços em branco e css não utilizado. Somente está disponível quando se activa a composição de arquivos.</value>
   </data>
   <data name="PerformanceTab_MinifyCss.Text">
     <value xml:space="preserve">Minificação CSS</value>
   </data>
   <data name="PerformanceTab_MinifyJs.Help">
-    <value xml:space="preserve">A minificação JS reducirá o tamaño do código JavaScript utilizando JSMin. Somente está disponível quando se activa a composição de Arquivos.</value>
+    <value xml:space="preserve">A minificação JS reducirá o tamanho do código JavaScript utilizando JSMin. Somente está disponível quando se activa a composição de arquivos.</value>
   </data>
   <data name="PerformanceTab_MinifyJs.Text">
     <value xml:space="preserve">Minificação JS</value>
@@ -283,19 +283,19 @@
     <value xml:space="preserve">Página</value>
   </data>
   <data name="PerformanceTab_PageCacheProviders.Help">
-    <value xml:space="preserve">Selecione o provedor de almacenamiento em cache de página padrão. O provedor de cache deve estar habilitado para configurar o tempo de espera em cada página.</value>
+    <value xml:space="preserve">Selecione o provedor de almacenamento em cache da página padrão. O provedor de cache deve estar habilitado para configurar o tempo de espera em cada página.</value>
   </data>
   <data name="PerformanceTab_PageCacheProviders.Text">
-    <value xml:space="preserve">Provedor de cache de página</value>
+    <value xml:space="preserve">Provedor de cache da página</value>
   </data>
   <data name="PerformanceTab_PageStatePersistenceMode.Help">
-    <value xml:space="preserve">Selecione o modelo a utilizar para guardar o estado das páginas (Viewstate). Pode ser um campo oculto em a página (valor padrão) o em memoria (cache).</value>
+    <value xml:space="preserve">Selecione o modelo a utilizar para salvar o estado das páginas (Viewstate). Pode ser um campo oculto em a página (valor padrão) o em memoria (cache).</value>
   </data>
   <data name="PerformanceTab_PageStatePersistenceMode.Text">
-    <value xml:space="preserve">Persistencia do estado de página:</value>
+    <value xml:space="preserve">Persistencia do estado da página:</value>
   </data>
   <data name="PerformanceTab_PortalVersionConfirmMessage.Text">
-    <value xml:space="preserve">Esta ação forzará a todos os visitantes do portal a baixar uma nova versão dos Arquivos CSS e JS. Utilice esta opção quando os Arquivos do servidor hayan cambiado e quiera refrescar os Arquivos de todos clientes.
+    <value xml:space="preserve">Esta ação forzará a todos os visitantes do portal a baixar uma nova versão dos arquivos CSS e JS. Utilize esta opção quando os arquivos do servidor hayan cambiado e quiera refrescar os arquivos de todos clientes.
 Está seguro que quer incrementar o número de versão do portal?</value>
   </data>
   <data name="PerformanceTab_PortalVersionConfirmNo.Text">
@@ -305,7 +305,7 @@ Está seguro que quer incrementar o número de versão do portal?</value>
     <value xml:space="preserve">Sí</value>
   </data>
   <data name="PerformanceTab_SiteClientResourcesManagementMode.Text">
-    <value xml:space="preserve">Mi sitio {0}</value>
+    <value xml:space="preserve">Mi site {0}</value>
   </data>
   <data name="PerformanceTab_SslForCacheSyncrhonization.Help">
     <value xml:space="preserve">A sincronização de cache se realiza de forma predeterminado por http. Para utilizar SSL ative esta opção.</value>
@@ -314,34 +314,34 @@ Está seguro que quer incrementar o número de versão do portal?</value>
     <value xml:space="preserve">SSL para sincronização de cache</value>
   </data>
   <data name="PerformanceTab_UnauthCacheability.Help">
-    <value xml:space="preserve">Establece a cabecera HTTP Cache-Controle para usuarios não autenticados.</value>
+    <value xml:space="preserve">Estabelece a cabecera HTTP Cache-Controle para usuários não autenticados.</value>
   </data>
   <data name="PerformanceTab_UnauthCacheability.Text">
-    <value xml:space="preserve">Cache usuarios não autenticados</value>
+    <value xml:space="preserve">Cache usuários não autenticados</value>
   </data>
   <data name="plBackups.Text">
-    <value xml:space="preserve">Historial de cópias de seguridade da base de datos:</value>
+    <value xml:space="preserve">Historial de cópias de segurança da base de dados:</value>
   </data>
   <data name="plBatch.Help">
-    <value xml:space="preserve">O número de mensagens enviados pelo programador de tareas em cada ejecução.</value>
+    <value xml:space="preserve">O número de mensagens enviados pelo programador de tarefas em cada execução.</value>
   </data>
   <data name="plBatch.Text">
     <value xml:space="preserve">Número de mensagens enviados em cada lote:</value>
   </data>
   <data name="plConnectionLimit.Help" lastModified="2018-03-24 17:30:24">
-    <value xml:space="preserve">Número máximo de conexões permitidas em este ServidePoint. O valor predeterminado é 2 e o máximo 2147483647.</value>
+    <value xml:space="preserve">Número máximo de conexões permitidas neste ServidePoint. O valor predeterminado é 2 e o máximo 2147483647.</value>
   </data>
   <data name="plConnectionLimit.Text">
     <value xml:space="preserve">Límite de conexões:</value>
   </data>
   <data name="plDataProvider.Help">
-    <value xml:space="preserve">O nome do provedor de datos predeterminado da aplicação.</value>
+    <value xml:space="preserve">O nome do provedor de dados predeterminado da aplicação.</value>
   </data>
   <data name="plDataProvider.Text">
-    <value xml:space="preserve">Provedor de datos:</value>
+    <value xml:space="preserve">Provedor de dados:</value>
   </data>
   <data name="plFiles.Text">
-    <value xml:space="preserve">Arquivos de base de datos:</value>
+    <value xml:space="preserve">Arquivos de base de dados:</value>
   </data>
   <data name="plGUID.Help">
     <value xml:space="preserve">O identificador único global que se pode usar para identificar esta aplicação.</value>
@@ -349,59 +349,59 @@ Está seguro que quer incrementar o número de versão do portal?</value>
   <data name="plGUID.Text">
     <value xml:space="preserve">GUID sistema:</value>
   </data>
-  <data name="plHostEmail.Help" lastModified="2020-05-09 09:28:42">
+  <data name="plHostEmail.Help" lastModified="2024-07-09 09:28:42">
     <value xml:space="preserve">O email de sistema se utiliza para verificar o servidor de correo. Também é possível que algunas extensões o utilizen para contactar com o responsable da instalação.</value>
   </data>
-  <data name="plHostEmail.Text" lastModified="2020-05-09 09:28:42">
+  <data name="plHostEmail.Text" lastModified="2024-07-09 09:28:42">
     <value xml:space="preserve">Email de sistema</value>
   </data>
   <data name="plMaxIdleTime.Help">
-    <value xml:space="preserve">O tempo, em milisegundos, que uma una conexión asociada com o ServidePoint pode mantenerse inactiva antes de que se cierre para reutilizarla em outra conexión. O valor predeterminado é 0 e o máximo 2147483647.</value>
+    <value xml:space="preserve">O tempo, em milisegundos, que uma una conexão associada com o ServidePoint pode mantenerse inactiva antes de que se cierre para reutilizarla em outra conexão. O valor predeterminado é 0 e o máximo 2147483647.</value>
   </data>
   <data name="plMaxIdleTime.Text">
     <value xml:space="preserve">Tempo máximo em espera:</value>
   </data>
   <data name="plProduct.Help">
-    <value xml:space="preserve">Aplicação que se está ejecutando</value>
+    <value xml:space="preserve">Aplicação que se está executando</value>
   </data>
   <data name="plProduct.Text">
     <value xml:space="preserve">Producto:</value>
   </data>
   <data name="plSMTPAuthentication.Help">
-    <value xml:space="preserve">Escriba o método de autenticação do servidor SMTP. O valor padrão é anónimo.</value>
+    <value xml:space="preserve">Digite o método de autenticação do servidor SMTP. O valor padrão é anónimo.</value>
   </data>
   <data name="plSMTPAuthentication.Text">
     <value xml:space="preserve">Autenticação SMTP:</value>
   </data>
   <data name="plSMTPEnableSSL.Help">
-    <value xml:space="preserve">Usado pelos servicios SMTP que requieren conexión segura (usualmente não é necessário)</value>
+    <value xml:space="preserve">Usado pelos servicios SMTP que requerirn conexão segura (usualmente não é necessário)</value>
   </data>
   <data name="plSMTPEnableSSL.Text">
-    <value xml:space="preserve">Activar SSL para SMTP:</value>
+    <value xml:space="preserve">Ativar SSL para SMTP:</value>
   </data>
   <data name="plSMTPMode.Help">
-    <value xml:space="preserve">O modo Sistema utiliza os valors configurados pela aplicação. O modo Sitio le permite especificar su propio servidor SMTP, puerto e método de autenticação.</value>
+    <value xml:space="preserve">O modo Sistema utiliza os valors configurados pela aplicação. O modo Site le permite especificar sua propio servidor SMTP, puerto e método de autenticação.</value>
   </data>
   <data name="plSMTPMode.Text">
     <value xml:space="preserve">Modo SMTP:</value>
   </data>
   <data name="plSMTPPassword.Help">
-    <value xml:space="preserve">Introduzca a contrasenha do servidor SMTP</value>
+    <value xml:space="preserve">Introduza a senha do servidor SMTP</value>
   </data>
   <data name="plSMTPPassword.Text">
-    <value xml:space="preserve">Contrasenha SMTP:</value>
+    <value xml:space="preserve">Senha SMTP:</value>
   </data>
   <data name="plSMTPServer.Help">
-    <value xml:space="preserve">Introduzca a direção e puerto do servidor SMTP que se utilizará para enviar emails desde este sitio.</value>
+    <value xml:space="preserve">Introduza a endereço e puerto do servidor SMTP que se utilizará para enviar emails desde este site.</value>
   </data>
   <data name="plSMTPServer.Text">
     <value xml:space="preserve">Servidor SMTP e puerto:</value>
   </data>
   <data name="plSMTPUsername.Help">
-    <value xml:space="preserve">Introduzca o usuário de autenticação do SMTP.</value>
+    <value xml:space="preserve">Introduza o usuário de autenticação do SMTP.</value>
   </data>
   <data name="plSMTPUsername.Text">
-    <value xml:space="preserve">Usuario SMTP:</value>
+    <value xml:space="preserve">Usuário SMTP:</value>
   </data>
   <data name="plVersion.Help">
     <value xml:space="preserve">A versão de esta aplicação.</value>
@@ -413,7 +413,7 @@ Está seguro que quer incrementar o número de versão do portal?</value>
     <value xml:space="preserve">Reiniciar aplicação</value>
   </data>
   <data name="SaveButtonText.Text">
-    <value xml:space="preserve">Guardar</value>
+    <value xml:space="preserve">Salvar</value>
   </data>
   <data name="SaveConfirmationMessage.Text">
     <value xml:space="preserve">foi guardado a configuração</value>
@@ -428,10 +428,10 @@ Está seguro que quer incrementar o número de versão do portal?</value>
     <value xml:space="preserve">O nome do servidor.</value>
   </data>
   <data name="ServerInfo_HostName.Text">
-    <value xml:space="preserve">Nome servidor:</value>
+    <value xml:space="preserve">Nome do servidor:</value>
   </data>
   <data name="ServerInfo_Identity.Help">
-    <value xml:space="preserve">Conta do usuário de Windows bajo a cual se ejecuta a aplicação. Esta é a conta que requiere a correta configuração de permissões em a pasta do servidor.</value>
+    <value xml:space="preserve">Conta do usuário de Windows bajo a cual se executa a aplicação. Esta é a conta que requerir a correta configuração de permissões em a pasta do servidor.</value>
   </data>
   <data name="ServerInfo_Identity.Text">
     <value xml:space="preserve">Identidade ASP.NET:</value>
@@ -449,16 +449,16 @@ Está seguro que quer incrementar o número de versão do portal?</value>
     <value xml:space="preserve">Versão do S.O.:</value>
   </data>
   <data name="ServerInfo_PhysicalPath.Help">
-    <value xml:space="preserve">Ubicação física da raíz do portal não servidor.</value>
+    <value xml:space="preserve">Ubicação física da raiz do portal não servidor.</value>
   </data>
   <data name="ServerInfo_PhysicalPath.Text">
-    <value xml:space="preserve">Ruta física:</value>
+    <value xml:space="preserve">Rota física:</value>
   </data>
   <data name="ServerInfo_RelativePath.Help">
-    <value xml:space="preserve">Ubicação relativa da aplicação em relação a raíz do portal.</value>
+    <value xml:space="preserve">Ubicação relativa da aplicação em relação a raiz do portal.</value>
   </data>
   <data name="ServerInfo_RelativePath.Text">
-    <value xml:space="preserve">Ruta relativa:</value>
+    <value xml:space="preserve">Rota relativa:</value>
   </data>
   <data name="ServerInfo_ServerTime.Help">
     <value xml:space="preserve">Data e hora atual do servidor web.</value>
@@ -479,7 +479,7 @@ Está seguro que quer incrementar o número de versão do portal?</value>
     <value xml:space="preserve">{0}</value>
   </data>
   <data name="Size.Text">
-    <value xml:space="preserve">Tamaño</value>
+    <value xml:space="preserve">Tamanho</value>
   </data>
   <data name="SMTPAnonymous.Text">
     <value xml:space="preserve">Anónimo</value>
@@ -494,13 +494,13 @@ Está seguro que quer incrementar o número de versão do portal?</value>
     <value xml:space="preserve">Aplicação</value>
   </data>
   <data name="tabDatabaseTitle.Text">
-    <value xml:space="preserve">Base de datos</value>
+    <value xml:space="preserve">Base de dados</value>
   </data>
   <data name="tabLogsTitle.Text">
     <value xml:space="preserve">Registros</value>
   </data>
   <data name="tabPerformanceTitle.Text">
-    <value xml:space="preserve">Rendimiento</value>
+    <value xml:space="preserve">Rendimento</value>
   </data>
   <data name="tabServerSettingsTitle.Text">
     <value xml:space="preserve">Configuração servidor</value>
@@ -515,7 +515,7 @@ Está seguro que quer incrementar o número de versão do portal?</value>
     <value xml:space="preserve">Web</value>
   </data>
   <data name="UserRestart.Text">
-    <value xml:space="preserve">O usuário foi forzado o reinicio da aplicação</value>
+    <value xml:space="preserve">O usuário foi forzado o reinício da aplicação</value>
   </data>
   <data name="VersionIncrementedConfirmation.Text">
     <value xml:space="preserve">foi incrementado o número de versão</value>

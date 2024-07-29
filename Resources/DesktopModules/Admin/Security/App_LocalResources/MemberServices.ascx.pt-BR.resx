@@ -16,7 +16,7 @@
     <value xml:space="preserve">Suscribir</value>
   </data>
   <data name="Description.Header">
-    <value xml:space="preserve">Descripção</value>
+    <value xml:space="preserve">Descrição</value>
   </data>
   <data name="Every.Header">
     <value xml:space="preserve">Cada</value>
@@ -52,10 +52,10 @@
     <value xml:space="preserve">Gratis</value>
   </data>
   <data name="Period.Header">
-    <value xml:space="preserve">Periodo</value>
+    <value xml:space="preserve">Período</value>
   </data>
   <data name="plRSVPCode.Help">
-    <value xml:space="preserve">Pode suscribirse a determinados servicios introduciendo o código RSVP. Si le han proporcionado um código, introdúzcalo e pulse "Suscribir"</value>
+    <value xml:space="preserve">Pode suscribirse a determinados servicios introduzindo o código RSVP. Se le han fornecido um código, introdúzcalo e pulse "Suscribir"</value>
   </data>
   <data name="plRSVPCode.Text">
     <value xml:space="preserve">Código RSVP:</value>
@@ -64,16 +64,16 @@
     <value xml:space="preserve">Renovar</value>
   </data>
   <data name="RSVPFailure.Text">
-    <value xml:space="preserve">O código RSVP introducido não é válido o não existe.</value>
+    <value xml:space="preserve">O código RSVP introduzido não é válido ou não existe.</value>
   </data>
   <data name="RSVPHelp.Text">
-    <value xml:space="preserve">Si le han proporcionado um código RSVP pode utilizarlo para suscribirse a determinados servicios. Introduzca o código e pulse o botão "Suscribir". </value>
+    <value xml:space="preserve">Se le han fornecido um código RSVP pode utilizarlo para suscribirse a determinados servicios. Introduza o código e pulse o botão "Suscribir". </value>
   </data>
   <data name="RSVPSuccess.Text">
-    <value xml:space="preserve">Foi sido añadido satisfactoriamente ao rol asociado com o código RSVP introducido. Para obtener o Acesso a os novos servicios deve iniciar sesión novamente não portal.</value>
+    <value xml:space="preserve">Foi sido adicionado satisfactoriamente ao cargo associado com o código RSVP introduzido. Para obter o Acesso a os novos servicios deve iniciar sessão novamente no portal.</value>
   </data>
   <data name="ServicesHelp.Text">
-    <value xml:space="preserve">Esta seção le permite administrar sus suscripções não portal. Não caso de servicios que requieran pago será redireccionado ao sitio de pago. Quando haya efectuado o pago, pode volver aquí para ver o estado de su suscripção.</value>
+    <value xml:space="preserve">Esta seção le permite administrar seus suscripções no portal. Não caso de servicios que requieran pago será redireccionado ao site de pago. Quando haya efectuado o pago, pode volver aqui para ver o estado de sua suscripção.</value>
   </data>
   <data name="Subscribe.Text">
     <value xml:space="preserve">Suscribir</value>
@@ -85,7 +85,7 @@
     <value xml:space="preserve">{0} por {1} {2}</value>
   </data>
   <data name="Unsubscribe.Text">
-    <value xml:space="preserve">Eliminar suscripção</value>
+    <value xml:space="preserve">Deletar suscripção</value>
   </data>
   <data name="UseTrial.Text">
     <value xml:space="preserve">Usar prueba</value>

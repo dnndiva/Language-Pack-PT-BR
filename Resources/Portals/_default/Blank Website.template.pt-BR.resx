@@ -13,40 +13,40 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="LocalizedTemplateName.Text">
-    <value xml:space="preserve">Sitio web em branco</value>
+    <value xml:space="preserve">Site web em branco</value>
   </data>
   <data name="PortalDescription.Text">
-    <value xml:space="preserve">planilha de sitio web em branco</value>
+    <value xml:space="preserve">planilha de site web em branco</value>
   </data>
   <data name="RoleGroup.Description.Text">
-    <value xml:space="preserve">Um grupo de roles que representa os roles globales</value>
+    <value xml:space="preserve">Um grupo de cargos que representa os cargos globais</value>
   </data>
   <data name="Setting.DefaultLanguage.Text">
     <value xml:space="preserve">pt-BR</value>
   </data>
   <data name="Setting.FooterText.Text">
-    <value xml:space="preserve">Copyright [year] mi sitio web</value>
+    <value xml:space="preserve">Copyright [year] mi site web</value>
   </data>
   <data name="Tab.404ErrorPage..Module.Content.Text">
-    <value xml:space="preserve">O sentimos, a página que esta buscando não foi encontrado. Pode que a página foiya borrado, su nome haya cambiado o bien esté temporalmente desactivada. Le sugerimos que empieze de novo em a página inicial. Póngase em contato com nosoutros se o problema persiste o não pode encontrar o que necessita.</value>
+    <value xml:space="preserve">O sentimos, a página que esta buscando não foi encontrado. Pode que a página foi borrado, seu nome haya cambiado o bien esté temporalmente desactivada. Le sugerimos que empieze de novo em a página inicial. Póngase em contato com nosoutros se o problema persiste ou não pode encontrar o que necessita.</value>
   </data>
   <data name="Tab.404ErrorPage..Module.Title.Text">
     <value xml:space="preserve">A página não se pode encontrar</value>
   </data>
   <data name="Tab.404ErrorPage.Content.Text">
-    <value xml:space="preserve">Página de error 404</value>
+    <value xml:space="preserve">Página de erro 404</value>
   </data>
   <data name="Tab.404ErrorPage.Title.Text">
-    <value xml:space="preserve">Página de error 404</value>
+    <value xml:space="preserve">Página de erro 404</value>
   </data>
   <data name="Tab.About.RightPane.OtherModule.Content.8.Text">
-    <value xml:space="preserve">Compartilhe sus comentarios</value>
+    <value xml:space="preserve">Compartilhe seus comentarios</value>
   </data>
   <data name="Tab.DigitalAssetsManagement.Title.Text" lastModified="2015-12-29 07:06:21">
-    <value xml:space="preserve">Gestión de Arquivos</value>
+    <value xml:space="preserve">Gestão de arquivos</value>
   </data>
   <data name="Tab.Home.Name.Text">
-    <value xml:space="preserve">Inicio</value>
+    <value xml:space="preserve">Início</value>
   </data>
   <data name="Tab.MyFriends.Title.Text" lastModified="2015-12-29 07:06:21">
     <value xml:space="preserve">Mis amigos</value>
@@ -64,7 +64,7 @@
     <value xml:space="preserve">Resultados de buscas</value>
   </data>
   <data name="Tab.UserAccounts.Title.Text" lastModified="2015-12-29 07:06:21">
-    <value xml:space="preserve">Contas de usuarios</value>
+    <value xml:space="preserve">Contas de usuários</value>
   </data>
   <data name="Tab.Home.Description.Text">
     <value>

@@ -13,22 +13,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ControlTitle_mywork.Text">
-    <value xml:space="preserve">Mi trabalho</value>
+    <value xml:space="preserve">Meu trabalho</value>
   </data>
   <data name="lblMessage.Text">
-    <value xml:space="preserve">O seguinte conteúdo requiere ser revisado antes de su publicação:</value>
+    <value xml:space="preserve">O seguinte conteúdo requerir ser revisado antes de sua publicação:</value>
   </data>
   <data name="lblNoRecords.Text">
-    <value xml:space="preserve">Não há nenhum conteúdo pendiente de aprobação.</value>
+    <value xml:space="preserve">Não há nenhum conteúdo pendente de aprovação.</value>
   </data>
   <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;p&gt;O módulo Text/HTML hace texto plano, texto enriquecido e HTML. Están disponívels 5 vistas diferentes de edição: &lt;/p&gt;
+    <value xml:space="preserve">&lt;p&gt;O módulo Text/HTML hace texto plano, texto enriquecido e HTML. Están disponíveis 5 vistas diferentes de edição: &lt;/p&gt;
 &lt;OL&gt;
-&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / Texto&lt;/STRONG&gt;: Interpretação de texto básico e etiquetas HTML. O texto introducido em uma nova linea é maquetado como um salto de linea. O estilo de texto é Normal como foi establecido em su hoja de estilo. 
-&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / HTML&lt;/STRONG&gt;: Muestra o texto básico em formato HTML.
-&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / Raw&lt;/STRONG&gt;: Muestra o texto básico em formato HTML. O texto introducido em uma nova linea não é interpretado como salto de linea.
+&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / Texto&lt;/STRONG&gt;: Interpretação de texto básico e etiquetas HTML. O texto introduzido em uma nova linea é maquetado como um salto de linea. O estilo de texto é Normal como foi establecido em sua hoja de estilo. 
+&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / HTML&lt;/STRONG&gt;: Mostra o texto básico em formato HTML.
+&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / Raw&lt;/STRONG&gt;: Mostra o texto básico em formato HTML. O texto introduzido em uma nova linea não é interpretado como salto de linea.
 &lt;li&gt;&lt;STRONG&gt;Editor de Texto Enriquecido / HTML&lt;/STRONG&gt;: Permite pegar HTML desde outras fuentes.
-&lt;li&gt;&lt;STRONG&gt;Editor de Texto Enriquecido / Diseño&lt;/STRONG&gt;: Um procesador de texto o editor WYSIWYG (What You See is What You Get) com funcionalidades como hiperenlaces, enlaces de email, Administrador de Arquivos, galería de imágenes, puntos de interrupção, corretor ortográfico, e mucho más.</value>
+&lt;li&gt;&lt;STRONG&gt;Editor de Texto Enriquecido / Diseño&lt;/STRONG&gt;: Um procesador de texto o editor WYSIWYG (What You See is What You Get) com funcionalidades como hiperinterfaces, interfaces de email, Administrador de arquivos, galería de imágenes, pontos de interrupção, corretor ortográfico, e mucho mais.</value>
   </data>
   <data name="Page.Header">
     <value xml:space="preserve">Página</value>

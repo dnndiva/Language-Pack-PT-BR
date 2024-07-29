@@ -16,12 +16,12 @@
     <value xml:space="preserve">Deteção de dispositivos</value>
   </data>
   <data name="PageDescription.Text">
-    <value xml:space="preserve">Deteção de dispositivos móviles e servicios de redireção</value>
+    <value xml:space="preserve">Deteção de dispositivos móviles e servicios de reendereço</value>
   </data>
   <data name="PageName.Text">
-    <value xml:space="preserve">Gestión de deteção de dispositivos</value>
+    <value xml:space="preserve">Gestão de deteção de dispositivos</value>
   </data>
   <data name="SuccessMessage.Text">
-    <value xml:space="preserve">Actualização de datos de dispositivos correta</value>
+    <value xml:space="preserve">Atualização de dados de dispositivos correta</value>
   </data>
 </root>

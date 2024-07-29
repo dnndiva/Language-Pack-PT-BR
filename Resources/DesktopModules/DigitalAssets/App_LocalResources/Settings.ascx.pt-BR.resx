@@ -25,19 +25,19 @@
     <value xml:space="preserve">Excluir subpastas</value>
   </data>
   <data name="ExcludeSubfoldersLabel.Help">
-    <value xml:space="preserve">Si está activado, o módulo somente mostrará os Arquivos da pasta e subpastas, mas não mostrará as subpastas.</value>
+    <value xml:space="preserve">Se está activado, o módulo somente mostrará os arquivos da pasta e subpastas, mas não mostrará as subpastas.</value>
   </data>
   <data name="FilterByFolder.Text">
     <value xml:space="preserve">Filtrar según pasta</value>
   </data>
   <data name="FolderMustBeSelected.ErrorMessage">
-    <value xml:space="preserve">Si selecciona a opção Filtrar según pasta, tem que selecionar uma pasta</value>
+    <value xml:space="preserve">Se selecciona a opção Filtrar según pasta, tem que selecionar uma pasta</value>
   </data>
   <data name="Group.Text">
     <value xml:space="preserve">Grupo</value>
   </data>
   <data name="IncludeSubfoldersFilesOnly.Text">
-    <value xml:space="preserve">Incluir subpastas (somente Arquivos)</value>
+    <value xml:space="preserve">Incluir subpastas (somente arquivos)</value>
   </data>
   <data name="IncludeSubfoldersFolderStructure.Text">
     <value xml:space="preserve">Incluir subpastas (mostrar estructura de pastas)</value>
@@ -52,13 +52,13 @@
     <value xml:space="preserve">Normal</value>
   </data>
   <data name="NoSet.Text">
-    <value xml:space="preserve">Sin establecer</value>
+    <value xml:space="preserve">Sem establecer</value>
   </data>
   <data name="User.Text">
-    <value xml:space="preserve">Usuario</value>
+    <value xml:space="preserve">Usuário</value>
   </data>
   <data name="ViewCondition.Help">
-    <value xml:space="preserve">Selecione as opções de filtro que se aplicarán a lista</value>
+    <value xml:space="preserve">Selecione as opções de filtro que se aplicarão a lista</value>
   </data>
   <data name="ViewCondition.Text">
     <value xml:space="preserve">Modo de visualização</value>

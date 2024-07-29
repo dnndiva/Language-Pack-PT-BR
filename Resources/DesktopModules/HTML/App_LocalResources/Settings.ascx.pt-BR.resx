@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="chkReplace.Text">
-    <value xml:space="preserve">Reemplazar a configuração atual?</value>
+    <value xml:space="preserve">Substituir a configuração atual?</value>
   </data>
   <data name="cmdWorkflow.Text">
     <value xml:space="preserve">Gestionar fluxos de trabalho</value>
@@ -25,7 +25,7 @@
     <value xml:space="preserve">Módulo</value>
   </data>
   <data name="ModuleHelp.Text">
-    <value xml:space="preserve">Ayuda de configuração</value>
+    <value xml:space="preserve">Ajuda de configuração</value>
   </data>
   <data name="Page.Text">
     <value xml:space="preserve">Página</value>
@@ -37,23 +37,23 @@
     <value xml:space="preserve">Aplicar fluxo de trabalho a:</value>
   </data>
   <data name="plDecorate.Help">
-    <value xml:space="preserve">Mostra si se tem que modificar o estilo dos controles de formulario añadidos para mantener o mesmo aspecto que o resto da web.</value>
+    <value xml:space="preserve">Mostra se se tem que modificar o estilo dos controles de formulário adicionados para manter o mesmo aspecto que o resto da web.</value>
   </data>
   <data name="plDecorate.Text">
-    <value xml:space="preserve">Estilizar campos de formulario:</value>
+    <value xml:space="preserve">Estilizar campos de formulário:</value>
   </data>
   <data name="plReplaceTokens.Help">
-    <value xml:space="preserve">Activar &lt;strong&gt;Reemplazo mejorado&lt;/strong&gt; para reemplazar tokens como "[object:property|format]" para os objectos Tab, Module, PortalSettings o User com os valores de entorno adecuados.&lt;br /&gt;
-        Nota: a edição integrada (inline) e a cache de módulo serán desactivados, si se usa reemplazo de tokens.</value>
+    <value xml:space="preserve">Ativar &lt;strong&gt;Substituíção melhorado&lt;/strong&gt; para substituir tokens como "[object:property|format]" para os objectos Tab, Module, PortalSettings o User com os valores de retorno adecuados.&lt;br /&gt;
+        Nota: a edição integrada (inline) e a cache de módulo serão desactivados, se se usa substituíção de tokens.</value>
   </data>
   <data name="plReplaceTokens.Text">
-    <value xml:space="preserve">Reemplazar tokens:</value>
+    <value xml:space="preserve">Substituir tokens:</value>
   </data>
   <data name="plSearchDescLength.Help">
-    <value xml:space="preserve">Define a longituda máxima de texto utilizada para as buscas não portal.</value>
+    <value xml:space="preserve">Define a longituda máxima de texto utilizada para as buscas no portal.</value>
   </data>
   <data name="plSearchDescLength.Text">
-    <value xml:space="preserve">longitude máxima de descripção para buscas:</value>
+    <value xml:space="preserve">comprimento máximo de descrição para buscas:</value>
   </data>
   <data name="plWorkflow.Help">
     <value xml:space="preserve">Selecione um fluxo de trabalho para publicação</value>
@@ -62,9 +62,9 @@
     <value xml:space="preserve">fluxo de trabalho</value>
   </data>
   <data name="Site.Text">
-    <value xml:space="preserve">Sitio</value>
+    <value xml:space="preserve">Site</value>
   </data>
   <data name="valSearchDescLength.ErrorMessage">
-    <value xml:space="preserve">Tem que entrar um número para a longitude máxima para buscas</value>
+    <value xml:space="preserve">Tem que entrar um número para o comprimento máxima para buscas</value>
   </data>
 </root>

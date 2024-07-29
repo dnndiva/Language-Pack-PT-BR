@@ -13,13 +13,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddNewSite.Header">
-    <value xml:space="preserve">Adicionar novo sitio</value>
+    <value xml:space="preserve">Adicionar novo site</value>
   </data>
   <data name="AddNewSite.Text" lastModified="2017-04-29 01:30:28">
-    <value xml:space="preserve">Adicionar novo sitio</value>
+    <value xml:space="preserve">Adicionar novo site</value>
   </data>
   <data name="AssignCurrentUserAsAdmin.Label">
-    <value xml:space="preserve">Adicionar usuario atual como Administrador</value>
+    <value xml:space="preserve">Adicionar usuário atual como Administrador</value>
   </data>
   <data name="BackToSites.Text" lastModified="2017-02-05 12:51:46">
     <value xml:space="preserve">Volver a lista de portais</value>
@@ -31,24 +31,24 @@
     <value xml:space="preserve">Não</value>
   </data>
   <data name="ChildExists.Text">
-    <value xml:space="preserve">O nome do portal utilizado já existe. Introduzca um nome diferente.</value>
+    <value xml:space="preserve">O nome do portal utilizado já existe. Introduza um nome diferente.</value>
   </data>
   <data name="cmdCancel.Text">
     <value xml:space="preserve">Cancelar</value>
   </data>
   <data name="cmdCreateSite.Text">
-    <value xml:space="preserve">criar sitio</value>
+    <value xml:space="preserve">Criar site</value>
   </data>
   <data name="cmdExport.Text">
-    <value xml:space="preserve">criar planilha</value>
+    <value xml:space="preserve">Criar planilha</value>
   </data>
   <data name="ConfirmPortalDelete.Text">
     <value xml:space="preserve">Sí</value>
   </data>
   <data name="ControlTitle_template.Text">
-    <value xml:space="preserve">criar planilha de sitio</value>
+    <value xml:space="preserve">Criar planilha de site</value>
   </data>
-  <data name="CreatePortalHomeFolderExists.Error" lastModified="2020-05-09 09:29:29">
+  <data name="CreatePortalHomeFolderExists.Error" lastModified="2024-07-09 09:29:29">
     <value xml:space="preserve">A pasta de portal {0} já está em uso.</value>
   </data>
   <data name="CreateSite_AdminEmail.Label">
@@ -61,31 +61,31 @@
     <value xml:space="preserve">Apellidos</value>
   </data>
   <data name="CreateSite_AdminPassword.Label">
-    <value xml:space="preserve">Contrasenha</value>
+    <value xml:space="preserve">Senha</value>
   </data>
   <data name="CreateSite_AdminPasswordConfirm.Label">
-    <value xml:space="preserve">Confirmação de contrasenha</value>
+    <value xml:space="preserve">Confirmação de senha</value>
   </data>
   <data name="CreateSite_AdminUserName.Label">
     <value xml:space="preserve">Adminstrador</value>
   </data>
   <data name="CreateSite_SelectTemplate.Overlay">
-    <value xml:space="preserve">selecione uma planilha</value>
+    <value xml:space="preserve">selecione umo template</value>
   </data>
   <data name="DefaultLanguage.Text">
     <value xml:space="preserve">O idioma predeterminado do portal é {0}</value>
   </data>
   <data name="deletePortal.Text">
-    <value xml:space="preserve">Está seguro que quer eliminar {0}?</value>
+    <value xml:space="preserve">Está seguro que quer deletar {0}?</value>
   </data>
   <data name="DeleteSite.Text">
-    <value xml:space="preserve">Eliminar sitio</value>
+    <value xml:space="preserve">Deletar site</value>
   </data>
   <data name="Description.Label">
-    <value xml:space="preserve">Descripção</value>
+    <value xml:space="preserve">Descrição</value>
   </data>
   <data name="Description.Text" lastModified="2017-04-29 01:30:28">
-    <value xml:space="preserve">Descripção</value>
+    <value xml:space="preserve">Descrição</value>
   </data>
   <data name="Directory.Text">
     <value xml:space="preserve">Pasta</value>
@@ -94,22 +94,22 @@
     <value xml:space="preserve">Dominio</value>
   </data>
   <data name="DuplicatePortalAlias.Text">
-    <value xml:space="preserve">O alias que foi especificado já existe. Introduzca um nome de alias diferente.</value>
+    <value xml:space="preserve">O pseudônimo que foi especificado já existe. Introduza um nome de pseudônimo diferente.</value>
   </data>
   <data name="DuplicateWithTab.Text">
-    <value xml:space="preserve">Já existe uma página com o mesmo nome que foi entrado em um alias do portal. Cambie o alias do portal e vuelva a intentarlo.</value>
+    <value xml:space="preserve">Já existe uma página com o mesmo nome que foi entrado em um pseudônimo do portal. Cambie o pseudônimo do portal e tente de novo.</value>
   </data>
   <data name="EmailRequired.Error">
     <value xml:space="preserve">O email é obrigatório.</value>
   </data>
   <data name="ErrorAncestorPages.Text">
-    <value xml:space="preserve">Tem que selecionar todas as páginas superiores para poder incluir uma página descendiente.</value>
+    <value xml:space="preserve">Tem que selecionar todas as páginas superiores para poder incluir uma página descendente.</value>
   </data>
   <data name="ErrorPages.Text">
     <value xml:space="preserve">Tem que selecionar ao menos uma página para exportar.</value>
   </data>
   <data name="ExportedMessage.Text">
-    <value xml:space="preserve">A planilha do portal foi guardado em a pasta: &lt;br/&gt;&lt;strong&gt;{0}&lt;/strong&gt;</value>
+    <value xml:space="preserve">O template do portal foi guardado em a pasta: &lt;br/&gt;&lt;strong&gt;{0}&lt;/strong&gt;</value>
   </data>
   <data name="ExportTemplate.Text">
     <value xml:space="preserve">Exportar planilha</value>
@@ -118,19 +118,19 @@
     <value xml:space="preserve">O nome é obrigatório.</value>
   </data>
   <data name="HomeDirectory.Label">
-    <value xml:space="preserve">Pasta raíz</value>
+    <value xml:space="preserve">Pasta raiz</value>
   </data>
   <data name="InvalidHomeFolder.Text">
-    <value xml:space="preserve">A pasta de inicio que foi especificado não é válida</value>
+    <value xml:space="preserve">A pasta de início que foi especificado não é válida</value>
   </data>
   <data name="InvalidName.Text">
     <value xml:space="preserve">O nome do portal não pode contener espaços o caracteres de puntuação.</value>
   </data>
   <data name="InvalidPassword.Text">
-    <value xml:space="preserve">Os valores das contrasenhas introducidas não coincidem.</value>
+    <value xml:space="preserve">Os valores das senhas introduzidas não coincidem.</value>
   </data>
   <data name="LastNameRequired.Error">
-    <value xml:space="preserve">Os apellidos son obrigatórios.</value>
+    <value xml:space="preserve">Os apellidos são obrigatórios.</value>
   </data>
   <data name="lblAdminOnly.Text">
     <value xml:space="preserve">Visível somente para administradores</value>
@@ -139,37 +139,37 @@
     <value xml:space="preserve">A página está desactivada</value>
   </data>
   <data name="lblEveryone.Text">
-    <value xml:space="preserve">A página é visível para todos os usuarios</value>
+    <value xml:space="preserve">A página é visível para todos os usuários</value>
   </data>
   <data name="lblFiles.Help">
-    <value xml:space="preserve">Ative esta opção para incluir os Arquivos e pastas na planilha de exportação.</value>
+    <value xml:space="preserve">Ative esta opção para incluir os arquivos e pastas no template de exportação.</value>
   </data>
   <data name="lblFiles.Text">
-    <value xml:space="preserve">Incluir Arquivos</value>
+    <value xml:space="preserve">Incluir arquivos</value>
   </data>
   <data name="lblHidden.Text">
-    <value xml:space="preserve">A página não se muestra não menú</value>
+    <value xml:space="preserve">A página não se mostra no menu</value>
   </data>
   <data name="lblHome.Text">
-    <value xml:space="preserve">Página de inicio do portal</value>
+    <value xml:space="preserve">Página de início do portal</value>
   </data>
   <data name="lblLanguages.Help">
-    <value xml:space="preserve">Selecione os idiomas adicionales que quiera incluir na planilha multi idioma, o bién o idioma principal si se trata de um planilha com um somente idioma.</value>
+    <value xml:space="preserve">Selecione os idiomas adicionales que quiera incluir no template multi idioma, o bién o idioma principal se se trata de um planilha com um somente idioma.</value>
   </data>
   <data name="lblLanguages.Text">
     <value xml:space="preserve">Exportar idiomas</value>
   </data>
   <data name="lblModules.Help">
-    <value xml:space="preserve">Ative esta opção para incluir as permissões de utilização de módulos na planilha de exportação. Tenga em conta que se activa esta opção pode ser necessário activar também a exportação de roles.</value>
+    <value xml:space="preserve">Ative esta opção para incluir as permissões de utilização de módulos no template de exportação. Tenga em conta que se activa esta opção pode ser necessário ativar também a exportação de cargos.</value>
   </data>
   <data name="lblModules.Text">
     <value xml:space="preserve">Incluir permissões de utilização de módulos</value>
   </data>
   <data name="lblMultilanguage.Help">
-    <value xml:space="preserve">Ative esta opção para criar uma planilha para um sitio multi idioma e selecione os idiomas que quiera incluir, además do idioma predeterminado.</value>
+    <value xml:space="preserve">Ative esta opção para criar umo template para um site multi idioma e selecione os idiomas que quiera incluir, ademais do idioma predeterminado.</value>
   </data>
   <data name="lblMultilanguage.Text">
-    <value xml:space="preserve">Exportar como sitio multi idioma</value>
+    <value xml:space="preserve">Exportar como site multi idioma</value>
   </data>
   <data name="lblNote.Text">
     <value xml:space="preserve">O idioma predeterminado ({0}) se incluirá siempre.</value>
@@ -178,95 +178,95 @@
     <value xml:space="preserve">Atenção: o idioma predeterminado é &lt;strong&gt;{0}&lt;/strong&gt;</value>
   </data>
   <data name="lblPages.Help">
-    <value xml:space="preserve">Selecione as páginas que quiera incluir na planilha de exportação.&lt;br/&gt;&lt;Si pretende utilizar esta planilha para criar um sitio novo tem que incluir todas as páginas de administração. Si não se incluyen, os portais criados com esta planilha não tendrán Acesso ao menú de administração.</value>
+    <value xml:space="preserve">Selecione as páginas que quiera incluir no template de exportação.&lt;br/&gt;&lt;Se pretende utilizar esto template para criar um site novo tem que incluir todas as páginas de administração. Se não se incluem, os portais criados com esto template não tendrão Acesso ao menu de administração.</value>
   </data>
   <data name="lblPages.Text">
     <value xml:space="preserve">Páginas a exportar</value>
   </data>
   <data name="lblProfile.Help">
-    <value xml:space="preserve">Ative esta opção para incluir as definições de propriedadees do perfil na planilha de exportação.</value>
+    <value xml:space="preserve">Ative esta opção para incluir as definições de propriedades do perfil no template de exportação.</value>
   </data>
   <data name="lblProfile.Text">
-    <value xml:space="preserve">Incluir propriedadees do perfil do usuário</value>
+    <value xml:space="preserve">Incluir propriedades do perfil do usuário</value>
   </data>
   <data name="lblRedirect.Text">
-    <value xml:space="preserve">Redireção de página</value>
+    <value xml:space="preserve">Reendereço da página</value>
   </data>
   <data name="lblRegistered.Text">
-    <value xml:space="preserve">Visível para usuarios registrados</value>
+    <value xml:space="preserve">Visível para usuários registrados</value>
   </data>
   <data name="lblRoles.Help">
-    <value xml:space="preserve">Ative esta opção para incluir os roles na planilha de exportação.</value>
+    <value xml:space="preserve">Ative esta opção para incluir os cargos no template de exportação.</value>
   </data>
   <data name="lblRoles.Text">
-    <value xml:space="preserve">Incluir roles</value>
+    <value xml:space="preserve">Incluir cargos</value>
   </data>
   <data name="lblSecure.Text">
-    <value xml:space="preserve">Visível somente para roles específicos</value>
+    <value xml:space="preserve">Visível somente para cargos específicos</value>
   </data>
   <data name="lblSelectLanguages.Text">
     <value xml:space="preserve">&lt; Selecionar idiomas &gt;</value>
   </data>
   <data name="LoadMore.Button">
-    <value xml:space="preserve">Ver más</value>
+    <value xml:space="preserve">Ver mais</value>
   </data>
   <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;h1&gt;Acerca de planilhas&lt;/h1&gt;&lt;p&gt;Permite exportar a estrutura e também o conteúdo de um portal a uma planilha. Esta planilha pode ser utilizada luego para construir novos portales.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;h1&gt;Acerca de planilhas&lt;/h1&gt;&lt;p&gt;Permite exportar a estrutura e também o conteúdo de um portal a umo template. Esto template pode ser utilizada luego para construir novos portales.&lt;/p&gt;</value>
   </data>
   <data name="nav_Sites.Text">
     <value xml:space="preserve">Portais</value>
   </data>
   <data name="PasswordConfirmRequired.Error">
-    <value xml:space="preserve">A confirmação da contrasenha é obrigatória.</value>
+    <value xml:space="preserve">A confirmação da senha é obrigatória.</value>
   </data>
   <data name="PasswordRequired.Error">
-    <value xml:space="preserve">A contrasenha é obrigatória. Introduzca um mínimo de 7 caracteres.</value>
+    <value xml:space="preserve">A senha é obrigatória. Introduza um mínimo de 7 caracteres.</value>
   </data>
   <data name="plContent.Help">
-    <value xml:space="preserve">Ative esta opção para incluir na planilha o conteúdo dos módulos</value>
+    <value xml:space="preserve">Ative esta opção para incluir no template o conteúdo dos módulos</value>
   </data>
   <data name="plContent.Text">
     <value xml:space="preserve">Incluir conteúdo</value>
   </data>
   <data name="plDescription.Help">
-    <value xml:space="preserve">Escriba uma descripção para o arquivo de planilha</value>
+    <value xml:space="preserve">Digite uma descrição para o arquivo de planilha</value>
   </data>
   <data name="plDescription.Text">
-    <value xml:space="preserve">Descripção da planilha</value>
+    <value xml:space="preserve">Descrição do template</value>
   </data>
   <data name="plPortals.Help">
-    <value xml:space="preserve">Selecione o sitio a exportar</value>
+    <value xml:space="preserve">Selecione o site a exportar</value>
   </data>
   <data name="plPortals.Text">
-    <value xml:space="preserve">Sitio</value>
+    <value xml:space="preserve">Site</value>
   </data>
   <data name="plTemplateName.Help">
-    <value xml:space="preserve">Escriba le nome do arquivo de planilha</value>
+    <value xml:space="preserve">Digite le nome do arquivo de planilha</value>
   </data>
   <data name="plTemplateName.Text">
     <value xml:space="preserve">Nome do arquivo de planilha</value>
   </data>
   <data name="PortalDeletionDenied.Text">
-    <value xml:space="preserve">Não se pode eliminar o sitio.</value>
+    <value xml:space="preserve">Não pode ser deletado o site.</value>
   </data>
   <data name="PortalNotFound.Text">
-    <value xml:space="preserve">Não foi encontrado o sitio.</value>
+    <value xml:space="preserve">Não foi encontrado o site.</value>
   </data>
   <data name="PortalSetup.Text">
     <value xml:space="preserve">Configuração do portal</value>
   </data>
   <data name="SendMail.Error">
-    <value xml:space="preserve">Foi ocurrido um error enviando os mensagens de confirmação - {0}. Não obstante, o sitio web foi creado corretamente. &lt;a href='{1}' {2}&gt;Haga clic aquí para acceder ao novo sitio&lt;/a&gt;</value>
+    <value xml:space="preserve">Foi ocurrido um erro enviando os mensagens de confirmação - {0}. Não obstante, o site web foi creado corretamente. &lt;a href='{1}' {2}&gt;Clique aqui aqui para acceder ao novo site&lt;/a&gt;</value>
   </data>
   <data name="Settings.Text">
     <value xml:space="preserve">Configuração avançada</value>
   </data>
   <data name="SiteAliasRequired.Error">
-    <value xml:space="preserve">O alias do portal é obrigatório. &lt;ul style="
+    <value xml:space="preserve">O pseudônimo do portal é obrigatório. &lt;ul style="
     word-break: normal;
     margin: 10px auto;
     list-style: none;
-"&gt;&lt;li style="margin-bottom:10px"&gt;Requisitios de dominio: sin espaços, sin caracteres especiales (somente : , .). &lt;/li&gt;&lt;li&gt;Requisitos de pasta: sin espaços, sin caracteres especiales (somente : _ , -).&lt;/li&gt;&lt;/ul&gt;</value>
+"&gt;&lt;li style="margin-bottom:10px"&gt;Requisites de dominio: sem espaços, sem caracteres especiales (somente : , .). &lt;/li&gt;&lt;li&gt;Requisitos de pasta: sem espaços, sem caracteres especiales (somente : _ , -).&lt;/li&gt;&lt;/ul&gt;</value>
   </data>
   <data name="SiteDetails_Pages.Text">
     <value xml:space="preserve">Páginas</value>
@@ -275,16 +275,16 @@
     <value xml:space="preserve">ID do portal</value>
   </data>
   <data name="SiteDetails_Updated.Text">
-    <value xml:space="preserve">Actualizado</value>
+    <value xml:space="preserve">Atualizado</value>
   </data>
   <data name="SiteDetails_Users.Text">
-    <value xml:space="preserve">Usuarios</value>
+    <value xml:space="preserve">Usuários</value>
   </data>
   <data name="SiteExport.Text" lastModified="2018-03-24 17:31:49">
-    <value xml:space="preserve">Exportar sitio</value>
+    <value xml:space="preserve">Exportar site</value>
   </data>
   <data name="SiteImport.Text" lastModified="2018-03-24 17:31:49">
-    <value xml:space="preserve">Impotar sitio</value>
+    <value xml:space="preserve">Impotar site</value>
   </data>
   <data name="Sites.Text" lastModified="2017-04-29 01:30:28">
     <value xml:space="preserve">Portais</value>
@@ -299,7 +299,7 @@
     <value xml:space="preserve">O título do portal é obrigatório.</value>
   </data>
   <data name="SiteType.Label">
-    <value xml:space="preserve">Tipo de sitio:</value>
+    <value xml:space="preserve">Tipo de site:</value>
   </data>
   <data name="SiteUrl.Label">
     <value xml:space="preserve">URL do portal</value>
@@ -308,24 +308,24 @@
     <value xml:space="preserve">Titulo</value>
   </data>
   <data name="titleTemplateInfo.Text">
-    <value xml:space="preserve">Informação da planilha do portal</value>
+    <value xml:space="preserve">Informação do template do portal</value>
   </data>
   <data name="UnknownEmailAddress.Error">
     <value xml:space="preserve">Não foi establecido um email em a configuração do sistema o do portal.</value>
   </data>
   <data name="UnknownSendMail.Error">
-    <value xml:space="preserve">Foi ocurrido um error enviando os mensagens de confirmação. Não obstante, o sitio web foi creado corretamente. &lt;a href='{0}' {1}&gt;Haga clic aquí para acceder ao novo sitio&lt;/a&gt;</value>
+    <value xml:space="preserve">Foi ocurrido um erro enviando os mensagens de confirmação. Não obstante, o site web foi creado corretamente. &lt;a href='{0}' {1}&gt;Clique aqui aqui para acceder ao novo site&lt;/a&gt;</value>
   </data>
   <data name="UsernameRequired.Error">
     <value xml:space="preserve">O nome do usuário é obrigatório.</value>
   </data>
   <data name="valDescription.ErrorMessage">
-    <value xml:space="preserve">A descripção da planilha é obrigatória.</value>
+    <value xml:space="preserve">A descrição do template é obrigatória.</value>
   </data>
   <data name="valFileName.ErrorMessage">
-    <value xml:space="preserve">O nome do arquivo da planilha é obrigatório.</value>
+    <value xml:space="preserve">O nome do arquivo do template é obrigatório.</value>
   </data>
   <data name="ViewSite.Text">
-    <value xml:space="preserve">Ver sitio</value>
+    <value xml:space="preserve">Ver site</value>
   </data>
 </root>

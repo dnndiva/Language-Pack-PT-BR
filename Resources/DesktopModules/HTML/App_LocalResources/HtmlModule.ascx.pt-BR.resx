@@ -13,64 +13,64 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddContent.Action">
-    <value xml:space="preserve">Editar texto</value>
+    <value xml:space="preserve">Editar conteúdo</value>
   </data>
   <data name="AddContent.Text">
-    <value xml:space="preserve">Pulse aquí para introducir su conteúdo</value>
+    <value xml:space="preserve">Pulse aqui para introduzir sua conteúdo</value>
   </data>
   <data name="AddContentFromActionMenu.Text">
-    <value xml:space="preserve">Tem que estar em modo edição para entrar conteúdo. Luego pode utilizar o menú de accions do módulo para gestionar o conteúdo.</value>
+    <value xml:space="preserve">Tem que estar em modo edição para entrar conteúdo. Luego pode utilizar o menu de ações do módulo para gestionar o conteúdo.</value>
   </data>
   <data name="AddContentFromToolBar.Text">
-    <value xml:space="preserve">Selecione "Editar conteúdo" não menú de ação Editar (icone de lápiz).</value>
+    <value xml:space="preserve">Selecione "Editar conteúdo" no menu de ação (ícone de lápis).</value>
   </data>
   <data name="Bold.ToolTip">
-    <value xml:space="preserve">Negrita</value>
+    <value xml:space="preserve">Negrito</value>
   </data>
   <data name="Cancel.ToolTip">
     <value xml:space="preserve">Cancelar</value>
   </data>
   <data name="CreateLink.ToolTip">
-    <value xml:space="preserve">criar enlace</value>
+    <value xml:space="preserve">Criar link</value>
   </data>
   <data name="Edit.ToolTip">
     <value xml:space="preserve">Editar</value>
   </data>
   <data name="Indent.ToolTip">
-    <value xml:space="preserve">Sangría</value>
+    <value xml:space="preserve">Indentar</value>
   </data>
   <data name="Italic.ToolTip">
-    <value xml:space="preserve">Cursiva</value>
+    <value xml:space="preserve">Itálico</value>
   </data>
   <data name="JustifyCenter.ToolTip">
-    <value xml:space="preserve">Justificado ao centro</value>
+    <value xml:space="preserve">Centralizar</value>
   </data>
   <data name="JustifyLeft.ToolTip">
-    <value xml:space="preserve">Justificado a izquierda</value>
+    <value xml:space="preserve">Alinhar à esquerda</value>
   </data>
   <data name="JustifyRight.ToolTip">
-    <value xml:space="preserve">Justificado a derecha</value>
+    <value xml:space="preserve">Alinhar à direita</value>
   </data>
   <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;p&gt;O módulo Text/HTML hace texto plano, texto enriquecido e HTML. Están disponívels 5 vistas diferentes de edição: &lt;/p&gt;
+    <value xml:space="preserve">&lt;p&gt;O módulo Text/HTML hace texto plano, texto enriquecido e HTML. Están disponíveis 5 vistas diferentes de edição: &lt;/p&gt;
 &lt;OL&gt;
-&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / Texto&lt;/STRONG&gt;: Interpretação de texto básico e etiquetas HTML. O texto introducido em uma nova linea é maquetado como um salto de linea. O estilo de texto é Normal como foi establecido em su hoja de estilo. 
-&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / HTML&lt;/STRONG&gt;: Muestra o texto básico em formato HTML.
-&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / Raw&lt;/STRONG&gt;: Muestra o texto básico em formato HTML. O texto introducido em uma nova linea não é interpretado como salto de linea.
+&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / Texto&lt;/STRONG&gt;: Interpretação de texto básico e etiquetas HTML. O texto introduzido em uma nova linea é maquetado como um salto de linea. O estilo de texto é Normal como foi establecido em sua hoja de estilo. 
+&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / HTML&lt;/STRONG&gt;: Mostra o texto básico em formato HTML.
+&lt;li&gt;&lt;STRONG&gt;Caja de Texto Básico / Raw&lt;/STRONG&gt;: Mostra o texto básico em formato HTML. O texto introduzido em uma nova linea não é interpretado como salto de linea.
 &lt;li&gt;&lt;STRONG&gt;Editor de Texto Enriquecido / HTML&lt;/STRONG&gt;: Permite pegar HTML desde outras fuentes.
-&lt;li&gt;&lt;STRONG&gt;Editor de Texto Enriquecido / Diseño&lt;/STRONG&gt;: Um procesador de texto o editor WYSIWYG (What You See is What You Get) com funcionalidades como hiperenlaces, enlaces de email, Administrador de Arquivos, galería de imágenes, puntos de interrupção, corretor ortográfico, e mucho más.</value>
+&lt;li&gt;&lt;STRONG&gt;Editor de Texto Enriquecido / Diseño&lt;/STRONG&gt;: Um procesador de texto o editor WYSIWYG (What You See is What You Get) com funcionalidades como hiperinterfaces, interfaces de email, Administrador de arquivos, galería de imágenes, pontos de interrupção, corretor ortográfico, e mucho mais.</value>
   </data>
   <data name="MyWork.Action">
-    <value xml:space="preserve">Mi trabalho</value>
+    <value xml:space="preserve">Meu trabalho</value>
   </data>
   <data name="OrderedList.ToolTip">
     <value xml:space="preserve">Lista ordenada</value>
   </data>
   <data name="Outdent.ToolTip">
-    <value xml:space="preserve">Anular sangría</value>
+    <value xml:space="preserve">Remover indentação</value>
   </data>
   <data name="Save.ToolTip">
-    <value xml:space="preserve">Guardar</value>
+    <value xml:space="preserve">Salvar</value>
   </data>
   <data name="Underline.ToolTip">
     <value xml:space="preserve">Subrayar</value>

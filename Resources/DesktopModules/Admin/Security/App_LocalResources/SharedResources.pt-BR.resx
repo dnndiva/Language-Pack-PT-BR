@@ -13,13 +13,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="City.Help">
-    <value xml:space="preserve">Introduzca a poblação</value>
+    <value xml:space="preserve">Introduza a poblação</value>
   </data>
   <data name="City.Text">
     <value xml:space="preserve">Poblação</value>
   </data>
   <data name="DisplayName.Help">
-    <value xml:space="preserve">Introduzca o nome de visualização</value>
+    <value xml:space="preserve">Introduza o nome de visualização</value>
   </data>
   <data name="DisplayName.RegExError">
     <value xml:space="preserve">O nome não é válido</value>
@@ -31,10 +31,10 @@
     <value xml:space="preserve">Nome para mostrar:</value>
   </data>
   <data name="Email.Help">
-    <value xml:space="preserve">Introduzca um email válido</value>
+    <value xml:space="preserve">Introduza um email válido</value>
   </data>
   <data name="Email.RegExError">
-    <value xml:space="preserve">Tem que proporcionar um email válido</value>
+    <value xml:space="preserve">Tem que fornecer um email válido</value>
   </data>
   <data name="Email.Required">
     <value xml:space="preserve">O email é obrigatório</value>
@@ -43,7 +43,7 @@
     <value xml:space="preserve">EMail</value>
   </data>
   <data name="FirstName.Help">
-    <value xml:space="preserve">Introduzca o nome</value>
+    <value xml:space="preserve">Introduza o nome</value>
   </data>
   <data name="FirstName.RegExError">
     <value xml:space="preserve">O nome não é válido</value>
@@ -55,85 +55,85 @@
     <value xml:space="preserve">Nome</value>
   </data>
   <data name="InvalidAnswer.Text">
-    <value xml:space="preserve">Respuesta inválida</value>
+    <value xml:space="preserve">Resposta inválida</value>
   </data>
   <data name="InvalidAnswer_Detail.Text">
-    <value xml:space="preserve">A respuesta proporcionada não é válida</value>
+    <value xml:space="preserve">A resposta fornecidada não é válida</value>
   </data>
   <data name="InvalidPassword.Text">
-    <value xml:space="preserve">Contrasenha inválida</value>
+    <value xml:space="preserve">Senha inválida</value>
   </data>
   <data name="InvalidPassword_Detail.Text">
-    <value xml:space="preserve">A contrasenha não cumple os requisitos mínimos de complejidade requeridos pelo sitio</value>
+    <value xml:space="preserve">A senha não cumple os requisitos mínimos de complejidade requeridos pelo site</value>
   </data>
   <data name="InvalidQuestion.Text">
-    <value xml:space="preserve">Pregunta inválida</value>
+    <value xml:space="preserve">Pergunta inválida</value>
   </data>
   <data name="InvalidQuestion_Detail.Text">
-    <value xml:space="preserve">A pregunta proporcionada não é válida</value>
+    <value xml:space="preserve">A pergunta fornecidada não é válida</value>
   </data>
   <data name="LastName.Help">
-    <value xml:space="preserve">Introduzca os apellidos</value>
+    <value xml:space="preserve">Introduza os apellidos</value>
   </data>
   <data name="LastName.RegExError">
-    <value xml:space="preserve">Os apellidos não son válidos</value>
+    <value xml:space="preserve">Os apellidos não são válidos</value>
   </data>
   <data name="LastName.Required">
-    <value xml:space="preserve">Os apellidos son obrigatórios</value>
+    <value xml:space="preserve">Os apellidos são obrigatórios</value>
   </data>
   <data name="LastName.Text">
     <value xml:space="preserve">Apellidos</value>
   </data>
   <data name="Password.Help">
-    <value xml:space="preserve">Introduzca su contrasenha</value>
+    <value xml:space="preserve">Introduza sua senha</value>
   </data>
   <data name="Password.Required">
-    <value xml:space="preserve">A contrasenha é obrigatória</value>
+    <value xml:space="preserve">A senha é obrigatória</value>
   </data>
   <data name="PasswordAnswer.Help">
-    <value xml:space="preserve">Tem que proporcionar a respuesta a pregunta de seguridade</value>
+    <value xml:space="preserve">Tem que fornecer a resposta a pergunta de segurança</value>
   </data>
   <data name="PasswordAnswer.Text">
-    <value xml:space="preserve">Respuesta de seguridade:</value>
+    <value xml:space="preserve">Resposta de segurança:</value>
   </data>
   <data name="PasswordConfirm.Help">
-    <value xml:space="preserve">Vuelva a introducir a contrasenha para confirmar que a foi entrado corretamente.</value>
+    <value xml:space="preserve">Vuelva a introduzir a senha para confirmar que a foi entrado corretamente.</value>
   </data>
   <data name="PasswordConfirm.Required">
-    <value xml:space="preserve">Tem que proporcionar a confirmação da contrasenha</value>
+    <value xml:space="preserve">Tem que fornecer a confirmação da senha</value>
   </data>
   <data name="PasswordConfirm.Text">
-    <value xml:space="preserve">Confirmação de contrasenha:</value>
+    <value xml:space="preserve">Confirmação de senha:</value>
   </data>
   <data name="PasswordMismatch.Text">
-    <value xml:space="preserve">A contrasenha não coincide</value>
+    <value xml:space="preserve">As senhas não conferem</value>
   </data>
   <data name="PasswordMismatch_Detail.Text">
-    <value xml:space="preserve">A contrasenha e a confirmação não coincidem.</value>
+    <value xml:space="preserve">A senha e a confirmação não coincidem.</value>
   </data>
   <data name="PasswordQuestion.Help">
-    <value xml:space="preserve">Introduzca a pregunta de seguridade para utilizar quando quiera recuperar a contrasenha</value>
+    <value xml:space="preserve">Introduza a pergunta de segurança para utilizar quando quiera recuperar a senha</value>
   </data>
   <data name="PasswordQuestion.Text">
-    <value xml:space="preserve">Pregunta de seguridade:</value>
+    <value xml:space="preserve">Pergunta de segurança:</value>
   </data>
   <data name="PasswordReset.Text">
-    <value xml:space="preserve">A contrasenha foi reiniciado.</value>
+    <value xml:space="preserve">A senha foi reiniciado.</value>
   </data>
   <data name="Username.Help" lastModified="2018-03-25 06:44:31">
-    <value xml:space="preserve">Introduzca o código do usuário. Tem que ter como mínimo cinco caracteres alfanuméricos, não pode empezar o acabar com espaços e não pode contener nenhum dos seguinte caracteres !"#$%&amp;'()*+,/:;&lt;=&gt;?@[\]^`{|}</value>
+    <value xml:space="preserve">Introduza o código do usuário. Tem que ter como mínimo cinco caracteres alfanuméricos, não pode empezar o acabar com espaços e não pode contener nenhum dos seguinte caracteres !"#$%&amp;'()*+,/:;&lt;=&gt;?@[\]^`{|}</value>
   </data>
   <data name="Username.RegExError">
-    <value xml:space="preserve">O código do usuário introducido não é válido.</value>
+    <value xml:space="preserve">O código do usuário introduzido não é válido.</value>
   </data>
   <data name="Username.Required">
     <value xml:space="preserve">O código do usuário é obrigatório</value>
   </data>
   <data name="Username.Text">
-    <value xml:space="preserve">Usuario</value>
+    <value xml:space="preserve">Usuário</value>
   </data>
   <data name="VanityUrl.Help">
-    <value xml:space="preserve">Pode proporcionar uma URL personalizada para acceder a su perfil.</value>
+    <value xml:space="preserve">Pode fornecer uma URL personalizada para acceder a seu perfil.</value>
   </data>
   <data name="VanityUrl.Text">
     <value xml:space="preserve">URL perfil:</value>
