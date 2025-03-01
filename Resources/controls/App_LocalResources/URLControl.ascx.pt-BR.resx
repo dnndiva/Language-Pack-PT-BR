@@ -49,7 +49,7 @@
     <value xml:space="preserve">Não tem permissões para ver os arquivos do portal</value>
   </data>
   <data name="NoUser.Text">
-    <value xml:space="preserve">O nome do usuário não coincide com nenhum usuário deste website.</value>
+    <value xml:space="preserve">O nome do usuário não coincide com nenhum usuário deste site web.</value>
   </data>
   <data name="NoWritePermission.Text">
     <value xml:space="preserve">Não tem permissões para subir arquivos neste site</value>

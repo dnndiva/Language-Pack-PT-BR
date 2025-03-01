@@ -13,10 +13,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddContent.Action">
-    <value xml:space="preserve">Adicionar novo papel</value>
+    <value xml:space="preserve">Adicionar novo cargo</value>
   </data>
   <data name="AddGroup.Action">
-    <value xml:space="preserve">Adicionar novo grupo de papéis</value>
+    <value xml:space="preserve">Adicionar novo grupo de cargos</value>
   </data>
   <data name="Auto.Header">
     <value xml:space="preserve">Automático</value>
@@ -34,7 +34,7 @@
     <value xml:space="preserve">Tarifa</value>
   </data>
   <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;h1&gt;Acerca de papéis de segurança&lt;/h1&gt;&lt;p&gt;Os Administradores podem gestionar os distintos papéis disponíveis no portal web.  O módulo provee a funcionalidade para adicionar papéis de segurança, modificar e deletar papéis existentes, así como asignar usuários a éstos.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;h1&gt;Acerca de cargos de segurança&lt;/h1&gt;&lt;p&gt;Os Administradores podem gestionar os distintos cargos disponíveis no portal web.  O módulo provee a funcionalidade para adicionar cargos de segurança, modificar e deletar cargos existentes, así como asignar usuários a éstos.&lt;/p&gt;</value>
   </data>
   <data name="Name.Header">
     <value xml:space="preserve">Nome</value>
@@ -43,10 +43,10 @@
     <value xml:space="preserve">Período</value>
   </data>
   <data name="plRoleGroups.Help">
-    <value xml:space="preserve">Selecione o grupo de papéis que quer ver</value>
+    <value xml:space="preserve">Selecione o grupo de cargos que quer ver</value>
   </data>
   <data name="plRoleGroups.Text">
-    <value xml:space="preserve">Filtrar por grupo de papéis:</value>
+    <value xml:space="preserve">Filtrar por grupo de cargos:</value>
   </data>
   <data name="Public.Header">
     <value xml:space="preserve">Público</value>

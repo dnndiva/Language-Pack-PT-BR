@@ -46,13 +46,13 @@
     <value xml:space="preserve">Pode limitar os resultados de busca em função dos portais web</value>
   </data>
   <data name="plResultsScopeForPortals.Text">
-    <value xml:space="preserve">Limitar ámbito según website</value>
+    <value xml:space="preserve">Limitar ámbito según site web</value>
   </data>
   <data name="plResultsScopeForRoles.Help" lastModified="2024-07-09 10:12:24">
-    <value xml:space="preserve">Pode limitar os resultados de busca em função dos papéis.</value>
+    <value xml:space="preserve">Pode limitar os resultados de busca em função dos cargos.</value>
   </data>
   <data name="plResultsScopeForRoles.Text" lastModified="2024-07-09 10:12:24">
-    <value xml:space="preserve">Limitar ámbito según papéis</value>
+    <value xml:space="preserve">Limitar ámbito según cargos</value>
   </data>
   <data name="plShowDescription.Help" lastModified="2024-07-26 10:26:10">
     <value xml:space="preserve">Descrição breve</value>
@@ -97,6 +97,6 @@
     <value xml:space="preserve">Abrir interfaces</value>
   </data>
   <data name="portalsRequired.Text">
-    <value xml:space="preserve">Tem que selecionar ao menos um website</value>
+    <value xml:space="preserve">Tem que selecionar ao menos um site web</value>
   </data>
 </root>

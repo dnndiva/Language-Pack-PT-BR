@@ -58,7 +58,7 @@
     <value xml:space="preserve">Propietario:</value>
   </data>
   <data name="plTemplate.Help">
-    <value xml:space="preserve">Selecione o template de desarrollo deseada. As templates para criação de módulos se encontran em a pasta /DesktopModules/Admin/ModuleCreator/Templates.</value>
+    <value xml:space="preserve">Selecione o template de desarrollo deseada. As planilhas para criação de módulos se encontran em a pasta /DesktopModules/Admin/ModuleCreator/Templates.</value>
   </data>
   <data name="plTemplate.Text">
     <value xml:space="preserve">template:</value>

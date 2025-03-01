@@ -16,7 +16,7 @@
     <value xml:space="preserve">Ação</value>
   </data>
   <data name="ActionNotPerformed.Text">
-    <value xml:space="preserve">foi producido um error ao realizar a ação. Inténtelo más tarde.</value>
+    <value xml:space="preserve">foi produzido um erro ao realizar a ação. Inténtelo mais tarde.</value>
   </data>
   <data name="ActionPerformed.Text">
     <value xml:space="preserve">A ação foi realizado corretamente.</value>
@@ -25,13 +25,13 @@
     <value xml:space="preserve">Acções</value>
   </data>
   <data name="Activity.Text">
-    <value xml:space="preserve">Actividade</value>
+    <value xml:space="preserve">Atividade</value>
   </data>
   <data name="All.Text">
     <value xml:space="preserve">Todos</value>
   </data>
   <data name="ApplyActionToMessages.Text">
-    <value xml:space="preserve">Selecione a ação que quiere realizar</value>
+    <value xml:space="preserve">Selecione a ação que quiser realizar</value>
   </data>
   <data name="Archived.Text">
     <value xml:space="preserve">Archivados</value>
@@ -61,13 +61,13 @@
     <value xml:space="preserve">Adjunto(s)</value>
   </data>
   <data name="AutoSuggestError.Text">
-    <value xml:space="preserve">foi producido um error ao obtener a sugerencias:</value>
+    <value xml:space="preserve">foi produzido um erro ao obter a sugerencias:</value>
   </data>
   <data name="BackToMessages.Text">
     <value xml:space="preserve">Volver a os mensagens</value>
   </data>
   <data name="Browse.Text">
-    <value xml:space="preserve">Explorar sitio</value>
+    <value xml:space="preserve">Explorar site</value>
   </data>
   <data name="Cancel.Text">
     <value xml:space="preserve">Cancelar</value>
@@ -76,7 +76,7 @@
     <value xml:space="preserve">Novo mensagem</value>
   </data>
   <data name="ContentNotAvailable.Text">
-    <value xml:space="preserve">O conteúdo deste módulo não é visível para os usuarios não autenticados. Identifíquese para acceder ao conteúdo.</value>
+    <value xml:space="preserve">O conteúdo deste módulo não é visível para os usuários não autenticados. Identifíquese para acceder ao conteúdo.</value>
   </data>
   <data name="ConversationArchived.Text">
     <value xml:space="preserve">A conversação foi archivado.</value>
@@ -94,10 +94,10 @@
     <value xml:space="preserve">A conversação foi archivado.</value>
   </data>
   <data name="CreateMessageError.Text">
-    <value xml:space="preserve">foi producido um error ao criar a mensagem. Inténtelo más tarde.</value>
+    <value xml:space="preserve">foi produzido um erro ao criar a mensagem. Inténtelo mais tarde.</value>
   </data>
   <data name="CreateMessageErrorWithDescription.Text">
-    <value xml:space="preserve">foi producido um error ao criar a mensagem:</value>
+    <value xml:space="preserve">foi produzido um erro ao criar a mensagem:</value>
   </data>
   <data name="DismissAllConfirm.Text">
     <value xml:space="preserve">Está seguro que quer descartar todas as notificações de {0}?</value>
@@ -106,10 +106,10 @@
     <value xml:space="preserve">Descartar todas as notificações</value>
   </data>
   <data name="DismissThis.Text">
-    <value xml:space="preserve">Cerrar</value>
+    <value xml:space="preserve">Fechar</value>
   </data>
   <data name="DNNCorp_Answers_Question.Text">
-    <value xml:space="preserve">Suscripções de respuestas</value>
+    <value xml:space="preserve">Suscripções de respostas</value>
   </data>
   <data name="DNNCorp_Blogs.Text">
     <value xml:space="preserve">Suscripções de blogs</value>
@@ -121,7 +121,7 @@
     <value xml:space="preserve">Suscripções de conversações</value>
   </data>
   <data name="DNNCorp_File.Text">
-    <value xml:space="preserve">Suscripções de Arquivos</value>
+    <value xml:space="preserve">Suscripções de arquivos</value>
   </data>
   <data name="DNNCorp_Folder.Text">
     <value xml:space="preserve">Suscripções de pastas</value>
@@ -145,7 +145,7 @@
     <value xml:space="preserve">Programação de envío de Email</value>
   </data>
   <data name="FileSize.Header">
-    <value xml:space="preserve">Tamaño Arquivo:</value>
+    <value xml:space="preserve">Tamanho arquivo:</value>
   </data>
   <data name="Filter.Text">
     <value xml:space="preserve">Filtro</value>
@@ -178,19 +178,19 @@
     <value xml:space="preserve">Última modificação</value>
   </data>
   <data name="lblMessageFreq.Help">
-    <value xml:space="preserve">Mostra a periodicidade dos emails que recibirá indicándole que tem mensagens novos não portal.</value>
+    <value xml:space="preserve">Mostra a periodicidade dos emails que recibirá indicándole que tem mensagens novos no portal.</value>
   </data>
   <data name="lblMessageFreq.Text">
     <value xml:space="preserve">Frecuencia de mensagens:</value>
   </data>
   <data name="lblNotificationFreq.Help">
-    <value xml:space="preserve">Mostra a periodicidade dos emails que recibirá indicándole que tem notificações novas não portal.</value>
+    <value xml:space="preserve">Mostra a periodicidade dos emails que recibirá indicándole que tem notificações novas no portal.</value>
   </data>
   <data name="lblNotificationFreq.Text">
     <value xml:space="preserve">Frecuencia de notificações:</value>
   </data>
   <data name="lblSubscriptions.Help">
-    <value xml:space="preserve">Visualização e gestión dos elementos a os que está suscrito.</value>
+    <value xml:space="preserve">Visualização e gestão dos itens a os que está suscrito.</value>
   </data>
   <data name="lblSubscriptions.Text">
     <value xml:space="preserve">Suscripções:</value>
@@ -202,10 +202,10 @@
     <value xml:space="preserve">Cargando conteúdo...</value>
   </data>
   <data name="LoadMore.Text">
-    <value xml:space="preserve">Cargar más</value>
+    <value xml:space="preserve">Enviar mais</value>
   </data>
   <data name="ManageSubscriptions.Text">
-    <value xml:space="preserve">Gestión de suscripções</value>
+    <value xml:space="preserve">Gestão de suscripções</value>
   </data>
   <data name="MarkArchive.Text">
     <value xml:space="preserve">Archivar</value>
@@ -220,7 +220,7 @@
     <value xml:space="preserve">Marcar como não leído</value>
   </data>
   <data name="Message.Text">
-    <value xml:space="preserve">Su mensagem</value>
+    <value xml:space="preserve">Sua mensagem</value>
   </data>
   <data name="Messages.Text">
     <value xml:space="preserve">Mensagens</value>
@@ -259,25 +259,25 @@
     <value xml:space="preserve"> de </value>
   </data>
   <data name="PermissionsNotProperlySet.Text">
-    <value xml:space="preserve">As permissões do módulo não están corretamente configurados. O módulo não devería ser visível para os usuarios não autenticados.</value>
+    <value xml:space="preserve">As permissões do módulo não están corretamente configurados. O módulo não devería ser visível para os usuários não autenticados.</value>
   </data>
   <data name="PrefSaved.Text">
-    <value xml:space="preserve">Sus preferências foin actualizado</value>
+    <value xml:space="preserve">Seus preferências foi atualizado</value>
   </data>
   <data name="Read.Text">
     <value xml:space="preserve">Leídos</value>
   </data>
   <data name="ReadStatusToggle.Text">
-    <value xml:space="preserve">Marcar como leído o não leído</value>
+    <value xml:space="preserve">Marcar como leído ou não leído</value>
   </data>
   <data name="Remove.Text">
-    <value xml:space="preserve">Eliminar adjunto</value>
+    <value xml:space="preserve">Deletar adjunto</value>
   </data>
   <data name="Reply.Text">
     <value xml:space="preserve">Responder</value>
   </data>
   <data name="ReplyHasNoRecipients.Text">
-    <value xml:space="preserve">Este mensagem foi dejado de ter um remitente válido e foin desactivado as respuestas.</value>
+    <value xml:space="preserve">Este mensagem foi dejado de ter um remitente válido e foi desactivado as respostas.</value>
   </data>
   <data name="SearchFilter.Text">
     <value xml:space="preserve">Filtro de busca</value>
@@ -304,19 +304,19 @@
     <value xml:space="preserve">Enviar a</value>
   </data>
   <data name="ServerError.Text">
-    <value xml:space="preserve">foi producido um error ao procesar a petição. Inténtelo más tarde.</value>
+    <value xml:space="preserve">foi produzido um erro ao procesar a petição. Inténtelo mais tarde.</value>
   </data>
   <data name="ServerErrorWithDescription.Text">
-    <value xml:space="preserve">foi producido um error ao procesar a petição: </value>
+    <value xml:space="preserve">foi produzido um erro ao procesar a petição: </value>
   </data>
   <data name="ShowPreviousReplies.Text">
-    <value xml:space="preserve">Mostrar respuestas anteriores</value>
+    <value xml:space="preserve">Mostrar respostas anteriores</value>
   </data>
   <data name="Subject.Text">
     <value xml:space="preserve">Assunto</value>
   </data>
   <data name="SubscribedDescription.Text">
-    <value xml:space="preserve">Elemento</value>
+    <value xml:space="preserve">Item</value>
   </data>
   <data name="Subscriptions.Text">
     <value xml:space="preserve">Suscripções</value>
@@ -349,9 +349,9 @@
     <value xml:space="preserve">A suscripção foi cancelado</value>
   </data>
   <data name="Upload.Text">
-    <value xml:space="preserve">Cargar desde ordenador</value>
+    <value xml:space="preserve">Enviar desde ordenador</value>
   </data>
   <data name="UserFileManagerTitle.Text">
-    <value xml:space="preserve">Explorar Arquivos</value>
+    <value xml:space="preserve">Explorar arquivos</value>
   </data>
 </root>

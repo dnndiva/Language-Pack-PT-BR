@@ -25,7 +25,7 @@
     <value xml:space="preserve">Miembros</value>
   </data>
   <data name="DeleteItem.Text">
-    <value xml:space="preserve">Está seguro que quer eliminar este elemento?</value>
+    <value xml:space="preserve">Está seguro que quer deletar este item?</value>
   </data>
   <data name="EditModule.Text">
     <value xml:space="preserve">Editar o módulo</value>
@@ -34,13 +34,13 @@
     <value xml:space="preserve">Todos</value>
   </data>
   <data name="FileSize.Header">
-    <value xml:space="preserve">Tamaño Arquivo:</value>
+    <value xml:space="preserve">Tamanho arquivo:</value>
   </data>
   <data name="Friends.Text">
     <value xml:space="preserve">Amigos</value>
   </data>
   <data name="GetMore.Text">
-    <value xml:space="preserve">Obtener más</value>
+    <value xml:space="preserve">Obter mais</value>
   </data>
   <data name="GroupMembers.Text" lastModified="2016-03-17 07:43:17">
     <value xml:space="preserve">Miembros do grupo</value>
@@ -58,13 +58,13 @@
     <value xml:space="preserve">Privado</value>
   </data>
   <data name="SelectFile.Text">
-    <value xml:space="preserve">Selecione o arquivo que quiere compartilhar:</value>
+    <value xml:space="preserve">Selecione o arquivo que quiser compartilhar:</value>
   </data>
   <data name="SelectPhoto.Text">
-    <value xml:space="preserve">Selecione a foto que quiere compartilhar:</value>
+    <value xml:space="preserve">Selecione a foto que quiser compartilhar:</value>
   </data>
   <data name="ServerError.Text">
-    <value xml:space="preserve">Error inesperado. Este error suele ocurrir quando o arquivo é demasiado grande.</value>
+    <value xml:space="preserve">Erro inesperado. Este erro suele ocurrir quando o arquivo é muito grande.</value>
   </data>
   <data name="Share.Text">
     <value xml:space="preserve">Compartilhar</value>
@@ -79,7 +79,7 @@
     <value xml:space="preserve">Tipo</value>
   </data>
   <data name="UploadFromLocal.Text">
-    <value xml:space="preserve">Cargar desde mi ordenador</value>
+    <value xml:space="preserve">Enviar desde mi ordenador</value>
   </data>
   <data name="WhoWillSee.Text">
     <value xml:space="preserve">Quién pode ver a mensagem?</value>

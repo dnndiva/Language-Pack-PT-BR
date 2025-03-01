@@ -12,79 +12,79 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Add.Button" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Añadir</value>
+  <data name="Add.Button" lastModified="2024-07-09 09:24:57">
+    <value xml:space="preserve">adicionar</value>
   </data>
-  <data name="AuthenticationDomain.Help" lastModified="2020-05-09 09:24:57">
+  <data name="AuthenticationDomain.Help" lastModified="2024-07-09 09:24:57">
     <value xml:space="preserve">Normalmente não é necessário.</value>
   </data>
-  <data name="AuthenticationDomain.Label" lastModified="2020-05-09 09:24:57">
+  <data name="AuthenticationDomain.Label" lastModified="2024-07-09 09:24:57">
     <value xml:space="preserve">Dominio de autenticação:</value>
   </data>
-  <data name="Cancel.Button" lastModified="2020-05-09 09:24:57">
+  <data name="Cancel.Button" lastModified="2024-07-09 09:24:57">
     <value xml:space="preserve">Cancelar</value>
   </data>
-  <data name="ChooseASite.Label" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Selecione um sitio</value>
+  <data name="ChooseASite.Label" lastModified="2024-07-09 09:24:57">
+    <value xml:space="preserve">Selecione um site</value>
   </data>
-  <data name="Delete.Button" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Eliminar</value>
+  <data name="Delete.Button" lastModified="2024-07-09 09:24:57">
+    <value xml:space="preserve">Deletar</value>
   </data>
-  <data name="DeleteGroup.Confirm" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Está seguro que quer eliminar este grupo?</value>
+  <data name="DeleteGroup.Confirm" lastModified="2024-07-09 09:24:57">
+    <value xml:space="preserve">Está seguro que quer deletar este grupo?</value>
   </data>
-  <data name="Description.Help" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Introduzca uma descripção para o grupo.</value>
+  <data name="Description.Help" lastModified="2024-07-09 09:24:57">
+    <value xml:space="preserve">Introduza uma descrição para o grupo.</value>
   </data>
-  <data name="Description.Label" lastModified="2020-05-09 09:24:57">
-    <value xml:space="preserve">Descripção:</value>
+  <data name="Description.Label" lastModified="2024-07-09 09:24:57">
+    <value xml:space="preserve">Descrição:</value>
   </data>
-  <data name="Edit.Button" lastModified="2020-05-09 09:24:57">
+  <data name="Edit.Button" lastModified="2024-07-09 09:24:57">
     <value xml:space="preserve">Editar</value>
   </data>
-  <data name="EditModule_Assigned.Label" lastModified="2020-05-09 09:24:57">
+  <data name="EditModule_Assigned.Label" lastModified="2024-07-09 09:24:57">
     <value xml:space="preserve">Asignado</value>
   </data>
-  <data name="EditModule_Unassigned.Label" lastModified="2020-05-09 09:24:57">
+  <data name="EditModule_Unassigned.Label" lastModified="2024-07-09 09:24:57">
     <value xml:space="preserve">Não asignado</value>
   </data>
-  <data name="GroupName.Header" lastModified="2020-05-09 09:24:57">
+  <data name="GroupName.Header" lastModified="2024-07-09 09:24:57">
     <value xml:space="preserve">Nome do grupo</value>
   </data>
-  <data name="GroupName.Help" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">O nome ayuda a identificar o grupo de portais.</value>
+  <data name="GroupName.Help" lastModified="2024-07-09 11:26:38">
+    <value xml:space="preserve">O nome ajuda a identificar o grupo de portais.</value>
   </data>
-  <data name="GroupName.Label" lastModified="2020-05-09 11:26:38">
+  <data name="GroupName.Label" lastModified="2024-07-09 11:26:38">
     <value xml:space="preserve">Nome do grupo:</value>
   </data>
-  <data name="GroupName.Required" lastModified="2020-05-09 11:26:38">
+  <data name="GroupName.Required" lastModified="2024-07-09 11:26:38">
     <value xml:space="preserve">O nome do grupo é obrigatório.</value>
   </data>
-  <data name="MasterSite.Header" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">Sitio principal</value>
+  <data name="MasterSite.Header" lastModified="2024-07-09 11:26:38">
+    <value xml:space="preserve">Site principal</value>
   </data>
-  <data name="MasterSite.Help" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">Sitio principal</value>
+  <data name="MasterSite.Help" lastModified="2024-07-09 11:26:38">
+    <value xml:space="preserve">Site principal</value>
   </data>
-  <data name="MasterSite.Label" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">Sitio principal:</value>
+  <data name="MasterSite.Label" lastModified="2024-07-09 11:26:38">
+    <value xml:space="preserve">Site principal:</value>
   </data>
-  <data name="nav_SiteGroups.Text" lastModified="2020-05-09 11:26:38">
+  <data name="nav_SiteGroups.Text" lastModified="2024-07-09 11:26:38">
     <value xml:space="preserve">Grupos de portais</value>
   </data>
-  <data name="NewSiteGroup.Button" lastModified="2020-05-09 11:26:38">
+  <data name="NewSiteGroup.Button" lastModified="2024-07-09 11:26:38">
     <value xml:space="preserve">Novo grupo de portais</value>
   </data>
-  <data name="NoData.Text" lastModified="2020-05-09 11:26:38">
+  <data name="NoData.Text" lastModified="2024-07-09 11:26:38">
     <value xml:space="preserve">Não foi definido nenhum grupo todavía.</value>
   </data>
-  <data name="Save.Button" lastModified="2020-05-09 11:26:38">
-    <value xml:space="preserve">Guardar</value>
+  <data name="Save.Button" lastModified="2024-07-09 11:26:38">
+    <value xml:space="preserve">Salvar</value>
   </data>
-  <data name="SiteGroup.Label" lastModified="2020-05-09 11:26:38">
+  <data name="SiteGroup.Label" lastModified="2024-07-09 11:26:38">
     <value xml:space="preserve">Grupo de portais:</value>
   </data>
-  <data name="Sites.Label" lastModified="2020-05-09 11:26:38">
+  <data name="Sites.Label" lastModified="2024-07-09 11:26:38">
     <value xml:space="preserve">Portais:</value>
   </data>
 </root>

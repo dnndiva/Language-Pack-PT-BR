@@ -13,25 +13,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddRole.Text">
-    <value xml:space="preserve">Adicionar papel ao usuário</value>
+    <value xml:space="preserve">Adicionar cargo ao usuário</value>
   </data>
   <data name="AddUser.Text">
-    <value xml:space="preserve">Adicionar usuário ao papel</value>
+    <value xml:space="preserve">Adicionar usuário ao cargo</value>
   </data>
   <data name="cmdAdd.Text">
-    <value xml:space="preserve">Adicionar papel</value>
+    <value xml:space="preserve">Adicionar cargo</value>
   </data>
   <data name="cmdValidate.Text">
     <value xml:space="preserve">Validar</value>
   </data>
-  <data name="ControlTitle_user papéis.Text">
+  <data name="ControlTitle_user cargos.Text">
     <value xml:space="preserve">Roles do usuário</value>
   </data>
   <data name="DeleteRoleFromUser.Text">
-    <value xml:space="preserve">Está seguro que quiser deletar o papel '{1}' de '{0}'?</value>
+    <value xml:space="preserve">Está seguro que quiser deletar o cargo '{1}' de '{0}'?</value>
   </data>
   <data name="DeleteUsersFromRole.Text">
-    <value xml:space="preserve">Está seguro que quer deletar '{0}' do papel '{1}'?</value>
+    <value xml:space="preserve">Está seguro que quer deletar '{0}' do cargo '{1}'?</value>
   </data>
   <data name="EffectiveDate.Header">
     <value xml:space="preserve">Data efectiva</value>
@@ -49,13 +49,13 @@
     <value xml:space="preserve">É propietario</value>
   </data>
   <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;h1&gt;Acerca de papéis do usuário&lt;/h1&gt;&lt;p&gt;Os Administradores podem definir os papéis de segurança que estarão disponíveis no portal web. Neste módulo podem asignar o usuário a os papéis de segurança disponíveis.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;h1&gt;Acerca de cargos do usuário&lt;/h1&gt;&lt;p&gt;Os Administradores podem definir os cargos de segurança que estarão disponíveis no portal web. Neste módulo podem asignar o usuário a os cargos de segurança disponíveis.&lt;/p&gt;</value>
   </data>
   <data name="NotAuthorized.Text">
-    <value xml:space="preserve">Não está autorizado para editar este papel.</value>
+    <value xml:space="preserve">Não está autorizado para editar este cargo.</value>
   </data>
   <data name="plEffectiveDate.Help">
-    <value xml:space="preserve">Especifique a data na que o papel asignado deve começar (opcional). Se não mostra um valor o papel tomará efecto inmediatamente.</value>
+    <value xml:space="preserve">Especifique a data na que o cargo asignado deve começar (opcional). Se não mostra um valor o cargo tomará efecto inmediatamente.</value>
   </data>
   <data name="plEffectiveDate.Text">
     <value xml:space="preserve">Data efectiva</value>
@@ -67,10 +67,10 @@
     <value xml:space="preserve">Data de expiração</value>
   </data>
   <data name="plRoles.Help">
-    <value xml:space="preserve">Selecione o papel de segurança</value>
+    <value xml:space="preserve">Selecione o cargo de segurança</value>
   </data>
   <data name="plRoles.Text">
-    <value xml:space="preserve">Papel de segurança</value>
+    <value xml:space="preserve">Cargo de segurança</value>
   </data>
   <data name="plUsers.Help">
     <value xml:space="preserve">Selecione o nome do usuário</value>
@@ -79,25 +79,25 @@
     <value xml:space="preserve">Nome do usuário</value>
   </data>
   <data name="RoleRemoveError.Text">
-    <value xml:space="preserve">não é possível quitar o papel de Administrador do portal ni o papel de Usuários registrados.</value>
+    <value xml:space="preserve">não é possível quitar o cargo de Administrador do portal ni o cargo de Usuários registrados.</value>
   </data>
   <data name="RoleTitle.Text">
     <value xml:space="preserve">Administrar os usuários do rol: {0}</value>
   </data>
   <data name="SecurityRole.Header">
-    <value xml:space="preserve">Papel de segurança</value>
+    <value xml:space="preserve">Cargo de segurança</value>
   </data>
   <data name="SendNotification.Text">
     <value xml:space="preserve">Enviar email?</value>
   </data>
   <data name="UpdateRole.Text">
-    <value xml:space="preserve">Atualizar papel do usuário</value>
+    <value xml:space="preserve">Atualizar cargo do usuário</value>
   </data>
   <data name="UserName.Header">
     <value xml:space="preserve">Nome do usuário</value>
   </data>
   <data name="UserTitle.Text">
-    <value xml:space="preserve">Administrar papéis do usuário: {0}</value>
+    <value xml:space="preserve">Administrar cargos do usuário: {0}</value>
   </data>
   <data name="valDates.Text">
     <value xml:space="preserve">A data de expiração deve ser maior que a data efectiva.</value>

@@ -52,13 +52,13 @@
     <value xml:space="preserve">Logros conseguidos</value>
   </data>
   <data name="answer.Action">
-    <value xml:space="preserve">foi contestado a pregunta</value>
+    <value xml:space="preserve">foi contestado a pergunta</value>
   </data>
   <data name="answer.Text">
-    <value xml:space="preserve">Respuestas</value>
+    <value xml:space="preserve">Respostas</value>
   </data>
   <data name="articleadd.Action">
-    <value xml:space="preserve">Foi añadido um artículo</value>
+    <value xml:space="preserve">Foi adicionado um artículo</value>
   </data>
   <data name="articleadd.Text">
     <value xml:space="preserve">Artículos</value>
@@ -76,7 +76,7 @@
     <value xml:space="preserve">foi enviado um desafío</value>
   </data>
   <data name="challengeadded.Text">
-    <value xml:space="preserve">Desafíos añadidos</value>
+    <value xml:space="preserve">Desafíos adicionados</value>
   </data>
   <data name="challengecompleted.Action">
     <value xml:space="preserve">foi completado o desafío</value>
@@ -94,16 +94,16 @@
     <value xml:space="preserve">Comentarios</value>
   </data>
   <data name="documentadd.Action">
-    <value xml:space="preserve">foi añadido o documento</value>
+    <value xml:space="preserve">Adicionado o documento</value>
   </data>
   <data name="documentadd.Text">
     <value xml:space="preserve">Documentos</value>
   </data>
   <data name="documentupdate.Action">
-    <value xml:space="preserve">foi actualizado o documento</value>
+    <value xml:space="preserve">Atualizado o documento</value>
   </data>
   <data name="documentupdate.Text">
-    <value xml:space="preserve">Documentos actualizados</value>
+    <value xml:space="preserve">Documentos atualizados</value>
   </data>
   <data name="eventattend.Action">
     <value xml:space="preserve">participará não evento</value>
@@ -121,7 +121,7 @@
     <value xml:space="preserve">Arquivos</value>
   </data>
   <data name="forum_reply.Text">
-    <value xml:space="preserve">Respuestas de foros</value>
+    <value xml:space="preserve">Respostas de foros</value>
   </data>
   <data name="forum_topic.Text">
     <value xml:space="preserve">Entradas de foros</value>
@@ -136,16 +136,16 @@
     <value xml:space="preserve">Membro dos grupos</value>
   </data>
   <data name="ideaadd.Action">
-    <value xml:space="preserve">foi añadido a idea</value>
+    <value xml:space="preserve">Adicionada a idéia</value>
   </data>
   <data name="ideaadd.Text">
     <value xml:space="preserve">Ideas</value>
   </data>
   <data name="ideaupdate.Action">
-    <value xml:space="preserve">foi actualizado a idea</value>
+    <value xml:space="preserve">Atualizada a idéia</value>
   </data>
   <data name="ideaupdate.Text">
-    <value xml:space="preserve">Ideas actualizadas</value>
+    <value xml:space="preserve">Ideas atualizadas</value>
   </data>
   <data name="journal_badge.Text" lastModified="2015-12-29 07:02:40">
     <value xml:space="preserve">&lt;div class="author"&gt;&lt;img src="[JournalProfile:relativeurl|32]" /&gt;&lt;/div&gt;
@@ -155,7 +155,7 @@
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer más&lt;/a&gt;{/CanComment}
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer mais&lt;/a&gt;{/CanComment}
 	&lt;/p&gt;
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
@@ -168,7 +168,7 @@
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer más&lt;/a&gt;{/CanComment}
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer mais&lt;/a&gt;{/CanComment}
 	&lt;/p&gt;
 		[JOURNALCONTROL:LIKELIST]
 	
@@ -182,7 +182,7 @@
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer más&lt;/a&gt;{/CanComment}
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer mais&lt;/a&gt;{/CanComment}
 	&lt;/p&gt;
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
@@ -205,7 +205,7 @@
 		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
 	&lt;/p&gt;
 	[JOURNALCONTROL:LIKELIST]
-	[JOURNALCONTROL:COMMENTAREA]
+	[JOURNALCONTROL:COMMENTAREFA]
 &lt;/div&gt;</value>
   </data>
   <data name="journal_forum_reply.Text" lastModified="2015-12-29 07:02:40">
@@ -216,7 +216,7 @@
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer más&lt;/a&gt;{/CanComment}
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer mais&lt;/a&gt;{/CanComment}
 	&lt;/p&gt;
 		[JOURNALCONTROL:LIKELIST]
 	
@@ -230,7 +230,7 @@
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer más&lt;/a&gt;{/CanComment}
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer mais&lt;/a&gt;{/CanComment}
 	&lt;/p&gt;
 		[JOURNALCONTROL:LIKELIST]
 	
@@ -244,7 +244,7 @@
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer más&lt;/a&gt;{/CanComment}
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer mais&lt;/a&gt;{/CanComment}
 	&lt;/p&gt;
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
@@ -258,7 +258,7 @@
 		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
 	&lt;/p&gt;
 		[JOURNALCONTROL:LIKELIST]
-		[JOURNALCONTROL:COMMENTAREA]
+		[JOURNALCONTROL:COMMENTAREFA]
 	&lt;/div&gt;</value>
   </data>
   <data name="journal_groupjoin.Text" lastModified="2015-12-29 07:02:40">
@@ -270,7 +270,7 @@
 		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
 	&lt;/p&gt;
 		[JOURNALCONTROL:LIKELIST]
-		[JOURNALCONTROL:COMMENTAREA]
+		[JOURNALCONTROL:COMMENTAREFA]
 	&lt;/div&gt;</value>
   </data>
   <data name="journal_ideaadd.Text" lastModified="2015-12-29 07:02:40">
@@ -281,7 +281,7 @@
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer más&lt;/a&gt;{/CanComment}
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer mais&lt;/a&gt;{/CanComment}
 	&lt;/p&gt;
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
@@ -294,7 +294,7 @@
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer más&lt;/a&gt;{/CanComment}
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer mais&lt;/a&gt;{/CanComment}
 	&lt;/p&gt;
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
@@ -317,7 +317,7 @@
 		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
 	&lt;/p&gt;
 	[JOURNALCONTROL:LIKELIST]
-	[JOURNALCONTROL:COMMENTAREA]
+	[JOURNALCONTROL:COMMENTAREFA]
 &lt;/div&gt;</value>
   </data>
   <data name="journal_photo.Text" lastModified="2015-12-29 07:02:40">
@@ -336,7 +336,7 @@
 		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
 	&lt;/p&gt;
 	[JOURNALCONTROL:LIKELIST]
-	[JOURNALCONTROL:COMMENTAREA]
+	[JOURNALCONTROL:COMMENTAREFA]
 &lt;/div&gt;</value>
   </data>
   <data name="journal_status.Text" lastModified="2015-12-29 07:02:40">
@@ -348,7 +348,7 @@
 		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:COMMENTLINK]{/CanComment}
 	&lt;/p&gt;
 		[JOURNALCONTROL:LIKELIST]
-		[JOURNALCONTROL:COMMENTAREA]
+		[JOURNALCONTROL:COMMENTAREFA]
 	&lt;/div&gt;
 </value>
   </data>
@@ -360,13 +360,13 @@
 &lt;div class="dnnClear"&gt;&lt;i&gt;[journalitem:Summary]&lt;/i&gt;&lt;/div&gt;
 &lt;/p&gt;
 		&lt;p class="journalfooter"&gt;
-		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer más&lt;/a&gt;{/CanComment}
+		&lt;abbr title="[journalItem:DateCreated]"&gt;[journalitem:TimeFrame]&lt;/abbr&gt; {CanComment}&lt;span&gt;&amp;#149;&lt;/span&gt; [JOURNALCONTROL:LIKELINK] &lt;span&gt;&amp;#149;&lt;/span&gt; &lt;a href="[journaldata:Url]"&gt;Leer mais&lt;/a&gt;{/CanComment}
 	&lt;/p&gt;
 	[JOURNALCONTROL:LIKELIST]
 &lt;/div&gt;</value>
   </data>
   <data name="link.Text">
-    <value xml:space="preserve">Enlaces</value>
+    <value xml:space="preserve">Interfaces</value>
   </data>
   <data name="Notification_Mention.Body">
     <value xml:space="preserve">{0}</value>
@@ -399,28 +399,28 @@
     <value xml:space="preserve">Foi creado um proyecto</value>
   </data>
   <data name="projectupdate.Action">
-    <value xml:space="preserve">foi actualizado o proyecto</value>
+    <value xml:space="preserve">Atualizado o proyecto</value>
   </data>
   <data name="projectupdated.Text">
-    <value xml:space="preserve">Foi actualizado um proyecto</value>
+    <value xml:space="preserve">Foi atualizado um proyecto</value>
   </data>
   <data name="question.Action">
-    <value xml:space="preserve">foi preguntado</value>
+    <value xml:space="preserve">foi perguntado</value>
   </data>
   <data name="question.Text">
-    <value xml:space="preserve">Preguntas</value>
+    <value xml:space="preserve">Perguntas</value>
   </data>
   <data name="reviewadd.Action">
-    <value xml:space="preserve">foi añadido um comentario para</value>
+    <value xml:space="preserve">Adicionado um comentario para</value>
   </data>
   <data name="reviewadd.Text">
     <value xml:space="preserve">Comentarios</value>
   </data>
   <data name="reviewupdate.Action">
-    <value xml:space="preserve">foi actualizado o comentario para</value>
+    <value xml:space="preserve">Atualizado o comentario para</value>
   </data>
   <data name="reviewupdate.Text">
-    <value xml:space="preserve">Comentarios actualizados</value>
+    <value xml:space="preserve">Comentarios atualizados</value>
   </data>
   <data name="status.Text">
     <value xml:space="preserve">Mensagens</value>
@@ -432,22 +432,22 @@
     <value xml:space="preserve">Foi rellenado uma encuesta</value>
   </data>
   <data name="taskadd.Action">
-    <value xml:space="preserve">foi creado uma nova tarea</value>
+    <value xml:space="preserve">foi creado uma nova tarefa</value>
   </data>
   <data name="taskadd.Text">
-    <value xml:space="preserve">Tareas</value>
+    <value xml:space="preserve">Tarefas</value>
   </data>
   <data name="taskupdate.Action">
-    <value xml:space="preserve">foi actualizado a tarea</value>
+    <value xml:space="preserve">Atualizada a tarefa</value>
   </data>
   <data name="taskupdate.Text">
-    <value xml:space="preserve">Tareas actualizadas</value>
+    <value xml:space="preserve">Tarefas atualizadas</value>
   </data>
   <data name="UserFolderTitle.Text">
-    <value xml:space="preserve">Mis Arquivos</value>
+    <value xml:space="preserve">Mis arquivos</value>
   </data>
   <data name="videoadd.Action">
-    <value xml:space="preserve">foi añadido o vídeo</value>
+    <value xml:space="preserve">Adicionado o vídeo</value>
   </data>
   <data name="videoadd.Text">
     <value xml:space="preserve">Vídeos</value>
@@ -459,15 +459,15 @@
     <value xml:space="preserve">Votos</value>
   </data>
   <data name="wikiadd.Action">
-    <value xml:space="preserve">foi añadido a página wiki</value>
+    <value xml:space="preserve">Adicionada a página wiki</value>
   </data>
   <data name="wikiadd.Text">
     <value xml:space="preserve">Wiki</value>
   </data>
   <data name="wikiupdate.Action">
-    <value xml:space="preserve">foi actualizado a página wiki</value>
+    <value xml:space="preserve">Atualizada a página wiki</value>
   </data>
   <data name="wikiupdate.Text">
-    <value xml:space="preserve">Foi actualizado a wiki</value>
+    <value xml:space="preserve">Foi atualizado a wiki</value>
   </data>
 </root>

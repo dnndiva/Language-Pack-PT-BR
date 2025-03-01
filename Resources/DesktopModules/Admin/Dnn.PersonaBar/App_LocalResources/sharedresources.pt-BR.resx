@@ -25,7 +25,7 @@
     <value xml:space="preserve">Cancelar</value>
   </data>
   <data name="btnSave.Text">
-    <value xml:space="preserve">Guardar</value>
+    <value xml:space="preserve">Salvar</value>
   </data>
   <data name="Day.Text">
     <value xml:space="preserve">día</value>
@@ -34,25 +34,25 @@
     <value xml:space="preserve">hace {0} día</value>
   </data>
   <data name="Days.Text">
-    <value xml:space="preserve">días</value>
+    <value xml:space="preserve">dias</value>
   </data>
   <data name="DaysAgo.Text">
-    <value xml:space="preserve">hace {0} días</value>
+    <value xml:space="preserve">hace {0} dias</value>
   </data>
   <data name="ErrMissPermissions.Text">
-    <value xml:space="preserve">Não tem permiso para cargar Arquivos.</value>
+    <value xml:space="preserve">Não tem permissão para enviar arquivos.</value>
   </data>
   <data name="ErrUploadFile.Text">
-    <value xml:space="preserve">Erro: o arquivo não foi podido cargar.</value>
+    <value xml:space="preserve">Erro: o arquivo Não foi possível enviar.</value>
   </data>
   <data name="ErrUploadStream.Text">
-    <value xml:space="preserve">A imagen não foi podido guardar.</value>
+    <value xml:space="preserve">A imagen Não foi possível salvar.</value>
   </data>
   <data name="FolderDoesNotExist.Error">
     <value xml:space="preserve">A pasta não existe.</value>
   </data>
   <data name="GenericErrorMessage.Error">
-    <value xml:space="preserve">foi producido um error desconocido. Revise o registro de eventos para ver más informação.</value>
+    <value xml:space="preserve">foi produzido um erro desconhecido. Revise o registro de eventos para ver mais informação.</value>
   </data>
   <data name="Hour.Text">
     <value xml:space="preserve">hora</value>
@@ -100,7 +100,7 @@
     <value xml:space="preserve">Nunca</value>
   </data>
   <data name="Promp_MainFlagIsRequired.Text" lastModified="2018-03-24 11:13:29">
-    <value xml:space="preserve">'[0]' é obrigatório. Utilice a opção --[1] o incluya o valor como primer argumento después do nome do comando.\n</value>
+    <value xml:space="preserve">'[0]' é obrigatório. Utilize a opção --[1] o inclua o valor como primeir argumento depois do nome do comando.\n</value>
   </data>
   <data name="Promp_PositiveValueRequired.Text" lastModified="2018-03-24 11:13:29">
     <value xml:space="preserve">'[0]' tem que ser maior que 0.\n</value>
@@ -109,7 +109,7 @@
     <value xml:space="preserve">'[0]' é obrigatório.\n</value>
   </data>
   <data name="Prompt_InvalidType.Text" lastModified="2018-03-24 11:13:29">
-    <value xml:space="preserve">O valor proporcionado para '[0]' não é válido '[1]'.\n</value>
+    <value xml:space="preserve">O valor fornecido para '[0]' não é válido '[1]'.\n</value>
   </data>
   <data name="RegisterationFailed.Text">
     <value xml:space="preserve">{0}</value>
@@ -118,7 +118,7 @@
     <value xml:space="preserve">O nome do usuário já existe.</value>
   </data>
   <data name="Root.Text">
-    <value xml:space="preserve">Inicio</value>
+    <value xml:space="preserve">Início</value>
   </data>
   <data name="Second.Text">
     <value xml:space="preserve">segundo</value>
@@ -132,20 +132,20 @@
   <data name="SecondsAgo.Text">
     <value xml:space="preserve">hace {0} segundos</value>
   </data>
-  <data name="SwitchOff.Text" lastModified="2020-05-08 16:21:27">
+  <data name="SwitchOff.Text" lastModified="2024-07-26 16:21:27">
     <value xml:space="preserve">Off</value>
   </data>
-  <data name="SwitchOn.Text" lastModified="2020-05-08 16:21:27">
+  <data name="SwitchOn.Text" lastModified="2024-07-26 16:21:27">
     <value xml:space="preserve">On</value>
   </data>
   <data name="UnauthorizedRequest.Text">
     <value xml:space="preserve">foi negado a autorização para esta petição.</value>
   </data>
   <data name="UserHasNoPermissionToReadFile.Error">
-    <value xml:space="preserve">O usuário não tem permiso para leer este Arquivo.</value>
+    <value xml:space="preserve">O usuário não tem permissão para leer este arquivo.</value>
   </data>
   <data name="UserHasNoPermissionToReadFolder.Error">
-    <value xml:space="preserve">O usuário não tem permiso para ver esta pasta.</value>
+    <value xml:space="preserve">O usuário não tem permissão para ver esta pasta.</value>
   </data>
   <data name="VisívelOnPage.Header">
     <value xml:space="preserve">Visível em a página</value>

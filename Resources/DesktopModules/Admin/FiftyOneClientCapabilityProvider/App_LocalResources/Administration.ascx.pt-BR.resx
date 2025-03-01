@@ -22,7 +22,7 @@
     <value xml:space="preserve">&lt;p class="{0}"&gt;foi activado Premium Data.&lt;/p&gt;</value>
   </data>
   <data name="ActivateInstructionsHtml.Text" lastModified="2015-09-14 13:33:32">
-    <value xml:space="preserve">&lt;h3&gt;Ativar todas as opções&lt;/h3&gt;&lt;p&gt;Paso 1 - Obtenga uma chave de licença de 51Degrees.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Paso 2 - Introduza sua chave de licença na caixa de texto inferior. Selecione "Ativar" para a chave de licença neste website.&lt;/p&gt;&lt;br/&gt;</value>
+    <value xml:space="preserve">&lt;h3&gt;Ativar todas as opções&lt;/h3&gt;&lt;p&gt;Paso 1 - Obtenga uma chave de licença de 51Degrees.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Paso 2 - Introduza sua chave de licença na caja de texto inferior. Selecione "Ativar" para a chave de licença neste site web.&lt;/p&gt;&lt;br/&gt;</value>
   </data>
   <data name="ActivationDataInvalidHtml.Text">
     <value xml:space="preserve">&lt;div class="{0}"&gt;&lt;p&gt;O origen de dados fornecido não contém dados válidos.&lt;/p&gt;&lt;/div&gt;</value>
@@ -172,7 +172,7 @@ O cortafuegos do servidor o outro cortafuegos está bloqueando o Acesso ao servi
     <value xml:space="preserve">Configuração</value>
   </data>
   <data name="SettingsAutoUpdates.Help" lastModified="2015-09-14 03:10:57">
-    <value xml:space="preserve">Ativar/desactivar a atualização automática do arquivo de dados de dispositivos. Quando está activo o website se conectará com 51Degrees para baixar novos arquivos de dados de dispositivos e aplicarlos automáticamente (sem reiniciar a web). É necessárion dados adicionales para esta opção.</value>
+    <value xml:space="preserve">Ativar/desactivar a atualização automática do arquivo de dados de dispositivos. Quando está activo o site web se conectará com 51Degrees para baixar novos arquivos de dados de dispositivos e aplicarlos automáticamente (sem reiniciar a web). É necessárion dados adicionales para esta opção.</value>
   </data>
   <data name="SettingsAutoUpdates.Text" lastModified="2015-09-14 03:10:57">
     <value xml:space="preserve">Atualizar arquivos automáticamente?</value>

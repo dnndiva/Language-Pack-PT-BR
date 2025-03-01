@@ -22,7 +22,7 @@
     <value xml:space="preserve">Previsualizar</value>
   </data>
   <data name="SaveButton.Text">
-    <value xml:space="preserve">Guardar</value>
+    <value xml:space="preserve">Salvar</value>
   </data>
   <data name="UserCannotReadFileError.Text">
     <value xml:space="preserve">O usuário não tem permissões para leer o arquivo</value>

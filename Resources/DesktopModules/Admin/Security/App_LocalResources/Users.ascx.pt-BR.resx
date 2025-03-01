@@ -187,12 +187,12 @@
     <value xml:space="preserve">Usuário</value>
   </data>
   <data name="UserRoles.Text">
-    <value xml:space="preserve">Administrar papéis</value>
+    <value xml:space="preserve">Administrar cargos</value>
   </data>
   <data name="UserSettings.Action">
     <value xml:space="preserve">Configuração do usuário</value>
   </data>
   <data name="Website.Text">
-    <value xml:space="preserve">Website</value>
+    <value xml:space="preserve">Site Web</value>
   </data>
 </root>

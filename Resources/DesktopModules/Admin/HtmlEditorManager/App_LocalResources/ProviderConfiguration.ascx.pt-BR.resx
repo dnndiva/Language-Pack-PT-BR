@@ -184,10 +184,10 @@ Quando a propriedade AutoResizeHeight se estabelece em true, então o área do e
     <value xml:space="preserve">O provedor atual nesta instalação DotNetNuke é &lt;strong&gt;{0}&lt;/strong&gt;</value>
   </data>
   <data name="lblMode.Help">
-    <value xml:space="preserve">O papel que devería associar com esta configuração do editor</value>
+    <value xml:space="preserve">O cargo que devería associar com esta configuração do editor</value>
   </data>
   <data name="lblMode.Text">
-    <value xml:space="preserve">Enlazar ao papel</value>
+    <value xml:space="preserve">Enlazar ao cargo</value>
   </data>
   <data name="lblNotAuthorized.Text">
     <value xml:space="preserve">Não está autorizado a utilizar este módulo.</value>
@@ -265,7 +265,7 @@ Quando a propriedade AutoResizeHeight se estabelece em true, então o área do e
     <value xml:space="preserve">Tamanho máximo de arquivo:</value>
   </data>
   <data name="MaxTemplateSize.Help">
-    <value xml:space="preserve">Tamanho máximo em bytes para enviar templates</value>
+    <value xml:space="preserve">Tamanho máximo em bytes para enviar planilhas</value>
   </data>
   <data name="MaxTemplateSize.Text">
     <value xml:space="preserve">Tamanho máximo de arquivo:</value>
@@ -425,16 +425,16 @@ AllExceptNewLines &lt;li&gt;:. Borra todas as variables, excepto "br" e as novas
     <value xml:space="preserve">Opções de formateo de tiras:</value>
   </data>
   <data name="Template Manager Settings.Title">
-    <value xml:space="preserve">Parâmetros de gestor de templates</value>
+    <value xml:space="preserve">Parâmetros de gestor de planilhas</value>
   </data>
   <data name="TemplateFilters.Help">
-    <value xml:space="preserve">Una lista separada por ponto e coma das possívels extensões que se utilizarão não gestor de templates. As extensões devnestar em a configuração do sistema na lista de extensões permitidas. Utilize o seguinte formato: *.extensão</value>
+    <value xml:space="preserve">Una lista separada por ponto e coma das possívels extensões que se utilizarão não gestor de planilhas. As extensões devnestar em a configuração do sistema na lista de extensões permitidas. Utilize o seguinte formato: *.extensão</value>
   </data>
   <data name="TemplateFilters.Text">
     <value xml:space="preserve">Filtros:</value>
   </data>
   <data name="TemplatePath.Help">
-    <value xml:space="preserve">A pasta na que o gestor de templates se inicia quando se envio com o cuadro de diálogo</value>
+    <value xml:space="preserve">A pasta na que o gestor de planilhas se inicia quando se envio com o cuadro de diálogo</value>
   </data>
   <data name="TemplatePath.Text">
     <value xml:space="preserve">Rota:</value>

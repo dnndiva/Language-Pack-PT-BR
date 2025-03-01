@@ -6,6 +6,9 @@
 /Website
 Compare DNN PT BR.WinMerge
 
+/Website
+/Database
+
 # User-specific files
 *.rsuser
 *.suo
@@ -352,3 +355,4 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+.gitignore

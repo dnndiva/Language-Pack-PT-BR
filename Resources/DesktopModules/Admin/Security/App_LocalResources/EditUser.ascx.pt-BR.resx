@@ -52,10 +52,10 @@
     <value xml:space="preserve">Atualizado corretamente a URL de perfil.</value>
   </data>
   <data name="UserSubscribed.Text">
-    <value xml:space="preserve">foi suscrito corretamente ao papel {0}.</value>
+    <value xml:space="preserve">foi suscrito corretamente ao cargo {0}.</value>
   </data>
   <data name="UserUnSubscribed.Text">
-    <value xml:space="preserve">foi cancelado sua suscripció ao papel {0} corretamente.</value>
+    <value xml:space="preserve">foi cancelado sua suscripció ao cargo {0} corretamente.</value>
   </data>
   <data name="UserUpdated.Text">
     <value xml:space="preserve">Atualizado corretamente a conta.</value>

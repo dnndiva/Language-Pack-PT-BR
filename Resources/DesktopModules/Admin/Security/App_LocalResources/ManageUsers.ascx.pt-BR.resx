@@ -40,7 +40,7 @@
     <value xml:space="preserve">Registrar</value>
   </data>
   <data name="cmdRoles.Text">
-    <value xml:space="preserve">Gestionar papéis para este usuário</value>
+    <value xml:space="preserve">Gestionar cargos para este usuário</value>
   </data>
   <data name="cmdServices.Text">
     <value xml:space="preserve">Gestionar servicios</value>
@@ -61,7 +61,7 @@
     <value xml:space="preserve">Registrar</value>
   </data>
   <data name="EmailError.Text">
-    <value xml:space="preserve">Este website requerir uma endereço email única para cada usuário. A endereço email que foi introduzido já está em uso.</value>
+    <value xml:space="preserve">Este site web requerir uma endereço email única para cada usuário. A endereço email que foi introduzido já está em uso.</value>
   </data>
   <data name="ExceededRegisterQuota.Text">
     <value xml:space="preserve">Não pode registrar uma conta neste momento. Contacte com o administrador do portal para ver quando o registro estará disponível novamente.</value>
@@ -70,7 +70,7 @@
     <value xml:space="preserve">ao adicionar este usuário se excedería a cuota de usuários para este site. Contacte com sua provedor de alojamento para consultas relacionadas com o incremento da cuota de usuários.</value>
   </data>
   <data name="InvalidUser.Text">
-    <value xml:space="preserve">Esta conta não pertenece a um usuário deste website.</value>
+    <value xml:space="preserve">Esta conta não pertenece a um usuário deste site web.</value>
   </data>
   <data name="ManageProfile.Action">
     <value xml:space="preserve">Gestionar propriedades do perfil</value>
@@ -133,7 +133,7 @@
     <value xml:space="preserve">Redenifir senha</value>
   </data>
   <data name="Roles.Action">
-    <value xml:space="preserve">Gestionar papéis para este usuário</value>
+    <value xml:space="preserve">Gestionar cargos para este usuário</value>
   </data>
   <data name="SuperUser.Text">
     <value xml:space="preserve">Esta conta pertenece a um Superusuário. Ud. não tem permissões para editar contas de Superusuário</value>
@@ -154,7 +154,7 @@
     <value xml:space="preserve">O usuário foi atualizado como superusuário.</value>
   </data>
   <data name="UserSubscribed.Text">
-    <value xml:space="preserve">foi suscrito corretamente ao papel {0}.</value>
+    <value xml:space="preserve">foi suscrito corretamente ao cargo {0}.</value>
   </data>
   <data name="UserTitle.Text">
     <value xml:space="preserve">Editar usuário - {0} (Id: {1})</value>
@@ -163,6 +163,6 @@
     <value xml:space="preserve">Usuário corretamente desautorizado</value>
   </data>
   <data name="UserUnSubscribed.Text">
-    <value xml:space="preserve">Foi cancelado sua suscripção ao papel {0}.</value>
+    <value xml:space="preserve">Foi cancelado sua suscripção ao cargo {0}.</value>
   </data>
 </root>

@@ -130,10 +130,10 @@
     <value xml:space="preserve">Formato do nome a mostrar:</value>
   </data>
   <data name="Security_UsersControl.Help">
-    <value xml:space="preserve">Selecione o controle do usuário para utilizar não modulo de gestão de papéis.</value>
+    <value xml:space="preserve">Selecione o controle do usuário para utilizar não modulo de gestão de cargos.</value>
   </data>
   <data name="Security_UsersControl.Text">
-    <value xml:space="preserve">Modo visualização do usuário em administração de papéis:</value>
+    <value xml:space="preserve">Modo visualização do usuário em administração de cargos:</value>
   </data>
   <data name="TextBox.Text">
     <value xml:space="preserve">Caixa de texto</value>

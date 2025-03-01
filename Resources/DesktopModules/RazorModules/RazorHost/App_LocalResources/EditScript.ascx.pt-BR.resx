@@ -13,13 +13,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AddNew.Text">
-    <value xml:space="preserve">Adicionar Arquivo de script</value>
+    <value xml:space="preserve">Adicionar arquivo de script</value>
   </data>
   <data name="cmdSave.Text">
-    <value xml:space="preserve">Guardar script</value>
+    <value xml:space="preserve">Salvar script</value>
   </data>
   <data name="cmdSaveClose.Text">
-    <value xml:space="preserve">Guardar script e volver</value>
+    <value xml:space="preserve">Salvar script e volver</value>
   </data>
   <data name="ControlTitle_edit.Text">
     <value xml:space="preserve">Edição de script</value>
@@ -34,7 +34,7 @@
     <value xml:space="preserve">Conteúdo script:</value>
   </data>
   <data name="scriptListLabel.Help">
-    <value xml:space="preserve">Selecione o script que quiere utilizar para esta instância do módulo Razor Host</value>
+    <value xml:space="preserve">Selecione o script que quiser utilizar para esta instância do módulo Razor Host</value>
   </data>
   <data name="scriptListLabel.Text">
     <value xml:space="preserve">Script: </value>

@@ -85,13 +85,13 @@
     <value xml:space="preserve">Lenguaje:</value>
   </data>
   <data name="plSource.Help">
-    <value xml:space="preserve">Pode ver o conteúdo do arquivo na caixa de texto inferior. Se estiver executando o site em um PC local também poderá editar e modificar o código fonte.</value>
+    <value xml:space="preserve">Pode ver o conteúdo do arquivo na caja de texto inferior. Se estiver executando o site em um PC local também poderá editar e modificar o código fonte.</value>
   </data>
   <data name="plSource.Text">
     <value xml:space="preserve">Pasta:</value>
   </data>
   <data name="plTemplate.Help">
-    <value xml:space="preserve">Selecione o template de módulo que quiser utilizar. As templates para criação de módulos se encontran em a pasta Modules em a pasta principal do sistema.</value>
+    <value xml:space="preserve">Selecione o template de módulo que quiser utilizar. As planilhas para criação de módulos se encontran em a pasta Modules em a pasta principal do sistema.</value>
   </data>
   <data name="plTemplate.Text">
     <value xml:space="preserve">template:</value>

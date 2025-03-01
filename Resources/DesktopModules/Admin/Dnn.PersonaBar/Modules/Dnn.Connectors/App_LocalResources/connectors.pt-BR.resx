@@ -16,7 +16,7 @@
     <value xml:space="preserve">Cancelar</value>
   </data>
   <data name="btn_Checking.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Comprobando...</value>
+    <value xml:space="preserve">Comprovando...</value>
   </data>
   <data name="btn_Connect.Text" lastModified="2018-03-24 06:31:48">
     <value xml:space="preserve">Conectar</value>
@@ -25,7 +25,7 @@
     <value xml:space="preserve">Editar</value>
   </data>
   <data name="btn_Save.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Guardar</value>
+    <value xml:space="preserve">Salvar</value>
   </data>
   <data name="ErrConnectorNotFound.Text" lastModified="2018-03-24 06:31:48">
     <value xml:space="preserve">Não foi encontrado o conector.</value>
@@ -34,7 +34,7 @@
     <value xml:space="preserve">Conectores</value>
   </data>
   <data name="Save.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Guardar</value>
+    <value xml:space="preserve">Salvar</value>
   </data>
   <data name="title_Connections.Text" lastModified="2018-03-24 06:31:48">
     <value xml:space="preserve">Configurar conexões</value>
@@ -46,7 +46,7 @@
     <value xml:space="preserve">Clicar para editar o nome do conector</value>
   </data>
   <data name="txt_Deleted.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">foi eliminado o elemento.</value>
+    <value xml:space="preserve">deletado o item.</value>
   </data>
   <data name="txt_DisplayNameIsNotUnique.Text" lastModified="2018-03-24 06:31:48">
     <value xml:space="preserve">O nome tem que ser único.</value>
@@ -55,9 +55,9 @@
     <value xml:space="preserve">O nome somente pode contener letras e números.</value>
   </data>
   <data name="txt_Saved.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">foi guardado o elemento.</value>
+    <value xml:space="preserve">foi guardado o item.</value>
   </data>
   <data name="txt_SetupConnections.Text" lastModified="2018-03-24 06:31:48">
-    <value xml:space="preserve">Configure sus conexões para compartilhar conteúdo más fácilmente.</value>
+    <value xml:space="preserve">Configure seus conexões para compartilhar conteúdo mais fácilmente.</value>
   </data>
 </root>

@@ -22,7 +22,7 @@
     <value xml:space="preserve">Enviar</value>
   </data>
   <data name="DataConsent.Text" lastModified="2024-07-26 10:16:16">
-    <value xml:space="preserve">Estoy de acuerdo com os &lt;a href="{0}"&gt;Termos de uso&lt;/a&gt; deste website e sua &lt;a href="{1}"&gt;Política de privacidade&lt;/a&gt;</value>
+    <value xml:space="preserve">Estoy de acuerdo com os &lt;a href="{0}"&gt;Termos de uso&lt;/a&gt; deste site web e sua &lt;a href="{1}"&gt;Política de privacidade&lt;/a&gt;</value>
   </data>
   <data name="DelayedHardDelete.Confirm" lastModified="2024-07-26 16:56:33">
     <value xml:space="preserve">Seus dados personales de borrarão do portal em breve. Após borrarse já não se podem recuperar e se perderão para siempre. Tampoco poderá iniciar sessão com esta conta. Está seguro que quer continuar?</value>

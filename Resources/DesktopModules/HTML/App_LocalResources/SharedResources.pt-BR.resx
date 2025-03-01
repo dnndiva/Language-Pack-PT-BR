@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ApproveContent.Action">
-    <value xml:space="preserve">Aprobar</value>
+    <value xml:space="preserve">Aprovar</value>
   </data>
   <data name="NotificationBody.Text">
     <value xml:space="preserve">Este conteúdo se encontra não estado [STATE] em a seguinte página: 
@@ -21,7 +21,7 @@
 &lt;a href='[URL]'&gt;[URL]&lt;/a&gt;</value>
   </data>
   <data name="NotificationSubject.Text">
-    <value xml:space="preserve">Notificação de revisión de conteúdos: [ACTION]</value>
+    <value xml:space="preserve">Notificação de revisão de conteúdos: [ACTION]</value>
   </data>
   <data name="PublishContent.Action">
     <value xml:space="preserve">Publicar</value>
