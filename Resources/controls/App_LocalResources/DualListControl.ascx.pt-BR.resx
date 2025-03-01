@@ -13,10 +13,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Add.Text">
-    <value xml:space="preserve">Adicionar o elemento selecionado a lista de asignados</value>
+    <value xml:space="preserve">Adicionar o item selecionado a lista de asignados</value>
   </data>
   <data name="AddAll.Text">
-    <value xml:space="preserve">Adicionar todos os elementos disponívels a lista de asignados</value>
+    <value xml:space="preserve">Adicionar todos os itens disponíveis a lista de asignados</value>
   </data>
   <data name="Assigned.Text">
     <value xml:space="preserve">Asignado</value>
@@ -25,9 +25,9 @@
     <value xml:space="preserve">disponível</value>
   </data>
   <data name="Remove.Text">
-    <value xml:space="preserve">Eliminar elemento selecionado da lista de asignados</value>
+    <value xml:space="preserve">Deletar item selecionado da lista de asignados</value>
   </data>
   <data name="RemoveAll.Text">
-    <value xml:space="preserve">Eliminar todos os elementos da lista de asignados</value>
+    <value xml:space="preserve">Deletar todos os itens da lista de asignados</value>
   </data>
 </root>

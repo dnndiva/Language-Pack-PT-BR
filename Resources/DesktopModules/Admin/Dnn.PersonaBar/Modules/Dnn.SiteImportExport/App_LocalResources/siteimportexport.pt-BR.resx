@@ -229,7 +229,7 @@
     <value xml:space="preserve">Última actualização</value>
   </data>
   <data name="lblLanguages.Help" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Selecione os idiomas adicionales que quiera incluir na planilha multi idioma, o selecione um somente idioma para uma planilha com um único idioma.</value>
+    <value xml:space="preserve">Selecione os idiomas adicionales que quiera incluir no template multi idioma, o selecione um somente idioma para umo template com um único idioma.</value>
   </data>
   <data name="lblLanguages.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Exportar idiomas</value>
@@ -283,7 +283,7 @@
     <value xml:space="preserve">Páginas exportadas</value>
   </data>
   <data name="PageTemplates.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">planilhas de página</value>
+    <value xml:space="preserve">templates de página</value>
   </data>
   <data name="Permissions.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Permissões</value>
@@ -295,7 +295,7 @@
     <value xml:space="preserve">Roles e grupos</value>
   </data>
   <data name="RunNow.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Ejecutar ahora</value>
+    <value xml:space="preserve">Executar ahora</value>
   </data>
   <data name="SearchPlaceHolder.Text" lastModified="2017-04-29 03:14:07">
     <value xml:space="preserve">Buscar</value>
@@ -367,6 +367,6 @@
     <value xml:space="preserve">Sitio web</value>
   </data>
   <data name="Yes.Text" lastModified="2017-04-29 03:14:07">
-    <value xml:space="preserve">Sí</value>
+    <value xml:space="preserve">Sim</value>
   </data>
 </root>

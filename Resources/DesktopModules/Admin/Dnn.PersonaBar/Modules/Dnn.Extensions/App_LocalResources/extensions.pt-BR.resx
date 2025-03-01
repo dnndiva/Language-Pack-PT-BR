@@ -217,7 +217,7 @@
     <value xml:space="preserve">Selecionar Arquivos a incluir</value>
   </data>
   <data name="CreatePackage_CreateManifest.HelpText">
-    <value xml:space="preserve">Em base a sus seleções o asistente foi creado o manifiesto para o paquete. O manifiesto pode der visto na caja inferior. Pode editar o manifiesto antes de criar o paquete.</value>
+    <value xml:space="preserve">Em base a sus seleções o asistente foi creado o manifiesto para o paquete. O manifiesto pode der visto na caixa inferior. Pode editar o manifiesto antes de criar o paquete.</value>
   </data>
   <data name="CreatePackage_CreateManifest.Label">
     <value xml:space="preserve">criar manifiesto</value>
@@ -289,7 +289,7 @@
     <value xml:space="preserve">Não</value>
   </data>
   <data name="DeleteExtension.Confirm">
-    <value xml:space="preserve">Sí</value>
+    <value xml:space="preserve">Sim</value>
   </data>
   <data name="DeleteExtension.Warning">
     <value xml:space="preserve">Está seguro que quer desinstalar {0}?</value>
@@ -568,7 +568,7 @@
     <value xml:space="preserve">Soporta indexação?</value>
   </data>
   <data name="EditModule_IsUpgradable.HelpText">
-    <value xml:space="preserve">Identifica se o módulo é compatível com a interfaz de IUpgradable, que permite ejecutar código personalizado quando se actualiza.</value>
+    <value xml:space="preserve">Identifica se o módulo é compatível com a interfaz de IUpgradable, que permite executar código personalizado quando se actualiza.</value>
   </data>
   <data name="EditModule_IsUpgradable.Label">
     <value xml:space="preserve">Soporta IUpgradable?</value>
@@ -1080,7 +1080,7 @@ Alguno errores frecuentes nos Arquivos de instalação podem ser:
     <value xml:space="preserve">Não</value>
   </data>
   <data name="UnsavedChanges.Confirm">
-    <value xml:space="preserve">Sí</value>
+    <value xml:space="preserve">Sim</value>
   </data>
   <data name="UnsavedChanges.HelpText">
     <value xml:space="preserve">Tem cambios sin guardar. Está seguro que quer continuar?</value>

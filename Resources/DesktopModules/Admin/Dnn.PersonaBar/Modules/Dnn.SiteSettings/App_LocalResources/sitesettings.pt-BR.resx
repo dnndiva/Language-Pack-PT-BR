@@ -472,7 +472,7 @@
     <value xml:space="preserve">Última modificação</value>
   </data>
   <data name="lblSearchIndexPath.Help">
-    <value xml:space="preserve">Pasta donde se guarda o índice de busca. Se pode mudar manualmente creando um entrada com o nome "Search_IndexFolder" em HostSettings. Se recomienda parar o App Pool antes de realizar o cambio. O conteúdo da pasta anterior tem que cópiarse manualmente a nova pasta o bien tem que ejecutarse uma reindexação.</value>
+    <value xml:space="preserve">Pasta donde se guarda o índice de busca. Se pode mudar manualmente creando um entrada com o nome "Search_IndexFolder" em HostSettings. Se recomienda parar o App Pool antes de realizar o cambio. O conteúdo da pasta anterior tem que cópiarse manualmente a nova pasta o bien tem que executarse uma reindexação.</value>
   </data>
   <data name="lblSearchIndexPath.Text">
     <value xml:space="preserve">Pasta do índice</value>
@@ -559,7 +559,7 @@
     <value xml:space="preserve">Atenção: compactar o índice pode requerir um uso intenso da CPU e deve realizarse fuera das horas punta.</value>
   </data>
   <data name="MessageReIndexWarning.Text">
-    <value xml:space="preserve">Reindexar borrará todo o conteúdo do índice e o criará de novo. A reindexação se ejecuta durante a tarea de indexação do programador de tareas. Para reindexar immediatamente tem que ejecutar manualmente a tarea de reindexação não programador de tareas.</value>
+    <value xml:space="preserve">Reindexar borrará todo o conteúdo do índice e o criará de novo. A reindexação se ejecuta durante a tarea de indexação do programador de tareas. Para reindexar immediatamente tem que executar manualmente a tarea de reindexação não programador de tareas.</value>
   </data>
   <data name="MicroServices.Text">
     <value xml:space="preserve">MicroServices</value>
@@ -1159,7 +1159,7 @@
     <value xml:space="preserve">EDIção DO PORTAL</value>
   </data>
   <data name="SiteTemplates.Text">
-    <value xml:space="preserve">planilhas de sitio</value>
+    <value xml:space="preserve">templates de sitio</value>
   </data>
   <data name="Synonyms.Text">
     <value xml:space="preserve">Sinónimos</value>
@@ -1237,7 +1237,7 @@
     <value xml:space="preserve">Perfil do usuário</value>
   </data>
   <data name="Template.Text">
-    <value xml:space="preserve">planilha</value>
+    <value xml:space="preserve">template</value>
   </data>
   <data name="Theme.Header">
     <value xml:space="preserve">TEMA</value>
@@ -1351,6 +1351,6 @@
     <value xml:space="preserve">Formato erróneo</value>
   </data>
   <data name="Yes.Text">
-    <value xml:space="preserve">Sí</value>
+    <value xml:space="preserve">Sim</value>
   </data>
 </root>

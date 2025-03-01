@@ -16,7 +16,7 @@
     <value xml:space="preserve">Sitio web predeterminado</value>
   </data>
   <data name="PortalDescription.Text">
-    <value xml:space="preserve">planilha de sitio web padrão</value>
+    <value xml:space="preserve">template de sitio web padrão</value>
   </data>
   <data name="RoleGroup.Description.Text">
     <value xml:space="preserve">Grupo de roles que representa os roles globales do portal</value>

@@ -250,7 +250,7 @@
     <value xml:space="preserve">Confirmar</value>
   </data>
   <data name="NotificationConfirmYes.Text">
-    <value xml:space="preserve">Sí</value>
+    <value xml:space="preserve">Sim</value>
   </data>
   <data name="Notifications.Text">
     <value xml:space="preserve">Notificações</value>

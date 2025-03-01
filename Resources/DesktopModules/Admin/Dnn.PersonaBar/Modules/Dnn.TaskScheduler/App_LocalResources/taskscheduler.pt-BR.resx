@@ -31,7 +31,7 @@
     <value xml:space="preserve">Eliminar</value>
   </data>
   <data name="cmdRun.Text">
-    <value xml:space="preserve">Ejecutar ahora</value>
+    <value xml:space="preserve">Executar ahora</value>
   </data>
   <data name="cmdSave.Text">
     <value xml:space="preserve">Guardar</value>
@@ -226,10 +226,10 @@
     <value xml:space="preserve">Selecione "Application Start" para que se ejecute esta tarea quando arranca a aplicação. NOTA: os eventos programados para APPLICATION_END pode que não se ejecuten de forma fiable em algunos entornos.</value>
   </data>
   <data name="plAttachToEvent.Text">
-    <value xml:space="preserve">Ejecutar em evento:</value>
+    <value xml:space="preserve">Executar em evento:</value>
   </data>
   <data name="plCatchUpEnabled.Help">
-    <value xml:space="preserve">Si esta opção está marcada, quando o servidor vuelva a estar em ejecução después de um periodo de inactividade, ejecutará a tarea uma vez para cada repetição que não foiya ejecutado durante o periodo de inactividade.</value>
+    <value xml:space="preserve">Si esta opção está marcada, quando o servidor vuelva a estar em ejecução después de um periodo de inactividade, executará a tarea uma vez para cada repetição que não foiya ejecutado durante o periodo de inactividade.</value>
   </data>
   <data name="plCatchUpEnabled.Text">
     <value xml:space="preserve">Recuperação habilitada</value>
@@ -259,25 +259,25 @@
     <value xml:space="preserve">Conservar histórico do programador:</value>
   </data>
   <data name="plRetryTimeLapse.Help">
-    <value xml:space="preserve">Entre o intervalo de tempo para volver a ejecutar uma tarea que falhou.</value>
+    <value xml:space="preserve">Entre o intervalo de tempo para volver a executar uma tarea que falhou.</value>
   </data>
   <data name="plRetryTimeLapse.Text">
     <value xml:space="preserve">Frecuencia de reintentos</value>
   </data>
   <data name="plScheduleAppStartDelay.Help">
-    <value xml:space="preserve">Número de minutos que o sistema tem que esperar antes de empezar a ejecutar as tareas después de um reinicio do sistema. O valor predeterminado é de 1 minuto.</value>
+    <value xml:space="preserve">Número de minutos que o sistema tem que esperar antes de empezar a executar as tareas después de um reinicio do sistema. O valor predeterminado é de 1 minuto.</value>
   </data>
   <data name="plScheduleAppStartDelay.Text">
     <value xml:space="preserve">Retardo ao inicio:</value>
   </data>
   <data name="plSchedulerMode.Help">
-    <value xml:space="preserve">O modo Temporizador mantiene uma tarea independiente para ejecutar as tareas mientras o proceso do web este activo. O modo Petição ejecuta as tareas quando se reciben petições HTTP. Pode desactivar o programador seleccionando a opção Desactivado.</value>
+    <value xml:space="preserve">O modo Temporizador mantiene uma tarea independiente para executar as tareas mientras o proceso do web este activo. O modo Petição ejecuta as tareas quando se reciben petições HTTP. Pode desactivar o programador seleccionando a opção Desactivado.</value>
   </data>
   <data name="plSchedulerMode.Text">
     <value xml:space="preserve">Modo do programador:</value>
   </data>
   <data name="plScheduleStartDate.Help">
-    <value xml:space="preserve">Introduzca a data/hora de inicio da tarea. Atenção: Se o servidor não está activo em este momento o há outras tareas ejecutándose, esta tarea se ejecutará tan pronto como o servidor esté disponível de novo.</value>
+    <value xml:space="preserve">Introduzca a data/hora de inicio da tarea. Atenção: Se o servidor não está activo em este momento o há outras tareas ejecutándose, esta tarea se executará tan pronto como o servidor esté disponível de novo.</value>
   </data>
   <data name="plScheduleStartDate.Text">
     <value xml:space="preserve">Data e hora de inicio da tarea.</value>
@@ -289,7 +289,7 @@
     <value xml:space="preserve">Servidor:</value>
   </data>
   <data name="plTimeLapse.Help">
-    <value xml:space="preserve">Entre a frecuencia com a que se va a ejecutar a tarea.</value>
+    <value xml:space="preserve">Entre a frecuencia com a que se va a executar a tarea.</value>
   </data>
   <data name="plTimeLapse.Text">
     <value xml:space="preserve">Frecuencia</value>
@@ -882,6 +882,6 @@
     <value xml:space="preserve">Años</value>
   </data>
   <data name="Yes.Text">
-    <value xml:space="preserve">Sí</value>
+    <value xml:space="preserve">Sim</value>
   </data>
 </root>

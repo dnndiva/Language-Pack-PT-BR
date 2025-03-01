@@ -13,10 +13,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AllowResize.Help">
-    <value xml:space="preserve">Mostra si se podem redimensionar os iconos</value>
+    <value xml:space="preserve">Mostra se se podem redimensionar os iconos</value>
   </data>
   <data name="AllowResize.Text">
-    <value xml:space="preserve">Permitir redimensión de iconos</value>
+    <value xml:space="preserve">Permitir redimensão de iconos</value>
   </data>
   <data name="AllowViewChange.Help">
     <value xml:space="preserve">Permitir mudar entre vista detallada e simple.</value>
@@ -34,13 +34,13 @@
     <value xml:space="preserve">Configuração da consola</value>
   </data>
   <data name="DefaultSize.Help">
-    <value xml:space="preserve">Determina o tamaño do icone.</value>
+    <value xml:space="preserve">Determina o tamanho do ícone.</value>
   </data>
   <data name="DefaultSize.Text">
-    <value xml:space="preserve">Tamaño padrão do icone</value>
+    <value xml:space="preserve">Tamanho padrão do ícone</value>
   </data>
   <data name="DefaultView.Help">
-    <value xml:space="preserve">Determina a vista padrão. A vista simple mostrará os iconos com descripções como textos de ayuda. A vista detallada mostrará uma lista com descripções para cada elemento.</value>
+    <value xml:space="preserve">Determina a vista padrão. A vista simple mostrará os iconos com descripções como textos de ajuda. A vista detallada mostrará uma lista com descripções para cada item.</value>
   </data>
   <data name="DefaultView.Text">
     <value xml:space="preserve">Vista padrão</value>
@@ -61,7 +61,7 @@
     <value xml:space="preserve">Iconos grandes (32px)</value>
   </data>
   <data name="IconNone.Text">
-    <value xml:space="preserve">Sin iconos</value>
+    <value xml:space="preserve">Sem iconos</value>
   </data>
   <data name="IncludeHiddenPages.Help">
     <value xml:space="preserve">Ative esta opção para incluir na vista as páginas ocultas.</value>
@@ -85,10 +85,10 @@
     <value xml:space="preserve">Modo</value>
   </data>
   <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;p&gt;O m&amp;oacute;dulo de consola visualiza as p&amp;aacute;ginas como iconos e enlaces o categor&amp;iacute;as para asistencia na navegaci&amp;oacute;n. O m&amp;oacute;dulo do consola tem 4 modos diferentes:&lt;/p&gt;
+    <value xml:space="preserve">&lt;p&gt;O m&amp;oacute;dulo de consola visualiza as p&amp;aacute;ginas como iconos e interfaces o categor&amp;iacute;as para asistencia na navegaci&amp;oacute;n. O m&amp;oacute;dulo do consola tem 4 modos diferentes:&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;iconos peque&amp;ntilde;os com detalles como ayudas contextuales (Iconos Peque&amp;ntilde;os, Vista Simple)&lt;/li&gt;
-    &lt;li&gt;iconos grandes com detalles como ayudas conextuales (Iconos Grandes, Vista Simple)&lt;/li&gt;
+    &lt;li&gt;iconos peque&amp;ntilde;os com detalles como ajudas contextuales (Iconos Peque&amp;ntilde;os, Vista Simple)&lt;/li&gt;
+    &lt;li&gt;iconos grandes com detalles como ajudas conextuales (Iconos Grandes, Vista Simple)&lt;/li&gt;
     &lt;li&gt;lista de iconos peque&amp;ntilde;os com detalles (Iconos Peuqe&amp;ntilde;os, Vista Detallada)&lt;/li&gt;
     &lt;li&gt;lista de iconos grandes com detalles (Iconos Grandes, Vista Detallada)&lt;/li&gt;
 &lt;/ul&gt;
@@ -98,23 +98,23 @@
     &lt;tbody&gt;
         &lt;tr&gt;
             &lt;td style="white-space: nowrap;"&gt;Nome da p&amp;aacute;gina&lt;/td&gt;
-            &lt;td&gt;O nome da p&amp;aacute;gina se muestra como um t&amp;iacute;tulo de enlace.&lt;/td&gt;
+            &lt;td&gt;O nome da p&amp;aacute;gina se mostra como um t&amp;iacute;tulo de link.&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td style="white-space: nowrap;"&gt;Descripci&amp;oacute;n da p&amp;aacute;gina&lt;/td&gt;
-            &lt;td&gt;A descripci&amp;oacute;n da p&amp;aacute;gina se muestra como ayuda contextual o detalle.&lt;/td&gt;
+            &lt;td&gt;A descripci&amp;oacute;n da p&amp;aacute;gina se mostra como ajuda contextual o detalle.&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td style="white-space: nowrap;"&gt;Desactivada&lt;/td&gt;
-            &lt;td&gt;Se a p&amp;aacute;gina tem a marca de "Desactivada" se mostrar&amp;aacute; o t&amp;iacute;tulo e uma lista das p&amp;aacute;ginas descendientes debajo.&lt;/td&gt;
+            &lt;td&gt;Se a p&amp;aacute;gina tem a marca de "Desactivada" se mostrar&amp;aacute; o t&amp;iacute;tulo e uma lista das p&amp;aacute;ginas descendentes em baixo.&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
-            &lt;td style="white-space: nowrap;"&gt;Icone&lt;/td&gt;
-            &lt;td&gt;Este icone se usa na vista de iconos peque&amp;ntilde;os.&lt;/td&gt;
+            &lt;td style="white-space: nowrap;"&gt;Ícone&lt;/td&gt;
+            &lt;td&gt;Este ícone se usa na vista de iconos peque&amp;ntilde;os.&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
-            &lt;td style="white-space: nowrap;"&gt;Icone grande&lt;/td&gt;
-            &lt;td&gt;Este icone se usa na vista de iconos grandes.&lt;/td&gt;
+            &lt;td style="white-space: nowrap;"&gt;Ícone grande&lt;/td&gt;
+            &lt;td&gt;Este ícone se usa na vista de iconos grandes.&lt;/td&gt;
         &lt;/tr&gt;
     &lt;/tbody&gt;
 &lt;/table&gt;
@@ -126,7 +126,7 @@
     &lt;tbody&gt;
         &lt;tr&gt;
             &lt;td style="white-space: nowrap;"&gt;Mostrar hijas de&lt;/td&gt;
-            &lt;td&gt;Seleccionando uma p&amp;aacute;gina se mostrar&amp;aacute;n todas as p&amp;aacute;ginas hijas de essa p&amp;aacute;gina. Dejar este campo em branco para mostrar todas as p&amp;aacute;ginas hijas da p&amp;aacute;gina atual.&lt;/td&gt;
+            &lt;td&gt;Seleccionando uma p&amp;aacute;gina se mostrar&amp;aacute;n todas as p&amp;aacute;ginas hijas de esta p&amp;aacute;gina. Dejar este campo em branco para mostrar todas as p&amp;aacute;ginas hijas da p&amp;aacute;gina atual.&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td style="white-space: nowrap;"&gt;Tama&amp;ntilde;o por omisi&amp;oacute;n de iconos&lt;/td&gt;
@@ -134,19 +134,19 @@
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td style="white-space: nowrap;"&gt;Permitir redimensionar iconos&lt;/td&gt;
-            &lt;td&gt;Permitir ao usuario redimensionar os iconos.&lt;/td&gt;
+            &lt;td&gt;Permitir ao usuário redimensionar os iconos.&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td style="white-space: nowrap;"&gt;Vista por omisi&amp;oacute;n&lt;/td&gt;
-            &lt;td&gt;Determina a vista por omisi&amp;oacute;n. A vista simple mostrar&amp;aacute; os iconos com descripções como ayudas contextuales. A vista detallada mostrar&amp;aacute; uma lista com descripções para cada elemento.&lt;/td&gt;
+            &lt;td&gt;Determina a vista por omisi&amp;oacute;n. A vista simple mostrar&amp;aacute; os iconos com descripções como ajudas contextuales. A vista detallada mostrar&amp;aacute; uma lista com descripções para cada item.&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td style="white-space: nowrap;"&gt;Permitir mudar vista&lt;/td&gt;
-            &lt;td&gt;Permitir ao usuario mudar entre vista detallada e simple.&lt;/td&gt;
+            &lt;td&gt;Permitir ao usuário mudar entre vista detallada e simple.&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
-            &lt;td style="white-space: nowrap;"&gt;Mostrar ayuda&lt;/td&gt;
-            &lt;td&gt;Mostrar um texto de ayuda com descripci&amp;oacute;n detallada quando pase por encima dos iconos na vista simple.&lt;/td&gt;
+            &lt;td style="white-space: nowrap;"&gt;Mostrar ajuda&lt;/td&gt;
+            &lt;td&gt;Mostrar um texto de ajuda com descripci&amp;oacute;n detallada quando pase por encima dos iconos na vista simple.&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td style="white-space: nowrap;"&gt;Ancho&lt;/td&gt;
@@ -154,14 +154,14 @@
         &lt;/tr&gt;
     &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;em&gt;Atenci&amp;oacute;n: pode prevenir que os usuarios cambien a vista da p&amp;aacute;gina desmarcando 'Permitir redimensi&amp;oacute;n de iconos' e 'Permitir mudar vista'.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Atenci&amp;oacute;n: pode prevenir que os usuários cambien a vista da p&amp;aacute;gina desmarcando 'Permitir redimensi&amp;oacute;n de iconos' e 'Permitir mudar vista'.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;</value>
   </data>
   <data name="Normal.Text">
     <value xml:space="preserve">Normal</value>
   </data>
   <data name="OrderTabsByHierarchy.Help">
-    <value xml:space="preserve">Se activa esta opção as páginas que tengan descendientes de ordenarán ao final da lista. De esta manera se  consigue que as páginas do mesmo nivel se muestren na mesma zona do módulo.</value>
+    <value xml:space="preserve">Se activa esta opção as páginas que tengan descendentes de ordenarão ao final da lista. De esta manera se  consigue que as páginas do mesmo nivel se muestren na mesma zona do módulo.</value>
   </data>
   <data name="OrderTabsByHierarchy.Text">
     <value xml:space="preserve">Ordenar según jerarquía</value>
@@ -170,7 +170,7 @@
     <value xml:space="preserve">Propietario</value>
   </data>
   <data name="ParentTab.Help">
-    <value xml:space="preserve">Seleccionando uma página visualizará todas as páginas hijas para essa página. Deixe este campo em branco para visualizar todas as páginas hija da página atual.</value>
+    <value xml:space="preserve">Seleccionando uma página visualizará todas as páginas hijas para esta página. Deixe este campo em branco para visualizar todas as páginas hija da página atual.</value>
   </data>
   <data name="ParentTab.Text">
     <value xml:space="preserve">Mostrar hijas de</value>
@@ -182,7 +182,7 @@
     <value xml:space="preserve">Vista detallada</value>
   </data>
   <data name="ShowTooltip.Help">
-    <value xml:space="preserve">Mostrar um texto alternativo com descripções quando pasamos sobre os iconos em vista simple.</value>
+    <value xml:space="preserve">Mostrar um texto alternativo com descripções quando passamos sobre os iconos em vista simple.</value>
   </data>
   <data name="ShowTooltip.Text">
     <value xml:space="preserve">Mostrar texto alternativo</value>
@@ -194,6 +194,6 @@
     <value xml:space="preserve">Configuração de visibilidade de páginas:</value>
   </data>
   <data name="User.Text">
-    <value xml:space="preserve">Usuario</value>
+    <value xml:space="preserve">Usuário</value>
   </data>
 </root>

@@ -49,14 +49,14 @@
     <value xml:space="preserve">Ordenar por</value>
   </data>
   <data name="GroupListTemplateText.Help">
-    <value xml:space="preserve">Pode modificar a planilha padrão para personalizar a visualização da lista de grupos.  Pode utilizar as etiquetas: &lt;br /&gt;
+    <value xml:space="preserve">Pode modificar o template padrão para personalizar a visualização da lista de grupos.  Pode utilizar as etiquetas: &lt;br /&gt;
 [groupitem:GroupName]&lt;br /&gt;
 [groupitem:GroupDescription]&lt;br /&gt;
 [groupitem:PhotoURL]&lt;br /&gt;
 [groupviewurl]&lt;br /&gt;</value>
   </data>
   <data name="GroupListTemplateText.Text">
-    <value xml:space="preserve">planilha de lista de grupos</value>
+    <value xml:space="preserve">template de lista de grupos</value>
   </data>
   <data name="GroupListUserGroups.Help">
     <value xml:space="preserve">Ative esta opção para mostrar solamente os grupos dos que o usuário é membro.</value>
@@ -74,7 +74,7 @@
     <value xml:space="preserve">Selecione a página donde os usuarios podrán ver um grupo em concreto.</value>
   </data>
   <data name="GroupViewTemplateText.Help">
-    <value xml:space="preserve">Pode modificar a planilha de visualização da lista de grupos. As opções disponívels son: &lt;br /&gt;
+    <value xml:space="preserve">Pode modificar o template de visualização da lista de grupos. As opções disponívels son: &lt;br /&gt;
 [groupitem:GroupName]&lt;br /&gt;
 [groupitem:GroupDescription]&lt;br /&gt;
 [groupitem:PhotoURL]&lt;br /&gt;

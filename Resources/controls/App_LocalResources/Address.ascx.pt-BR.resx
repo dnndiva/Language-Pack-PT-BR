@@ -61,10 +61,10 @@
     <value xml:space="preserve">Provincia</value>
   </data>
   <data name="plRegion.Help">
-    <value xml:space="preserve">Entre a región</value>
+    <value xml:space="preserve">Entre a regão</value>
   </data>
   <data name="plRegion.Text">
-    <value xml:space="preserve">Región:</value>
+    <value xml:space="preserve">Regão:</value>
   </data>
   <data name="plState.Help">
     <value xml:space="preserve">Selecione a provincia na lista</value>
@@ -73,7 +73,7 @@
     <value xml:space="preserve">Provincia:</value>
   </data>
   <data name="plStreet.Help">
-    <value xml:space="preserve">Entre a direção</value>
+    <value xml:space="preserve">Entre a endereço</value>
   </data>
   <data name="plStreet.Text">
     <value xml:space="preserve">Calle:</value>
@@ -103,7 +103,7 @@
     <value xml:space="preserve">A provincia é obrigatória</value>
   </data>
   <data name="RegionRequired.Text">
-    <value xml:space="preserve">A región é obrigatória</value>
+    <value xml:space="preserve">A regão é obrigatória</value>
   </data>
   <data name="StateRequired.Text">
     <value xml:space="preserve">O estado é obrigatório</value>

@@ -25,7 +25,7 @@
     <value xml:space="preserve">somente Administrador</value>
   </data>
   <data name="AdminTemplate.Error">
-    <value xml:space="preserve">Error analizando a planilha Admin</value>
+    <value xml:space="preserve">Error analizando o template Admin</value>
   </data>
   <data name="All.Text">
     <value xml:space="preserve">Todos</value>
@@ -1351,7 +1351,7 @@
     <value xml:space="preserve">Raíz do portal</value>
   </data>
   <data name="PortalTemplate.Error">
-    <value xml:space="preserve">Error analizando a planilha web do portal</value>
+    <value xml:space="preserve">Error analizando o template web do portal</value>
   </data>
   <data name="PotentialDangerousFile.Text" lastModified="2018-03-24 01:37:04">
     <value xml:space="preserve">foi adicionado um arquivo potencialmente peligroso ao sitio</value>
@@ -1865,6 +1865,6 @@
     <value xml:space="preserve">Aviso</value>
   </data>
   <data name="Yes.Text">
-    <value xml:space="preserve">Sí</value>
+    <value xml:space="preserve">Sim</value>
   </data>
 </root>

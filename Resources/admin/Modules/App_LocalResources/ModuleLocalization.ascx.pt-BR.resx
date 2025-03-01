@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="BindConfirm.Text">
-    <value xml:space="preserve">A vinculação a versão do idioma padrão eliminará o conteúdo das demás versões. Esta ação é irreversível. Está seguro que quer continuar?</value>
+    <value xml:space="preserve">A vinculação a versão do idioma padrão eliminará o conteúdo das demais versões. Esta ação é irreversível. Está seguro que quer continuar?</value>
   </data>
   <data name="bindModule.Text">
     <value xml:space="preserve">Referência ao idioma padrão</value>

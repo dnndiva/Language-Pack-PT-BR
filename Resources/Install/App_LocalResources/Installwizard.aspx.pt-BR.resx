@@ -142,7 +142,7 @@
     <value>Continuar</value>
   </data>
   <data name="Confirm.Help" xml:space="preserve">
-    <value>Confirme a contrasenha introducida na caja inferior.</value>
+    <value>Confirme a contrasenha introducida na caixa inferior.</value>
   </data>
   <data name="Confirm.Required" xml:space="preserve">
     <value>A confirmação da contrasenha é obrigatória</value>
@@ -205,10 +205,10 @@
     <value>Contrasenha</value>
   </data>
   <data name="DatabaseRunAs.Help" xml:space="preserve">
-    <value>Ejecutar base de datos como tipo do usuário indicado.</value>
+    <value>Executar base de datos como tipo do usuário indicado.</value>
   </data>
   <data name="DatabaseRunAs.Text" xml:space="preserve">
-    <value>Ejecutar base de datos como</value>
+    <value>Executar base de datos como</value>
   </data>
   <data name="DatabaseSecurity.Help" xml:space="preserve">
     <value>Selecione o tipo de seguridade utilizada pela base de datos.</value>
@@ -316,7 +316,7 @@ Utilice o Explorador de Windows para ver as pastas de su sitio web ( {0} ). Vá 
     <value>O nome contém caracteres não válidos (somente se permite a-Z, 0-9, - e . ).  Modifique o nome que foi introducido.</value>
   </data>
   <data name="IISVerificationFail.Text" xml:space="preserve">
-    <value>O grupo de aplicações de IIS tem que ejecutarse em modo Integrado</value>
+    <value>O grupo de aplicações de IIS tem que executarse em modo Integrado</value>
   </data>
   <data name="ImprovementProgramExplain.Text" xml:space="preserve">
     <value>O programa de mejoras do producto nos permite entender mejor como mejorar DNN para usted. Os datos enviados nos ayudarán a analizar o uso e o que é más importante para os usuarios do producto. Todos os datos enviados son anónimos e para uso interno. Ver más informação sobre o &lt;a href="http://www.dnnsoftware.com/dnn-improvement-program" target="_blank"&gt;Programa de Mejoras do Producto&lt;/a&gt;.</value>
@@ -478,16 +478,16 @@ Utilice o Explorador de Windows para ver as pastas de su sitio web ( {0} ). Vá 
     <value>Creação do superusuario</value>
   </data>
   <data name="TemplateBlank.Text" xml:space="preserve">
-    <value>planilha em branco</value>
+    <value>template em branco</value>
   </data>
   <data name="TemplateDefault.Text" xml:space="preserve">
-    <value>planilha predeterminada</value>
+    <value>template predeterminada</value>
   </data>
   <data name="TemplateMobile.Text" xml:space="preserve">
-    <value>planilha móvil</value>
+    <value>template móvil</value>
   </data>
   <data name="TemplateSolutions.Text" xml:space="preserve">
-    <value>planilha de soluções</value>
+    <value>template de soluções</value>
   </data>
   <data name="TestingDatabase.Text" xml:space="preserve">
     <value>Verificando conexión a base de datos</value>
@@ -541,7 +541,7 @@ Utilice o Explorador de Windows para ver as pastas de su sitio web ( {0} ). Vá 
     <value>Selecione o tipo de sitio web que quiere configurar.</value>
   </data>
   <data name="WebsiteTemplate.Text" xml:space="preserve">
-    <value>planilha</value>
+    <value>template</value>
   </data>
   <data name="DotNetVersion472Required.Text" xml:space="preserve">
     <value>Se requiere .Net Framework 4.7.2. Verifique as actualizações de Windows antes de continuar.</value>

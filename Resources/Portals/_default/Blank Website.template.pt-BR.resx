@@ -16,7 +16,7 @@
     <value xml:space="preserve">Sitio web em branco</value>
   </data>
   <data name="PortalDescription.Text">
-    <value xml:space="preserve">planilha de sitio web em branco</value>
+    <value xml:space="preserve">template de sitio web em branco</value>
   </data>
   <data name="RoleGroup.Description.Text">
     <value xml:space="preserve">Um grupo de roles que representa os roles globales</value>

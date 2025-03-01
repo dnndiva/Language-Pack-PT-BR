@@ -73,7 +73,7 @@
     <value xml:space="preserve">Volver a configuração de página</value>
   </data>
   <data name="BadTemplate.Text">
-    <value xml:space="preserve">A planilha não é um documento xml válido. Selecione uma planilha distinta e vuelva a intentarlo.</value>
+    <value xml:space="preserve">O template não é um documento xml válido. Selecione umo template distinta e vuelva a intentarlo.</value>
   </data>
   <data name="BranchParent.Text">
     <value xml:space="preserve">Página principal</value>
@@ -301,7 +301,7 @@
     <value xml:space="preserve">Redirigir a uma página do portal.</value>
   </data>
   <data name="ExportedMessage.Text">
-    <value xml:space="preserve">foi creado a planilha de página em {0}</value>
+    <value xml:space="preserve">foi creado o template de página em {0}</value>
   </data>
   <data name="ExternalRedirectionUrlRequired.Text" lastModified="2018-03-22 00:24:20">
     <value xml:space="preserve">A URL é obrigatória.</value>
@@ -331,7 +331,7 @@
     <value xml:space="preserve">Pasta</value>
   </data>
   <data name="FolderTooltip.Text">
-    <value xml:space="preserve">Selecione a pasta donde quiera guardar a planilha.</value>
+    <value xml:space="preserve">Selecione a pasta donde quiera guardar o template.</value>
   </data>
   <data name="GeneratedBy.Text">
     <value xml:space="preserve">Generado por</value>
@@ -1452,7 +1452,7 @@
     <value xml:space="preserve">Guardar</value>
   </data>
   <data name="SaveAsTemplate.Text">
-    <value xml:space="preserve">Guardar como planilha</value>
+    <value xml:space="preserve">Guardar como template</value>
   </data>
   <data name="Search.Text">
     <value xml:space="preserve">Buscar</value>
@@ -1491,7 +1491,7 @@
     <value xml:space="preserve">Configuração</value>
   </data>
   <data name="SharedModule.Text" lastModified="2020-05-08 16:52:16">
-    <value xml:space="preserve">Compartido: sí</value>
+    <value xml:space="preserve">Compartido: Sim</value>
   </data>
   <data name="Site.Text">
     <value xml:space="preserve">Sitio</value>
@@ -1545,13 +1545,13 @@
     <value xml:space="preserve">Filtrar por etiquetas</value>
   </data>
   <data name="TemplateDescriptionTooltip.Text">
-    <value xml:space="preserve">Introduzca uma descripção para esta planilha.</value>
+    <value xml:space="preserve">Introduzca uma descripção para esto template.</value>
   </data>
   <data name="TemplateName.Text">
-    <value xml:space="preserve">Nome da planilha</value>
+    <value xml:space="preserve">Nome do template</value>
   </data>
   <data name="TemplateNameTooltip.Text">
-    <value xml:space="preserve">Introduzca um nome para a planilha de página.</value>
+    <value xml:space="preserve">Introduzca um nome para o template de página.</value>
   </data>
   <data name="Title.Label">
     <value xml:space="preserve">Título</value>

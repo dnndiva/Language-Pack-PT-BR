@@ -201,7 +201,7 @@
     <value xml:space="preserve">Eliminar</value>
   </data>
   <data name="recyclebin_DeleteConfirm.Text">
-    <value xml:space="preserve">Sí</value>
+    <value xml:space="preserve">Sim</value>
   </data>
   <data name="recyclebin_DeletedDate.Text">
     <value xml:space="preserve">Data</value>
@@ -300,7 +300,7 @@
     <value xml:space="preserve">Usuarios</value>
   </data>
   <data name="recyclebin_YesConfirm.Text">
-    <value xml:space="preserve">Sí</value>
+    <value xml:space="preserve">Sim</value>
   </data>
   <data name="Service_EmptyRecycleBinError.Text">
     <value xml:space="preserve">Alguno dos elementos não foi eliminado.</value>

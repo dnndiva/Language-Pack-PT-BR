@@ -16,7 +16,7 @@
     <value xml:space="preserve">Privado</value>
   </data>
   <data name="$this.TrayAutoArrange" lastModified="2015-12-27 04:10:55">
-    <value xml:space="preserve">Sí</value>
+    <value xml:space="preserve">Sim</value>
   </data>
   <data name="$this.TrayLargeIcon" lastModified="2015-12-27 04:10:55">
     <value xml:space="preserve">Não</value>
@@ -235,10 +235,10 @@
     <value xml:space="preserve">Estilos do editor</value>
   </data>
   <data name="lblTemplates.Text" lastModified="2015-12-27 06:24:11">
-    <value xml:space="preserve">planilhas do editor</value>
+    <value xml:space="preserve">templates do editor</value>
   </data>
   <data name="lblTemplFiles.Text" lastModified="2015-12-27 06:24:11">
-    <value xml:space="preserve">Arquivo de planilhas do editor:</value>
+    <value xml:space="preserve">Arquivo de templates do editor:</value>
   </data>
   <data name="lblToolbarList.Text" lastModified="2015-12-27 06:24:11">
     <value xml:space="preserve">Lista de barras personalizadas:</value>

@@ -23,7 +23,7 @@
     <value xml:space="preserve">Personalizar CSS</value>
   </data>
   <data name="RestoreButton.Text">
-    <value xml:space="preserve">Sí</value>
+    <value xml:space="preserve">Sim</value>
   </data>
   <data name="RestoreDefault.Text">
     <value xml:space="preserve">Restaurar predeterminado</value>

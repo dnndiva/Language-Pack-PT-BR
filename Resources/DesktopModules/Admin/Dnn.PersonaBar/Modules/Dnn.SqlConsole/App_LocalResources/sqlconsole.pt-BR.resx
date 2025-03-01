@@ -80,7 +80,7 @@
     <value xml:space="preserve">Consulta {0}</value>
   </data>
   <data name="RunScript.Text">
-    <value xml:space="preserve">Ejecutar script</value>
+    <value xml:space="preserve">Executar script</value>
   </data>
   <data name="SaveQuery.Text">
     <value xml:space="preserve">Guardar consulta</value>

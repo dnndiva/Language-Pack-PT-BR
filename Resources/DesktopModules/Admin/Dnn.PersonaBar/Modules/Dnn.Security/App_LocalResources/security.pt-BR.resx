@@ -196,13 +196,13 @@
     <value xml:space="preserve">Todos os portais utilizan registro não público.</value>
   </data>
   <data name="CheckSqlRiskFailure.Text">
-    <value xml:space="preserve">A conexión atual de SQL pode ejecutar comandos peligrosos em su servidor SQL.</value>
+    <value xml:space="preserve">A conexión atual de SQL pode executar comandos peligrosos em su servidor SQL.</value>
   </data>
   <data name="CheckSqlRiskName.Text">
     <value xml:space="preserve">Verificar permissões da conta SQL</value>
   </data>
   <data name="CheckSqlRiskReason.Text">
-    <value xml:space="preserve">Se a conta SQL Server não se configura corretamente, há riesgo de que os hackers puedan ejecutar scripts não servidor.</value>
+    <value xml:space="preserve">Se a conta SQL Server não se configura corretamente, há riesgo de que os hackers puedan executar scripts não servidor.</value>
   </data>
   <data name="CheckSqlRiskSuccess.Text">
     <value xml:space="preserve">Configuração da conta SQL Server correta.</value>
@@ -340,7 +340,7 @@
     <value xml:space="preserve">{0} não pode estar vazio.</value>
   </data>
   <data name="ExecuteCommand.Error">
-    <value xml:space="preserve">A conta SQL Server pode ejecutar xp_cmdshell que permite ejecutar programas na línea de comandos do servidor SQL Server.</value>
+    <value xml:space="preserve">A conta SQL Server pode executar xp_cmdshell que permite executar programas na línea de comandos do servidor SQL Server.</value>
   </data>
   <data name="Fail.Text">
     <value xml:space="preserve">FALLO</value>
@@ -358,7 +358,7 @@
     <value xml:space="preserve">Nome</value>
   </data>
   <data name="GetFolderTree.Error">
-    <value xml:space="preserve">A conta SQL Server pode ejecutar xp_dirtree que permite ver a estrutura de pastas do servidor SQL Server.</value>
+    <value xml:space="preserve">A conta SQL Server pode executar xp_dirtree que permite ver a estrutura de pastas do servidor SQL Server.</value>
   </data>
   <data name="GlobalSetting.Text">
     <value xml:space="preserve">Este um parámetro global. Os cambios afectarán a todos os portais da instalação.</value>
@@ -793,7 +793,7 @@
     <value xml:space="preserve">Utilizar contrasenhas aleatorias</value>
   </data>
   <data name="Registration_RequireConfirmPassword.Help">
-    <value xml:space="preserve">Marque esta opção para mostrar uma caja de confirmação da contrasenha não registro.</value>
+    <value xml:space="preserve">Marque esta opção para mostrar uma caixa de confirmação da contrasenha não registro.</value>
   </data>
   <data name="Registration_RequireConfirmPassword.Text">
     <value xml:space="preserve">Utilizar confirmação de contrasenha</value>
@@ -811,7 +811,7 @@
     <value xml:space="preserve">Utilizar provedores de autenticação</value>
   </data>
   <data name="Registration_UseEmailAsUserName.Help">
-    <value xml:space="preserve">Marque esta opção para utilizar o EMail como nome do usuário. Si marca esta opção não se mostrará a caja de nome do usuário não registro.</value>
+    <value xml:space="preserve">Marque esta opção para utilizar o EMail como nome do usuário. Si marca esta opção não se mostrará a caixa de nome do usuário não registro.</value>
   </data>
   <data name="Registration_UseEmailAsUserName.Text">
     <value xml:space="preserve">Utilizar o EMail como nome do usuário</value>
@@ -1045,6 +1045,6 @@
     <value xml:space="preserve">Verificado</value>
   </data>
   <data name="Yes.Text">
-    <value xml:space="preserve">Sí</value>
+    <value xml:space="preserve">Sim</value>
   </data>
 </root>

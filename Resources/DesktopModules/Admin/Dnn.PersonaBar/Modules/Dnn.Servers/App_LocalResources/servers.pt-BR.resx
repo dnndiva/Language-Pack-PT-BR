@@ -154,7 +154,7 @@
     <value xml:space="preserve">Permissões CAS:</value>
   </data>
   <data name="HostInfo_SchedulerMode.Help">
-    <value xml:space="preserve">O método de temporizador mantiene um hilo separado para ejecutar tareas mientras o trabalho activo sigue ejecutándose. O método de petição ejecuta as tareas quando foicen petições HTTP. Pode desabilitar o programador seleccionando Desactivar.</value>
+    <value xml:space="preserve">O método de temporizador mantiene um hilo separado para executar tareas mientras o trabalho activo sigue ejecutándose. O método de petição ejecuta as tareas quando foicen petições HTTP. Pode desabilitar o programador seleccionando Desactivar.</value>
   </data>
   <data name="HostInfo_SchedulerMode.Text">
     <value xml:space="preserve">Modo do programador:</value>
@@ -302,7 +302,7 @@ Está seguro que quer incrementar o número de versão do portal?</value>
     <value xml:space="preserve">Não</value>
   </data>
   <data name="PerformanceTab_PortalVersionConfirmYes.Text">
-    <value xml:space="preserve">Sí</value>
+    <value xml:space="preserve">Sim</value>
   </data>
   <data name="PerformanceTab_SiteClientResourcesManagementMode.Text">
     <value xml:space="preserve">Mi sitio {0}</value>

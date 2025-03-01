@@ -394,13 +394,13 @@
   </data>
   <data name="Prompt_DeleteUser_ResultHtml.Text" lastModified="2018-03-24 06:46:23">
     <value xml:space="preserve">&lt;h4&gt;Elimina um usuario&lt;/h4&gt;
-    &lt;p&gt;O ejemplo elimina o usuário com o ID 345. Em este momento o usuário todavía não está eliminado definitivamente e se pode encontrar o a papelera de reciclagem. Pode utilizar o comando &lt;code&gt;get-user 345&lt;/code&gt; para ver os detalles do usuario e comprobar que &lt;code&gt;IsDeleted&lt;/code&gt; é ahora cierto. Pode utilizar luego o comando &lt;code&gt;restore-user&lt;/code&gt;para recuperar o usuário o hacerlo mediante o interfaz do usuário de DNN. Se quiser eliminar definitivamente o usuário, tem que ejecutar um segundo comando: &lt;code&gt;purge-user&lt;/code&gt;&lt;/p&gt;
+    &lt;p&gt;O ejemplo elimina o usuário com o ID 345. Em este momento o usuário todavía não está eliminado definitivamente e se pode encontrar o a papelera de reciclagem. Pode utilizar o comando &lt;code&gt;get-user 345&lt;/code&gt; para ver os detalles do usuario e comprobar que &lt;code&gt;IsDeleted&lt;/code&gt; é ahora cierto. Pode utilizar luego o comando &lt;code&gt;restore-user&lt;/code&gt;para recuperar o usuário o hacerlo mediante o interfaz do usuário de DNN. Se quiser eliminar definitivamente o usuário, tem que executar um segundo comando: &lt;code&gt;purge-user&lt;/code&gt;&lt;/p&gt;
     &lt;code class="block"&gt;delete-user 345&lt;/code&gt;
     &lt;p&gt;Este ejemplo é uma forma más explícita da mesma ação.&lt;/p&gt;
     &lt;code class="block"&gt;delete-user --id 345&lt;/code&gt;
 
     &lt;h4&gt;Eliminar um usuario e enviar uma notificação&lt;/h4&gt;
-    &lt;p&gt;O ejemplo elimina o usuário com o ID 345 e envía uma notificação. Igual que não caso anterior, o usuário todavía não está eliminado definitivamente do portal. Se quiser eliminar definitivamente o usuário, tem que ejecutar um segundo comando: &lt;code&gt;purge-user&lt;/code&gt;&lt;/p&gt;
+    &lt;p&gt;O ejemplo elimina o usuário com o ID 345 e envía uma notificação. Igual que não caso anterior, o usuário todavía não está eliminado definitivamente do portal. Se quiser eliminar definitivamente o usuário, tem que executar um segundo comando: &lt;code&gt;purge-user&lt;/code&gt;&lt;/p&gt;
     &lt;code class="block"&gt;delete-user 345 --notify true&lt;/code&gt;
     &lt;p&gt;Este ejemplo é uma forma más explícita da mesma ação.&lt;/p&gt;
     &lt;code class="block"&gt;delete-user --id 345 --notify true&lt;/code&gt;</value>
@@ -1104,7 +1104,7 @@
     <value xml:space="preserve">Activado</value>
   </data>
   <data name="True.Text" lastModified="2017-04-26 23:31:48">
-    <value xml:space="preserve">Sí</value>
+    <value xml:space="preserve">Sim</value>
   </data>
   <data name="UnAuthorized.Text">
     <value xml:space="preserve">Não autorizados</value>

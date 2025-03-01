@@ -16,7 +16,7 @@
     <value xml:space="preserve">Privado</value>
   </data>
   <data name="$this.TrayAutoArrange" lastModified="2015-12-27 09:49:09">
-    <value xml:space="preserve">Sí</value>
+    <value xml:space="preserve">Sim</value>
   </data>
   <data name="$this.TrayLargeIcon" lastModified="2015-12-27 09:49:09">
     <value xml:space="preserve">Não</value>

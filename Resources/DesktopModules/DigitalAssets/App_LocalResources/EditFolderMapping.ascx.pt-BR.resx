@@ -55,7 +55,7 @@
     <value xml:space="preserve">- Selecione um fornecedor -</value>
   </data>
   <data name="SyncWarning.Text">
-    <value xml:space="preserve">Después de guardar um tipo de pasta, se ejecutará uma sincronização nas pastas deste tipo. Isto pode llevar algún tempo, dependiendo do número de pastas que coincidan com os criterios.</value>
+    <value xml:space="preserve">Después de guardar um tipo de pasta, se executará uma sincronização nas pastas deste tipo. Isto pode llevar algún tempo, dependiendo do número de pastas que coincidan com os criterios.</value>
   </data>
   <data name="Update.Text">
     <value xml:space="preserve">Guardar</value>

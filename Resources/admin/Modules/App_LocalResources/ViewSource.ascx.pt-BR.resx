@@ -25,7 +25,7 @@
     <value xml:space="preserve">Selecione o arquivo cujo código deseja ver.</value>
   </data>
   <data name="plFile.Text">
-    <value xml:space="preserve">Selecionar Arquivo:</value>
+    <value xml:space="preserve">Selecionar arquivo:</value>
   </data>
   <data name="plSource.Help">
     <value xml:space="preserve">Veja o código fonte do controle de módulo na caixa de texto abaixo. Se já estiver sendo executado em uma máquina local, o código fonte também poderá ser editadp e modificado.</value>

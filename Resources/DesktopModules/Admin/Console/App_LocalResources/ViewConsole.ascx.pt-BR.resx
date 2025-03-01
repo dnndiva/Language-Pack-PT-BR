@@ -25,10 +25,10 @@
     <value xml:space="preserve">Iconos grandes</value>
   </data>
   <data name="IconNone.Text">
-    <value xml:space="preserve">Sin iconos</value>
+    <value xml:space="preserve">Sem iconos</value>
   </data>
   <data name="ModuleHelp.Text">
-    <value xml:space="preserve">&lt;p&gt;Haga clic sobre um elemento para navegar a essa página.&lt;/p&gt;</value>
+    <value xml:space="preserve">&lt;p&gt;Clique aqui sobre um item para navegar a esta página.&lt;/p&gt;</value>
   </data>
   <data name="Show.Text">
     <value xml:space="preserve">Vista detallada</value>

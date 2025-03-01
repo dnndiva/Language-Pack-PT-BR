@@ -13,10 +13,10 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="alternateItemTemplateLabel.Help">
-    <value xml:space="preserve">A planilha de elementos alternos se utiliza para representar os detalles dos miembros alternos. Si se deja vazio a planilha do elemento se utiliza para todos os miembros.</value>
+    <value xml:space="preserve">O template de elementos alternos se utiliza para representar os detalles dos miembros alternos. Si se deja vazio o template do elemento se utiliza para todos os miembros.</value>
   </data>
   <data name="alternateItemTemplateLabel.Text">
-    <value xml:space="preserve">planilha de elemento alterno</value>
+    <value xml:space="preserve">template de elemento alterno</value>
   </data>
   <data name="Ascending.Text">
     <value xml:space="preserve">Ascendente</value>
@@ -70,7 +70,7 @@
     <value xml:space="preserve">Email</value>
   </data>
   <data name="enablePopUpLabel.Help">
-    <value xml:space="preserve">Ative esta opção para activar a planilha emergente.</value>
+    <value xml:space="preserve">Ative esta opção para activar o template emergente.</value>
   </data>
   <data name="enablePopUpLabel.Text">
     <value xml:space="preserve">Activar ventana emergente:</value>
@@ -103,10 +103,10 @@
     <value xml:space="preserve">IM</value>
   </data>
   <data name="itemTemplateLabel.Help">
-    <value xml:space="preserve">A planilha de elemento se utiliza para representar os detalles acerca do membro.</value>
+    <value xml:space="preserve">O template de elemento se utiliza para representar os detalles acerca do membro.</value>
   </data>
   <data name="itemTemplateLabel.Text">
-    <value xml:space="preserve">planilha de elemento:</value>
+    <value xml:space="preserve">template de elemento:</value>
   </data>
   <data name="LastName.Text">
     <value xml:space="preserve">Apellidos</value>
@@ -130,10 +130,10 @@
     <value xml:space="preserve">Opções de paginação</value>
   </data>
   <data name="popUpTemplateLabel.Help">
-    <value xml:space="preserve">A planilha emergente que se utiliza para representar um detalle dos distintos miembros dentro de uma ventana emergente.</value>
+    <value xml:space="preserve">O template emergente que se utiliza para representar um detalle dos distintos miembros dentro de uma ventana emergente.</value>
   </data>
   <data name="popUpTemplateLabel.Text">
-    <value xml:space="preserve">planilha emergente:</value>
+    <value xml:space="preserve">template emergente:</value>
   </data>
   <data name="PostalCode.Text">
     <value xml:space="preserve">Código postal</value>
@@ -202,7 +202,7 @@
     <value xml:space="preserve">Teléfono</value>
   </data>
   <data name="Templates.Text">
-    <value xml:space="preserve">planilhas</value>
+    <value xml:space="preserve">templates</value>
   </data>
   <data name="TimeZone.Text">
     <value xml:space="preserve">Zona horaria</value>

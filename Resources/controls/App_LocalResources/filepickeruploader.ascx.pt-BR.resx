@@ -13,7 +13,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DropFile.Text">
-    <value xml:space="preserve">Arrastre os Arquivos aquí</value>
+    <value xml:space="preserve">Arrastre os arquivos aqui</value>
   </data>
   <data name="File.Text">
     <value xml:space="preserve">Arquivo:</value>
@@ -22,6 +22,6 @@
     <value xml:space="preserve">Pasta:</value>
   </data>
   <data name="UploadFile.Text">
-    <value xml:space="preserve">Cargar Arquivos</value>
+    <value xml:space="preserve">Enviar arquivos</value>
   </data>
 </root>
